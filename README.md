@@ -1,1 +1,2 @@
 # public
+use loseless compression
