@@ -38,3 +38,4 @@ https://en.wikipedia.org/wiki/Father
 *.kaufland.com
 *.carrefour.com
 *.cia.gov
+*.hcore.com
