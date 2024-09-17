@@ -43,3 +43,4 @@ https://en.wikipedia.org/wiki/Father
 *.x.com
 *.twitter.com
 *.inwertech.com
+*.reddit.com
