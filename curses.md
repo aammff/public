@@ -23,3 +23,7 @@
 *.tiktok.com
 *.instagram.com
 *.linkedin.com
+*.patinospotions.com
+*.alooshua.com
+*.jw.org
+*.colgate.com
