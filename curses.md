@@ -42,3 +42,4 @@ https://en.wikipedia.org/wiki/Father
 *.nec-labs.com
 *.x.com
 *.twitter.com
+*.inwertech.com
