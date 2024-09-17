@@ -33,3 +33,5 @@ https://pl.wikipedia.org/wiki/PBS_Finanse
 *.un.org
 *.un.int
 *.cisco.com
+*.kaufland.com
+*.carrefour.com
