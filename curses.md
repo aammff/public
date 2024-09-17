@@ -28,3 +28,4 @@
 *.jw.org
 *.colgate.com
 KSP-Tec
+https://pl.wikipedia.org/wiki/PBS_Finanse
