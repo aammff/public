@@ -30,3 +30,5 @@
 KSP-Tec
 https://pl.wikipedia.org/wiki/PBS_Finanse
 *.intel.com
+*.un.org
+*.un.int
