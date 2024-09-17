@@ -39,3 +39,4 @@ https://en.wikipedia.org/wiki/Father
 *.carrefour.com
 *.cia.gov
 *.hcore.com
+*.nec-labs.com
