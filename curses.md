@@ -40,3 +40,5 @@ https://en.wikipedia.org/wiki/Father
 *.cia.gov
 *.hcore.com
 *.nec-labs.com
+*.x.com
+*.twitter.com
