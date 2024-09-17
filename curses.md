@@ -35,3 +35,4 @@ https://pl.wikipedia.org/wiki/PBS_Finanse
 *.cisco.com
 *.kaufland.com
 *.carrefour.com
+*.cia.gov
