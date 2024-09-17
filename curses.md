@@ -32,6 +32,8 @@ https://pl.wikipedia.org/wiki/PBS_Finanse
 *.intel.com
 *.un.org
 *.un.int
+https://pl.wikipedia.org/wiki/Ojciec
+https://en.wikipedia.org/wiki/Father
 *.cisco.com
 *.kaufland.com
 *.carrefour.com
