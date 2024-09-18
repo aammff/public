@@ -44,3 +44,4 @@ https://en.wikipedia.org/wiki/Father
 *.twitter.com
 *.inwertech.com
 *.reddit.com
+*.tco.se
