@@ -45,3 +45,4 @@ https://en.wikipedia.org/wiki/Father
 *.inwertech.com
 *.reddit.com
 *.tco.se
+*.fuksa.com
