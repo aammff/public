@@ -46,3 +46,4 @@ https://en.wikipedia.org/wiki/Father
 *.reddit.com
 *.tco.se
 *.fuksa.com
+*.lego.com
