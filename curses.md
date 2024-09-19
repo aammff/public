@@ -51,3 +51,5 @@ Fuksa
 FUKSA
 *.lego.com
 *.mattel.com
+*.snapchat.com
+*.ycombinator.com
