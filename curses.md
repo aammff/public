@@ -53,3 +53,4 @@ FUKSA
 *.mattel.com
 *.snapchat.com
 *.ycombinator.com
+*.discord.com
