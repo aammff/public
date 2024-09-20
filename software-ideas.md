@@ -1,1 +1,1 @@
-ensure kanji pixels caligraphic ordering 
+ensure kanji pixels rendering caligraphic ordering 
