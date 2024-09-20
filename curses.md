@@ -54,3 +54,4 @@ FUKSA
 *.snapchat.com
 *.ycombinator.com
 *.discord.com
+concave mirrors fitters/installers
