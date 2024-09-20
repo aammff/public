@@ -14,3 +14,5 @@ my mother died of not natural causes.
 a high school friend got murdered.
 
 my private possesions were stolen.
+
+https://news.ycombinator.com/user?id=iamnotsure
