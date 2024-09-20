@@ -28,3 +28,20 @@ z kolei mnie, dyrek do swojego znajomego zaprowadził (http://www.cti.pl/ artur 
 pamiętam, że jako osoba z tytułem naukowym dyrek wzbudzał respekt (wśród małokumatych jeszcze wtedy uczniów), po latach wniosek mam taki, że fizycy informatyki uczyć nie powinni, bo się na tym nie znają. natomiast szkolnictwo obowiązkowe uważam za pomyłkę, a to co się działo w v-lo poddaje w wątpliwość sens koedukacji; wystarczy jeden zboczeniec i całe liceum przez kilka lat jest przez niego ustawiane, osobnicy/uczniowie obydwu płci głupieją, ze względu na sytuację zwierzchnictwa.
 
 mam teorię, że sporo informatyków było "zatrudnianych" nie ze względu na jakieś szczególne umiejętności, ale ze względu na młodociany wiek; im byłem starszy, tym w praktyce trudniej było mi uzyskać zatrudnienie, a blisko 40stki stało się już to niemożliwe, mimo tego, że teoretycznie "wiedziałem" (miałem większą "wiedzę" i "doświadczenie") przecież więcej. po prostu ludzie kupują różne rzeczy nie tylko ze względu na jakąś potrzebę, ale np. tylko dlatego że w firmie "pracują" młodzi chłopcy albo dziewczęta. a można przypuszczać, że to nie tylko o kupowanie "różnych rzeczy" chodzi. na myśl przychodzi słowo stręczycielstwo, czy jakaś jego odmiana. takie wnioski z paredziesięciu lat w "branży" IT. wychodzi stąd, że w zasadzie informatycy w wielu przypadkach to tzw. dziwki/prostytutki, po 40stce "kariera" się kończy. 
+
+po latach okazało się, że o ile mnie zgwałcili w szpitalu w brzozowie (przeklinam, przeklinam, calusieńki brzozów, syćko syćko, i szpital i lekarzy i w ogóle) po podaniu narkotyków, to koledzy pisali granty z https://apacz.matinf.uj.edu.pl/grants/98 "Kolonoskopia -Innowacyjna diagnostyka umożliwiająca personalizacje procesu leczenia poprzez opracowanie rozwiązania wspomagające badania kolonoskopowe, podnoszącego wykrywalność stanów przedrakowych nowotworów jelita grubego o niskim stadium zaawansowania
+
+Instytucja Finansująca / Przyznający: NCBiR
+
+Tytuł: Kolonoskopia -Innowacyjna diagnostyka umożliwiająca personalizacje procesu leczenia poprzez opracowanie rozwiązania wspomagające badania kolonoskopowe, podnoszącego wykrywalność stanów przedrakowych nowotworów jelita grubego o niskim stadium zaawansowania
+
+Kierownik: Marek Zaionc
+
+Rozpoczęcie: 2014-07-01
+
+Zakończenie: 2017-12-31"
+
+informatyka praktyczna a teoretyczna. co wy wiecie o klozecie.
+
+przypadeg? nie sadze, nie pale, nie legalizuje, bo się jeszcze karboksyluje
+
