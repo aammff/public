@@ -49,4 +49,4 @@ moje zdjęcie do albumu klasowego marek cygan najzwyczajniej w świecie zajebał
 
 aż mi się pani od mat-uj "dwa grzybki w barszcz (b+?)" z uj przypomniała, jak mnie przesadziła jak kwiatek, bo za dobrze cośtam napisałem, ale może po prostu myślowo-mentalnie ściągałem od wszystkich kolegów i koleżanek jednocześnie i na raz na świecie, nie takie rzeczy odchodzą. w tej krainie llmów i słowników statystycznych (google spierdolił z krakowskiego rynku).
 
-zależnie jak się komu cache przeliczają, to jak odwiedzi biuro googla w warszawie i dotknie ich samochodu (a co, zjeżdzalnie i samochodziki), to już więcej żadnego innego biura nie odwiedzi, takie triki. googlerzy to kanałami powinni chodzić. jakby ktoś miał wątpliwości po co google tyle osób zaprasza raz po raz.
+zależnie jak się komu cache przeliczają, to jak odwiedzi biuro googla w warszawie i dotknie ich samochodu (a co, zjeżdzalnie i samochodziki), to już więcej żadnego innego biura nie odwiedzi, takie triki. googlerzy to kanałami powinni chodzić. jakby ktoś miał wątpliwości po co google tyle osób zaprasza raz po raz. kij ma dwa końce - DSP i SSP; to prawie jak BCI i LED.
