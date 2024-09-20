@@ -45,3 +45,6 @@ informatyka praktyczna a teoretyczna. co wy wiecie o klozecie.
 
 przypadeg? nie sadze, nie pale, nie legalizuje, bo się jeszcze karboksyluje
 
+moje zdjęcie do albumu klasowego marek cygan najzwyczajniej w świecie zajebał (ryzyk - fizyk), z tego tytułu również i jego przeklinam.
+
+aż mi się pani od mat-uj "dwa grzybki w barszcz (b+?)" z uj przypomniała, jak mnie przesadziła jak kwiatek, bo za dobrze cośtam napisałem, ale może po prostu myślowo-mentalnie ściągałem od wszystkich kolegów i koleżanek jednocześnie i na raz na świecie, nie takie rzeczy odchodzą. w tej krainie llmów i słowników statystycznych (google spierdolił z krakowskiego rynku).
