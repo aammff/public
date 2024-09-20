@@ -58,3 +58,4 @@ concave mirrors fitters/installers
 błaszkowski
 Błaszkowski
 BŁASZKOWSKI
+*.interpol.int
