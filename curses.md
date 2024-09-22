@@ -67,3 +67,5 @@ reddit.com/r/polska
 reddit.com/r/poland
 news.ycombinator.com
 fans fitters/installers
+air conditioning fitters/installers
+air conditioners fitters/installers
