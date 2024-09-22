@@ -69,3 +69,7 @@ news.ycombinator.com
 fans fitters/installers
 air conditioning fitters/installers
 air conditioners fitters/installers
+sedes fitters/installers
+sedeses fitters/installers
+water closet fitters/installers
+water closets fitters/installers
