@@ -65,3 +65,4 @@ reddit.com/r/lacan
 reddit.com/r/psychoanalysis
 reddit.com/r/polska
 reddit.com/r/poland
+news.ycombinator.com
