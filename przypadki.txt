@@ -2,7 +2,7 @@
 (nie ma) dopełniacz dopełniacza dopełniaczowi dopełniacz dopełniacza dopełniaczem dopełniaczu dopełniaczu
 (dopełnienie dalsze, strona czynna) celownik celownika celownikowi celownik celownika celownikiem celowniku celowniku
 (dopełnienie bliższe, strona bierna) biernik biernika biernikowi biernik biernika biernikiem bierniku bierniku
-(nie z, bez) ablatyw ablatywu ablatywowi ablatyw ablatywu ablatywem ablatywie ablatywie
-(z, nie bez) narzędnik narzędnika narzędnikowi narzędnik narzędnika narzędnikiem narzędniku narzędniku
+(bez) ablatyw ablatywu ablatywowi ablatyw ablatywu ablatywem ablatywie ablatywie
+(z) narzędnik narzędnika narzędnikowi narzędnik narzędnika narzędnikiem narzędniku narzędniku
 (o) miejscownik miejscownika miejscownikowi miejscownik miejscownika miejscownikiem miejscowniku miejscowniku
 (!) wołacz wołacza wołaczowi wołacz wołacza wołaczem wołaczu wołaczu
