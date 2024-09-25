@@ -1,14 +1,14 @@
-nominative (jest) mianownik mianownika mianownikowi mianownik mianownika mianownikiem mianowniku mianowniku
-genitive (nie ma) dopełniacz dopełniacza dopełniaczowi dopełniacz dopełniacza dopełniaczem dopełniaczu dopełniaczu
-dative (dopełnienie dalsze, strona czynna) celownik celownika celownikowi celownik celownika celownikiem celowniku celowniku
-accusative (dopełnienie bliższe, strona bierna) biernik biernika biernikowi biernik biernika biernikiem bierniku bierniku
-ablative (bez) ablatyw ablatywu ablatywowi ablatyw ablatywu ablatywem ablatywie ablatywie
-instrumental (z) narzędnik narzędnika narzędnikowi narzędnik narzędnika narzędnikiem narzędniku narzędniku
-locative (o) miejscownik miejscownika miejscownikowi miejscownik miejscownika miejscownikiem miejscowniku miejscowniku
-vocative (!) wołacz wołacza wołaczowi wołacz wołacza wołaczem wołaczu wołaczu
+subject,  nominative (jest) mianownik mianownika mianownikowi mianownik mianownika mianownikiem mianowniku mianowniku
+possesion, genitive (nie ma) dopełniacz dopełniacza dopełniaczowi dopełniacz dopełniacza dopełniaczem dopełniaczu dopełniaczu
+purpose, dative (dopełnienie dalsze, strona czynna) celownik celownika celownikowi celownik celownika celownikiem celowniku celowniku
+objective, accusative (dopełnienie bliższe, strona bierna) biernik biernika biernikowi biernik biernika biernikiem bierniku bierniku
+origin, ablative (bez) ablatyw ablatywu ablatywowi ablatyw ablatywu ablatywem ablatywie ablatywie
+method, instrumental (z) narzędnik narzędnika narzędnikowi narzędnik narzędnika narzędnikiem narzędniku narzędniku
+location, locative (o) miejscownik miejscownika miejscownikowi miejscownik miejscownika miejscownikiem miejscowniku miejscowniku
+evoking, vocative (!) wołacz wołacza wołaczowi wołacz wołacza wołaczem wołaczu wołaczu
 
 
-
+https://easysanskrit.wordpress.com/tag/sanskrit-noun-cases/
 
 https://en.wikipedia.org/wiki/Sanskrit_nominals
 Sanskrit nouns are declined for eight cases:
