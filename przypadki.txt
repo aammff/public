@@ -2,7 +2,7 @@ subject, nazywanie, nominative (jest) mianownik mianownika mianownikowi mianowni
 possesion, posiadanie, genitive (nie ma) dopełniacz dopełniacza dopełniaczowi dopełniacz dopełniacza dopełniaczem dopełniaczu dopełniaczu
 purpose, przeznaczenie, dative (dopełnienie dalsze, strona czynna) celownik celownika celownikowi celownik celownika celownikiem celowniku celowniku
 objective, zadanie, accusative (dopełnienie bliższe, strona bierna) biernik biernika biernikowi biernik biernika biernikiem bierniku bierniku
-origin, pochodzenie, ablative (bez) ablatyw ablatywu ablatywowi ablatyw ablatywu ablatywem ablatywie ablatywie
+origin, pochodzenie, ablative (od) ablatyw ablatywu ablatywowi ablatyw ablatywu ablatywem ablatywie ablatywie
 method, metoda, instrumental (z) narzędnik narzędnika narzędnikowi narzędnik narzędnika narzędnikiem narzędniku narzędniku
 location, miejsce, locative (o) miejscownik miejscownika miejscownikowi miejscownik miejscownika miejscownikiem miejscowniku miejscowniku
 evoking, wezwanie, vocative (!) wołacz wołacza wołaczowi wołacz wołacza wołaczem wołaczu wołaczu
