@@ -1,8 +1,23 @@
-(jest) mianownik mianownika mianownikowi mianownik mianownika mianownikiem mianowniku mianowniku
-(nie ma) dopełniacz dopełniacza dopełniaczowi dopełniacz dopełniacza dopełniaczem dopełniaczu dopełniaczu
-(dopełnienie dalsze, strona czynna) celownik celownika celownikowi celownik celownika celownikiem celowniku celowniku
-(dopełnienie bliższe, strona bierna) biernik biernika biernikowi biernik biernika biernikiem bierniku bierniku
-(bez) ablatyw ablatywu ablatywowi ablatyw ablatywu ablatywem ablatywie ablatywie
-(z) narzędnik narzędnika narzędnikowi narzędnik narzędnika narzędnikiem narzędniku narzędniku
-(o) miejscownik miejscownika miejscownikowi miejscownik miejscownika miejscownikiem miejscowniku miejscowniku
-(!) wołacz wołacza wołaczowi wołacz wołacza wołaczem wołaczu wołaczu
+nominative (jest) mianownik mianownika mianownikowi mianownik mianownika mianownikiem mianowniku mianowniku
+accusative (nie ma) dopełniacz dopełniacza dopełniaczowi dopełniacz dopełniacza dopełniaczem dopełniaczu dopełniaczu
+instrumental (dopełnienie dalsze, strona czynna) celownik celownika celownikowi celownik celownika celownikiem celowniku celowniku
+dative (dopełnienie bliższe, strona bierna) biernik biernika biernikowi biernik biernika biernikiem bierniku bierniku
+ablative (bez) ablatyw ablatywu ablatywowi ablatyw ablatywu ablatywem ablatywie ablatywie
+genitive (z) narzędnik narzędnika narzędnikowi narzędnik narzędnika narzędnikiem narzędniku narzędniku
+locative (o) miejscownik miejscownika miejscownikowi miejscownik miejscownika miejscownikiem miejscowniku miejscowniku
+vocative (!) wołacz wołacza wołaczowi wołacz wołacza wołaczem wołaczu wołaczu
+
+
+
+
+https://en.wikipedia.org/wiki/Sanskrit_nominals
+Sanskrit nouns are declined for eight cases:
+
+    nominative: marks the subject of a verb.
+    accusative: used for the direct object of a transitive verb.
+    instrumental: marks the means by which the subject achieves or accomplishes an action, physically or abstractly.
+    dative: used to indicate the indirect object of a transitive verb.
+    ablative: used to express motion away from something.
+    genitive: marks a noun as modifying another noun.
+    locative: corresponds vaguely to the English prepositions in, on, at, and by.
+    vocative: used for a word that identifies an addressee.[10]
