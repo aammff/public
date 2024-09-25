@@ -1,11 +1,11 @@
-subject,  nominative (jest) mianownik mianownika mianownikowi mianownik mianownika mianownikiem mianowniku mianowniku
-possesion, genitive (nie ma) dopełniacz dopełniacza dopełniaczowi dopełniacz dopełniacza dopełniaczem dopełniaczu dopełniaczu
-purpose, dative (dopełnienie dalsze, strona czynna) celownik celownika celownikowi celownik celownika celownikiem celowniku celowniku
-objective, accusative (dopełnienie bliższe, strona bierna) biernik biernika biernikowi biernik biernika biernikiem bierniku bierniku
-origin, ablative (bez) ablatyw ablatywu ablatywowi ablatyw ablatywu ablatywem ablatywie ablatywie
-method, instrumental (z) narzędnik narzędnika narzędnikowi narzędnik narzędnika narzędnikiem narzędniku narzędniku
-location, locative (o) miejscownik miejscownika miejscownikowi miejscownik miejscownika miejscownikiem miejscowniku miejscowniku
-evoking, vocative (!) wołacz wołacza wołaczowi wołacz wołacza wołaczem wołaczu wołaczu
+subject, nazywanie, nominative (jest) mianownik mianownika mianownikowi mianownik mianownika mianownikiem mianowniku mianowniku
+possesion, posiadanie, genitive (nie ma) dopełniacz dopełniacza dopełniaczowi dopełniacz dopełniacza dopełniaczem dopełniaczu dopełniaczu
+purpose, przeznaczenie, dative (dopełnienie dalsze, strona czynna) celownik celownika celownikowi celownik celownika celownikiem celowniku celowniku
+objective, zadanie, accusative (dopełnienie bliższe, strona bierna) biernik biernika biernikowi biernik biernika biernikiem bierniku bierniku
+origin, pochodzenie, ablative (bez) ablatyw ablatywu ablatywowi ablatyw ablatywu ablatywem ablatywie ablatywie
+method, metoda, instrumental (z) narzędnik narzędnika narzędnikowi narzędnik narzędnika narzędnikiem narzędniku narzędniku
+location, miejsce, locative (o) miejscownik miejscownika miejscownikowi miejscownik miejscownika miejscownikiem miejscowniku miejscowniku
+evoking, wezwanie, vocative (!) wołacz wołacza wołaczowi wołacz wołacza wołaczem wołaczu wołaczu
 
 
 https://easysanskrit.wordpress.com/tag/sanskrit-noun-cases/
