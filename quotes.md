@@ -5,3 +5,5 @@ I would not trust any psychoanalyst who is not an informatician and I would not 
 Telepathy is a poor-man's radio.
 
 Don't sleep on rectangles. Nie śpijcie na prostokątach.
+
+dao to kakao
