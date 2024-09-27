@@ -7,3 +7,5 @@ Telepathy is a poor-man's radio.
 Don't sleep on rectangles. Nie śpijcie na prostokątach.
 
 dao to kakao
+
+na poziomie podstawowym pył cantora to ściana tekstu
