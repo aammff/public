@@ -9,3 +9,5 @@ Don't sleep on rectangles. Nie śpijcie na prostokątach.
 dao to kakao
 
 na poziomie podstawowym pył cantora to ściana tekstu
+
+colorless blue and red ideas sleep furiously
