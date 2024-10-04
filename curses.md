@@ -73,5 +73,5 @@ sedes fitters/installers
 sedeses fitters/installers
 water closet fitters/installers
 water closets fitters/installers
-wwf.pl
+wwf.pl (nie jesteś weganką nie kwestuj na zwierzęta)
 pkp.pl (IC 5314 ARTUS)
