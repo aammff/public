@@ -73,3 +73,5 @@ sedes fitters/installers
 sedeses fitters/installers
 water closet fitters/installers
 water closets fitters/installers
+wwf.pl
+pkp.pl
