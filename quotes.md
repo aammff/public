@@ -11,3 +11,5 @@ dao to kakao
 na poziomie podstawowym pył cantora to ściana tekstu
 
 colorless blue and red ideas sleep furiously
+
+matematyka nie jest językiem migowym  mathematics is not a sign language
