@@ -13,3 +13,5 @@ na poziomie podstawowym pył cantora to ściana tekstu
 colorless blue and red ideas sleep furiously
 
 matematyka nie jest językiem migowym  mathematics is not a sign language  mathematics is not a signed language
+
+religia jest po to żeby nie kapało na głowę
