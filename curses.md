@@ -81,3 +81,4 @@ https://tesselation.substack.com/
 https://baroquesoftware.com/
 https://translate.google.com/
 https://zoom.us/
+maps.google.com/
