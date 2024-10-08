@@ -80,3 +80,4 @@ psychologia (passendorf 10) i więziennictwo (passendorf 11) (eksperyment miligr
 https://tesselation.substack.com/
 https://baroquesoftware.com/
 https://translate.google.com/
+https://zoom.us/
