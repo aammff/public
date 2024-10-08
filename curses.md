@@ -79,3 +79,4 @@ nie przeciwko wszystkim imperiom
 psychologia (passendorf 10) i więziennictwo (passendorf 11) (eksperyment miligrama)
 https://tesselation.substack.com/
 https://baroquesoftware.com/
+https://translate.google.com/
