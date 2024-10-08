@@ -4,3 +4,4 @@ https://en.wikipedia.org/wiki/False_flag
 
 https://en.wikipedia.org/wiki/Class_action
  - https://en.wikipedia.org/wiki/Virtual_reality_sickness
+ - https://en.wikipedia.org/wiki/Google_Translate
