@@ -15,3 +15,5 @@ colorless blue and red ideas sleep furiously
 matematyka nie jest językiem migowym  mathematics is not a sign language  mathematics is not a signed language
 
 religia jest po to żeby nie kapało na głowę
+
+"podobno polacy jedzą ośmiornice	to nie byli prawdziwi polacy"	2024-10-09T18:50:30.           %15N+02:00
