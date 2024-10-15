@@ -19,3 +19,5 @@ religia jest po to żeby nie kapało na głowę
 "podobno polacy jedzą ośmiornice	to nie byli prawdziwi polacy"	2024-10-09T18:50:30.           %15N+02:00
 
 cache to maszyna wirtualna a nazwy nie są znaczące / cache is a virtual machine and names are not significant
+
+https://www.lesswrong.com/posts/FTY9MtbubLDPjH6pW/phallocentricity-in-gpt-j-s-bizarre-stratified-ontology  https://www.reddit.com/r/psychoanalysis/comments/1azjz9e/phallocentricity_in_gpts/
