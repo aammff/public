@@ -16,3 +16,7 @@ a high school friend got murdered.
 my private possesions were stolen.
 
 https://news.ycombinator.com/user?id=iamnotsure
+
+ipfs://Qmd9NMQ8x4VN2k9kJZbJFhTBgfc97HNNgHSXrDc5GfW3sL
+ipfs://QmR13QXaQbZ9yXaB6pVGFVASmDhcmdxRBRCia4FBRAuhie
+ipfs://QmXXEc7CKapXvSBhRyBgAPY8RnEkvjGZSE36RU4oJ4KJKv
