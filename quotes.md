@@ -21,3 +21,8 @@ religia jest po to żeby nie kapało na głowę
 cache to maszyna wirtualna a nazwy nie są znaczące / cache is a virtual machine and names are not significant
 
 https://www.lesswrong.com/posts/FTY9MtbubLDPjH6pW/phallocentricity-in-gpt-j-s-bizarre-stratified-ontology  https://www.reddit.com/r/psychoanalysis/comments/1azjz9e/phallocentricity_in_gpts/
+
+
+On the whole, though, sign languages are independent of spoken languages and follow their own paths of development. For example, British Sign Language (BSL) and American Sign Language (ASL) are quite different and mutually unintelligible, even though the hearing people of the United Kingdom and the United States share the same spoken language. The grammars of sign languages do not usually resemble those of spoken languages used in the same geographical area; in fact, in terms of syntax, ASL shares more with spoken Japanese than it does with English.[43]
+
+Similarly, countries which use a single spoken language throughout may have two or more sign languages, or an area that contains more than one spoken language might use only one sign language. South Africa, which has 11 official spoken languages and a similar number of other widely used spoken languages, is a good example of this. It has only one sign language with two variants due to its history of having two major educational institutions for the deaf which have served different geographic areas of the country.
