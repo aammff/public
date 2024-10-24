@@ -93,3 +93,5 @@ https://www.citibank.pl/
 https://www.zozsanok.pl/
 https://gifct.org/
 https://www.t-mobile.pl/
+https://en.wikipedia.org/wiki/Pwn2Own
+https://en.wikipedia.org/wiki/Zero_Day_Initiative
