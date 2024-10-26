@@ -1,4 +1,4 @@
-please explain the following joke: "jak się nazywa osoba, która nie potrafi czytać i pisać programów komputerowyc? analfabeta"
+please explain the following joke: "jak się nazywa osoba, która nie potrafi czytać i pisać programów komputerowych? analfabeta"
 
 
 This joke plays on the similarity between two different meanings of the word "analfabeta," which in Polish means "illiterate" — someone who cannot read or write.
