@@ -12,8 +12,8 @@ Here's the extended table with the corresponding pi-calculus construct and Om Ma
 
 | Qualities of the superego object projected onto the therapist according to the erogenous zone from which stimulus derives. | Emotion or feeling corresponding to the depressive position. | Emotion or feeling corresponding to the paranoid-schizoid position | Pi-Calculus Construct | Om Mani Padme Hum Mantra Syllable |
 | --- | --- | --- | --- | --- |
-| Depriving breast (receptive oral modality. O1) | Sadness. Nostalgia. Affliction | Greed. Envy | Input (a(x).P) | Om |
-| Devouring breast. (Cannibal oral modality. O2) | Resignation | Impatience | Output (a<y>.P) | Ma |
+| Depriving breast (receptive oral modality. O1) | Sadness. Nostalgia. Affliction | Greed. Envy | Input (x(y).P) | Om |
+| Devouring breast. (Cannibal oral modality. O2) | Resignation | Impatience | Output (x~\<y\>.P) | Ma |
 | ‘Dispossessing’ (expelling) breast (Expulsive anal modality. A1) | Humiliation | Shame | Parallel Composition (P \| Q) | Ni |
 | Stifling breast (Retentive anal modality. A2) | Despair | Worthlessness. Contempt. | Restriction (νx.P) | Pad |
 | Poisoning breast (Phallico-urethral modality. FU) | Pessimism | Mistrust | Replication (!P) | Me |
@@ -61,8 +61,8 @@ These are the emotions experienced in the paranoid-schizoid position, characteri
 
 Pi-calculus is a process calculus developed for the study of concurrent systems. Each construct represents a fundamental operation in pi-calculus.
 
-- **Input (a(x).P)**: Represents receiving a message on channel 'a' and continuing as process 'P'.
-- **Output (a<y>.P)**: Represents sending a message on channel 'a' and continuing as process 'P'.
+- **Input (x(y).P)**: Represents receiving a message on channel 'a' and continuing as process 'P'.
+- **Output (x~\<y\>.P)**: Represents sending a message on channel 'a' and continuing as process 'P'.
 - **Parallel Composition (P | Q)**: Represents processes 'P' and 'Q' running in parallel.
 - **Restriction (νx.P)**: Restricts the use of name 'x' to process 'P'.
 - **Replication (!P)**: Represents infinite replication of process 'P'.
