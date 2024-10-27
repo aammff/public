@@ -17,7 +17,7 @@ Here's the extended table with the corresponding pi-calculus construct and Om Ma
 | ‘Dispossessing’ (expelling) breast (Expulsive anal modality. A1) | Humiliation | Shame | Parallel Composition (P \| Q) | Ni |
 | Stifling breast (Retentive anal modality. A2) | Despair | Worthlessness. Contempt. | Restriction ((νx)P) | Pad |
 | Poisoning breast (Phallico-urethral modality. FU) | Pessimism | Mistrust | Replication (!P) | Me |
-| Mutilating breast (Genital modality. G) | Depersonalisation | Estrangement. Derealisation. | Termination (0) | Hum |
+| Mutilating breast (Genital modality. G) | Depersonalisation | Estrangement. Derealisation. | Nil (0) | Hum |
 
 
 please explain
@@ -66,7 +66,7 @@ Pi-calculus is a process calculus developed for the study of concurrent systems.
 - **Parallel Composition (P | Q)**: Represents processes 'P' and 'Q' running in parallel.
 - **Restriction ((νx)P)**: Restricts the use of name 'x' to process 'P'.
 - **Replication (!P)**: Represents infinite replication of process 'P'.
-- **Termination (0)**: .
+- **Nil (0)**: .
 
 ### 5. Om Mani Padme Hum Mantra Syllable
 
