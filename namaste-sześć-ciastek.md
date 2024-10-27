@@ -14,10 +14,10 @@ Here's the extended table with the corresponding pi-calculus construct and Om Ma
 | --- | --- | --- | --- | --- |
 | Depriving breast (receptive oral modality. O1) | Sadness. Nostalgia. Affliction | Greed. Envy | Input (a(x).P) | Om |
 | Devouring breast. (Cannibal oral modality. O2) | Resignation | Impatience | Output (a<y>.P) | Ma |
-| ‘Dispossessing’ (expelling) breast (Expulsive anal modality. A1) | Humiliation | Shame | Choice (P + Q) | Ni |
+| ‘Dispossessing’ (expelling) breast (Expulsive anal modality. A1) | Humiliation | Shame | Parallel Composition (P \| Q) | Ni |
 | Stifling breast (Retentive anal modality. A2) | Despair | Worthlessness. Contempt. | Restriction (νx.P) | Pad |
-| Poisoning breast (Phallico-urethral modality. FU) | Pessimism | Mistrust | Parallel Composition (P | Q) | Me |
-| Mutilating breast (Genital modality. G) | Depersonalisation | Estrangement. Derealisation. | Replication (!P) | Hum |
+| Poisoning breast (Phallico-urethral modality. FU) | Pessimism | Mistrust | Replication (!P) | Me |
+| Mutilating breast (Genital modality. G) | Depersonalisation | Estrangement. Derealisation. | Termination (0) | Hum |
 
 
 please explain
@@ -63,10 +63,10 @@ Pi-calculus is a process calculus developed for the study of concurrent systems.
 
 - **Input (a(x).P)**: Represents receiving a message on channel 'a' and continuing as process 'P'.
 - **Output (a<y>.P)**: Represents sending a message on channel 'a' and continuing as process 'P'.
-- **Choice (P + Q)**: Represents a choice between process 'P' and process 'Q'.
-- **Restriction (νx.P)**: Restricts the use of name 'x' to process 'P'.
 - **Parallel Composition (P | Q)**: Represents processes 'P' and 'Q' running in parallel.
+- **Restriction (νx.P)**: Restricts the use of name 'x' to process 'P'.
 - **Replication (!P)**: Represents infinite replication of process 'P'.
+- **Termination (0)**: .
 
 ### 5. Om Mani Padme Hum Mantra Syllable
 
