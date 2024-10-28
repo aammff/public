@@ -97,3 +97,4 @@ https://en.wikipedia.org/wiki/Pwn2Own
 https://en.wikipedia.org/wiki/Zero_Day_Initiative
 https://www.paypal.com/
 https://security.apple.com/blog/pcc-security-research/
+https://www.oi.edu.pl/contestants/Adam%20Fuksa/ (GDPR noncompliance, clandestine heuristics competition, "healthcare" "industry" promotion (https://docplanner.tech/))
