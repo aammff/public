@@ -1,7 +1,7 @@
 autor uważa że:
 
 
-systemem operacyjnym jest FOSS możliwy do zainstalowania na otwartym sprzęcie (Open Source Hardware):
+## systemem operacyjnym jest FOSS możliwy do zainstalowania na otwartym sprzęcie (Open Source Hardware):
 
 przykłady systemów operacyjnych:
  - Linux
@@ -10,20 +10,19 @@ przykłady systemów operacyjnych:
  - Plan 9
 
 
-przykłady podróbek systemów operacyjnych:
+kontrprzykłady (podróbki) systemów operacyjnych:
  - Windows
  - macOS
 
 
-
-nieuzasadnione i błędne jest powszechne stosowanie systemów heurystycznych zasadniczo opartych na odśmiecarkach:
- - Java
- - Python
-
-
+## języki programowania tłumaczą kod źródłowy na kod maszynowy możliwy do uruchomienia bezpośrednio na komputerze:
 
 przykłady języków programowania:
  - C
  - C++
  - Rust
  - Assembler
+
+przykłady systemów heurystycznych zasadniczo opartych na odśmiecarkach, które takiej możliwości nie dają:
+ - Java
+ - Python
