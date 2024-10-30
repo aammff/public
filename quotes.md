@@ -28,3 +28,6 @@ On the whole, though, sign languages are independent of spoken languages and fol
 Similarly, countries which use a single spoken language throughout may have two or more sign languages, or an area that contains more than one spoken language might use only one sign language. South Africa, which has 11 official spoken languages and a similar number of other widely used spoken languages, is a good example of this. It has only one sign language with two variants due to its history of having two major educational institutions for the deaf which have served different geographic areas of the country.
 
 nいいえ Nイイエ
+
+
+https://www.bbc.com/future/article/20241028-the-failure-that-started-the-internet
