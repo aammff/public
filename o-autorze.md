@@ -13,3 +13,17 @@ przykłady systemów operacyjnych:
 przykłady podróbek systemów operacyjnych:
  - Windows
  - macOS
+
+
+
+nieuzasadnione i błędne jest powszechne stosowanie systemów heurystycznych zasadniczo opartych na odśmiecarkach:
+ - Java
+ - Python
+
+
+
+przykłady języków programowania:
+ - C
+ - C++
+ - Rust
+ - Assembler
