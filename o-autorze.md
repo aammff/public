@@ -23,13 +23,13 @@ przykłady języków programowania:
  - Rust
  - Assembler
 
-kontrprzykłady (systemy heurystyczne zasadniczo oparte na odśmiecarkach), które takiej możliwości nie dają:
+kontrprzykłady (systemy prototypowania heurystycznego zasadniczo oparte na odśmiecarkach), które takiej możliwości nie dają:
  - Java
  - Python
 
 
 ## tzw "olimpiada informatyczna" nie jest informatyczna
  - nie jest sprawdzana poprawność rozwiązań (jest to konkurs heurystyk a nie algorytmów)
- - dopuszczane są rozwiązania w systemach heurystycznych (a nie w językach programowania)
+ - dopuszczane są rozwiązania w systemach prototypowania heurystycznego (a nie w językach programowania)
  - na stronie głównej oi.edu.pl promowane są wątpliwej jakości "firmy", które zasadniczo nie zajmują się wytwórstwem oprogramowania (FOSS), ale produkcją podróbek oprogramowania (closed source)
  - wizerunki konkursowiczów używane są bezprawnie, bez zgody na promocję w.w "firm", "firmy" dołączane są do "sponsorów" w kolejnych latach, bez związku z wcześniejszymi konkursami
