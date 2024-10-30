@@ -23,6 +23,6 @@ przykłady języków programowania:
  - Rust
  - Assembler
 
-przykłady systemów heurystycznych zasadniczo opartych na odśmiecarkach, które takiej możliwości nie dają:
+kontrprzykłady (systemy heurystyczne zasadniczo oparte na odśmiecarkach), które takiej możliwości nie dają:
  - Java
  - Python
