@@ -36,3 +36,4 @@ kontrprzykłady (systemy prototypowania heurystycznego zasadniczo oparte na odś
 
 
 ## brak praktycznej możliwości uzyskania stałego adresu ipv6 nie jest zaniedbaniem ale prowokacją
+ - https://stats.labs.apnic.net/ipv6/
