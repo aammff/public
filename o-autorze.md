@@ -40,5 +40,7 @@ kontrprzykłady (systemy prototypowania heurystycznego zasadniczo oparte na odś
 - w praktyce żeby trochę umieć odejmować trzeba trochę znać homoikoniczne interpretery metacykliczne
 - w praktyce żeby trochę rozumieć homoikoniczne interpretery metacykliczne to trzeba nie jeść zwierząt i nie pić alkoholu pochodzenia roślinnego
 
+https://en.wikipedia.org/wiki/Lem%27s_law (czytanie jest formą myślenia)
+
 ## brak praktycznej możliwości uzyskania stałego adresu ipv6 nie jest zaniedbaniem ale prowokacją
  - https://stats.labs.apnic.net/ipv6/
