@@ -34,6 +34,11 @@ kontrprzykłady (systemy prototypowania heurystycznego zasadniczo oparte na odś
  - na stronie głównej oi.edu.pl promowane są wątpliwej jakości "firmy", które zasadniczo nie zajmują się wytwórstwem oprogramowania (FOSS), ale produkcją podróbek oprogramowania (closed source)
  - wizerunki konkursowiczów używane są bezprawnie, bez zgody na promocję w.w "firm", "firmy" dołączane są do "sponsorów" w kolejnych latach, bez związku z wcześniejszymi konkursami
 
+## w praktyce:
+- w praktyce w życiu trzeba trochę umieć myśleć
+- w praktyce żeby myśleć trzeba trochę umieć odejmować
+- w praktyce żeby trochę umieć odejmować trzeba trochę znać homoikoniczne interpretery metacykliczne
+- w praktyce żeby trochę rozumieć homoikoniczne interpretery metacykliczne to trzeba nie jeść zwierząt i nie pić alkoholu pochodzenia roślinnego
 
 ## brak praktycznej możliwości uzyskania stałego adresu ipv6 nie jest zaniedbaniem ale prowokacją
  - https://stats.labs.apnic.net/ipv6/
