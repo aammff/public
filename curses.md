@@ -17,7 +17,7 @@
 *.tidal.com
 *.vatican.va (pedofilia)
 *.youtube.com
-*.wylazydachowe.com (gwałty, pobicia, kradzieże)
+*.wylazydachowe.com (pedofilia, gwałty, pobicia, kradzieże)
 *.lovense.com
 *.meta.com
 *.tiktok.com
