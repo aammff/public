@@ -15,7 +15,7 @@
 *.twitch.tv
 *.spotify.com
 *.tidal.com
-*.vatican.va (pedofilia)
+*.vatican.va (systemowa pedofilia)
 *.youtube.com
 *.wylazydachowe.com (pedofilia, gwałty, pobicia, kradzieże)
 *.lovense.com
