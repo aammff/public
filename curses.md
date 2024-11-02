@@ -15,7 +15,9 @@
 *.twitch.tv
 *.spotify.com
 *.tidal.com
-*.vatican.va (systemowa pedofilia)
+*.vatican.va (systemowa pedofilia / systemic pedophilia ~1993)
+https://fara.sanok.pl/ (systemowa pedofilia / systemic pedophilia ~1993)
+https://nowastrona.sp8sanok.pl/ (systemowa pedofilia / systemic pedophilia ~1993)
 *.youtube.com
 *.wylazydachowe.com (pedofilia, gwałty, pobicia, kradzieże)
 *.lovense.com
