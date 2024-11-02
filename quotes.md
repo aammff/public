@@ -37,3 +37,7 @@ https://www.bbc.com/future/article/20241028-the-failure-that-started-the-interne
 ((P->Q)->P)->P
 
 ((P→Q)→P)→P
+
+-> -> -> P Q P P
+
+→ → → P Q P P
