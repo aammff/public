@@ -8,9 +8,9 @@
 *.citi.com
 *.bis.org
 *.who.int
-*.economist.com
-*.champlacanien.net
-*.mcdonalds.com
+*.economist.com (big mac index -> mcdonalds)
+*.champlacanien.net (big mac index -> mcdonalds)
+*.mcdonalds.com (drive through, slaughterhouse)
 *.ikea.com
 *.twitch.tv
 *.spotify.com
