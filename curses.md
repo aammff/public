@@ -9,7 +9,8 @@
 *.bis.org
 *.who.int
 *.economist.com (big mac index -> mcdonalds)
-*.champlacanien.net (big mac index -> mcdonalds)
+*.champlacanien.net (big mac index -> economist -> mcdonalds, script kiddies)
+https://fppl.pl/ (champlacanien -> big mac index -> mcdonalds, script kiddies)
 *.mcdonalds.com (drive through, slaughterhouse)
 *.ikea.com
 *.twitch.tv
@@ -62,7 +63,7 @@ Błaszkowski
 BŁASZKOWSKI
 *.interpol.int
 cameras fitters/installers
-https://sinthome.pl/
+https://sinthome.pl/ (script kiddies, smut, shock site)
 reddit.com/r/lacan
 reddit.com/r/psychoanalysis
 reddit.com/r/polska
@@ -83,10 +84,10 @@ https://tesselation.substack.com/
 https://baroquesoftware.com/
 https://translate.google.com/
 https://zoom.us/
-maps.google.com/
+maps.google.com/ (shadow censorship)
 https://youtu.be/zMbD5dLI-CQ?si=XA-uWxuu1mYcPzfA&t=2916
-https://klinikametoda.pl/
-http://psychoanalityk.eu/
+https://klinikametoda.pl/ (script kiddies)
+http://psychoanalityk.eu/ (script kiddie)
 https://www.nec-labs.com/
 https://braintech.pl/
 https://developers.google.com/authorized-buyers/rtb/cookie-guide
