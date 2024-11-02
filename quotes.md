@@ -31,3 +31,7 @@ nいいえ Nイイエ
 
 
 https://www.bbc.com/future/article/20241028-the-failure-that-started-the-internet
+
+
+
+((P->Q)->P)->P
