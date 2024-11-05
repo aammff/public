@@ -112,3 +112,4 @@ http://www.pti.org.pl/ (https://www.oi.edu.pl/contestants/Adam%20Fuksa/ illegal 
 https://ksiegarnia.pwn.pl/it-pwn?utm_source=oi.edu.pl&utm_medium=logo&utm_campaign=IT_202112 (https://www.oi.edu.pl/contestants/Adam%20Fuksa/ illegal use of my image / data)
 https://www.cmegroup.com/ (HE, LE, GF)
 https://nil.org.pl/
+https://en.wikipedia.org/wiki/Tracing_garbage_collection
