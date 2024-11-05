@@ -1,6 +1,6 @@
 *.pl
 *.google.com
-*.facebook.com
+*.facebook.com (thieves)
 *.amazon.com
 *.microsoft.com
 *.apple.com
@@ -22,7 +22,7 @@ https://nowastrona.sp8sanok.pl/ (systemowa pedofilia / systemic pedophilia)
 *.youtube.com
 *.wylazydachowe.com (pedofilia, gwałty, pobicia, kradzieże)
 *.lovense.com
-*.meta.com
+*.meta.com (theft)
 *.tiktok.com
 *.instagram.com
 *.linkedin.com
