@@ -10,3 +10,5 @@
 | C        | tak         | nie                                   | nie            | assembler    |
 | C++      | tak         | nie                                   | nie            | C            |
 | perl     | tak         | tak                                   | tak            | C            |
+|          |             |                                       |                |              |
+| shell    | tak         | nie                                   | tak            | C            |
