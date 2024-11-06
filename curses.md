@@ -113,3 +113,6 @@ https://ksiegarnia.pwn.pl/it-pwn?utm_source=oi.edu.pl&utm_medium=logo&utm_campai
 https://www.cmegroup.com/ (HE, LE, GF)
 https://nil.org.pl/
 https://en.wikipedia.org/wiki/Tracing_garbage_collection
+http://lkw.org.pl/
+https://pza.org.pl/
+https://kielich.lubin.pl/
