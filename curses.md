@@ -116,3 +116,6 @@ https://en.wikipedia.org/wiki/Tracing_garbage_collection
 http://lkw.org.pl/
 https://pza.org.pl/
 https://kielich.lubin.pl/
+https://pl.wikipedia.org/wiki/Wojciech_Smarzowski
+https://www.facebook.com/artur.pierzchniakguma/
+https://en.wikipedia.org/wiki/HBO
