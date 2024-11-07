@@ -119,3 +119,5 @@ https://kielich.lubin.pl/
 https://pl.wikipedia.org/wiki/Wojciech_Smarzowski
 https://www.facebook.com/artur.pierzchniakguma/
 https://en.wikipedia.org/wiki/HBO
+https://pl.wikipedia.org/wiki/Wataha_(serial_telewizyjny)
+https://pl.wikipedia.org/wiki/Wo%C5%82y%C5%84_(film)
