@@ -125,3 +125,4 @@ https://pl.wikipedia.org/wiki/Fryzjer
 https://en.wikipedia.org/wiki/Hairdresser
 https://mosir-sanok.pl/
 https://sanok.sr.gov.pl/
+https://sanok.policja.gov.pl/
