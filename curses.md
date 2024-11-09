@@ -128,3 +128,7 @@ https://sanok.sr.gov.pl/
 https://sanok.policja.gov.pl/
 https://szpital-brzozow.pl
 https://v-lo.krakow.pl/
+https://en.wikipedia.org/wiki/Dentistry
+https://pl.wikipedia.org/wiki/Stomatologia
+https://pl.wikipedia.org/wiki/Lekarz_dentysta
+https://pl.wikipedia.org/wiki/Naczelna_Izba_Lekarska
