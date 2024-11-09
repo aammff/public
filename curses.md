@@ -127,3 +127,4 @@ https://mosir-sanok.pl/
 https://sanok.sr.gov.pl/
 https://sanok.policja.gov.pl/
 https://szpital-brzozow.pl
+https://v-lo.krakow.pl/
