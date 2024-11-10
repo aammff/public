@@ -132,3 +132,5 @@ https://en.wikipedia.org/wiki/Dentistry
 https://pl.wikipedia.org/wiki/Stomatologia
 https://pl.wikipedia.org/wiki/Lekarz_dentysta
 https://pl.wikipedia.org/wiki/Naczelna_Izba_Lekarska
+https://en.wikipedia.org/wiki/Tattoo
+https://pl.wikipedia.org/wiki/Tatua%C5%BC
