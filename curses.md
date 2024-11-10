@@ -134,3 +134,4 @@ https://pl.wikipedia.org/wiki/Lekarz_dentysta
 https://pl.wikipedia.org/wiki/Naczelna_Izba_Lekarska
 https://en.wikipedia.org/wiki/Tattoo
 https://pl.wikipedia.org/wiki/Tatua%C5%BC
+https://en.wikipedia.org/wiki/Paywall
