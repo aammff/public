@@ -162,3 +162,4 @@ https://www.wiembistro.pl/
 https://www.kopernik.org.pl/
 https://nbp.pl/
 https://pl.wikipedia.org/wiki/Akademia_pana_Kleksa_(film_1983)
+https://www.klinikabudzik.pl/
