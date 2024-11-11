@@ -157,3 +157,4 @@ https://www.bankmillennium.pl/
 https://bossa.pl/
 https://allegro.pl/
 https://www.tvp.pl/
+https://pl.wikipedia.org/wiki/Krajowa_Rada_Radiofonii_i_Telewizji
