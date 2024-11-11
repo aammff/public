@@ -135,3 +135,6 @@ https://pl.wikipedia.org/wiki/Naczelna_Izba_Lekarska
 https://en.wikipedia.org/wiki/Tattoo
 https://pl.wikipedia.org/wiki/Tatua%C5%BC
 https://en.wikipedia.org/wiki/Paywall
+https://ksp.policja.gov.pl/
+https://bip.brpo.gov.pl/pl
+https://pkdp.gov.pl/
