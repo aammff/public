@@ -153,3 +153,4 @@ https://pl.wikipedia.org/wiki/Podatek_od_towar%C3%B3w_i_us%C5%82ug
 https://en.wikipedia.org/wiki/Value-added_tax
 https://www.zus.pl/
 https://mops.sanok.pl/
+https://www.bankmillennium.pl/
