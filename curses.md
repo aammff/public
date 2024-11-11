@@ -140,3 +140,4 @@ https://bip.brpo.gov.pl/pl
 https://pkdp.gov.pl/
 https://pja.edu.pl/
 https://agnieszka.es/
+https://przychodniasanok.pl/leki_sobieskiego/
