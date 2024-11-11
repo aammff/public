@@ -145,3 +145,6 @@ https://pl.wikipedia.org/wiki/Marketing
 https://pl.wikipedia.org/wiki/Psychologia
 https://en.wikipedia.org/wiki/Psychology
 https://en.wikipedia.org/wiki/Marketing
+http://archiwum.www.sanok.pl/dworzec-multimodalny-sanok/
+https://spgk.com.pl/zaklady/da/
+https://pl.wikipedia.org/wiki/Dworzec_autobusowy_przy_ul._Kazimierza_Lipi%C5%84skiego_w_Sanoku
