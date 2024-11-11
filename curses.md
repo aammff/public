@@ -141,3 +141,7 @@ https://pkdp.gov.pl/
 https://pja.edu.pl/
 https://agnieszka.es/
 https://przychodniasanok.pl/leki_sobieskiego/
+https://pl.wikipedia.org/wiki/Marketing
+https://pl.wikipedia.org/wiki/Psychologia
+https://en.wikipedia.org/wiki/Psychology
+https://en.wikipedia.org/wiki/Marketing
