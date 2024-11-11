@@ -160,3 +160,4 @@ https://www.tvp.pl/
 https://pl.wikipedia.org/wiki/Krajowa_Rada_Radiofonii_i_Telewizji
 https://www.wiembistro.pl/
 https://www.kopernik.org.pl/
+https://nbp.pl/
