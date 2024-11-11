@@ -155,3 +155,4 @@ https://www.zus.pl/
 https://mops.sanok.pl/
 https://www.bankmillennium.pl/
 https://bossa.pl/
+https://allegro.pl/
