@@ -47,3 +47,12 @@ P Q -> P -> P ->
 P Q → P → P →
 
 Nie ma miejsca po miejscu. There is no place after place.
+
+
+cache backlink ontology
+
+backlink ontology cache
+
+cache ontology backlink
+
+backlink cache ontology
