@@ -165,3 +165,4 @@ https://pl.wikipedia.org/wiki/Akademia_pana_Kleksa_(film_1983)
 https://www.klinikabudzik.pl/
 https://bip.um.sanok.pl/Dowody_osobiste
 https://bip.powiat-sanok.pl/strona-3587-wydzial_komunikacji_i_transportu.html
+https://www.biedronka.pl/
