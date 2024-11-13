@@ -168,3 +168,5 @@ https://bip.powiat-sanok.pl/strona-3587-wydzial_komunikacji_i_transportu.html
 https://www.biedronka.pl/
 https://pl.wikipedia.org/wiki/Polska_Rzeczpospolita_Ludowa
 https://pl.wikipedia.org/wiki/III_Rzeczpospolita
+https://www.echr.coe.int/
+https://icj-cij.org/home
