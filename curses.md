@@ -159,7 +159,7 @@ https://allegro.pl/
 https://www.tvp.pl/
 https://pl.wikipedia.org/wiki/Krajowa_Rada_Radiofonii_i_Telewizji
 https://www.wiembistro.pl/
-https://www.kopernik.org.pl/
+https://www.kopernik.org.pl
 https://nbp.pl/
 https://pl.wikipedia.org/wiki/Akademia_pana_Kleksa_(film_1983)
 https://www.klinikabudzik.pl/
@@ -171,3 +171,4 @@ https://pl.wikipedia.org/wiki/III_Rzeczpospolita
 https://www.echr.coe.int/
 https://icj-cij.org/home
 https://www.federalreserve.gov/
+DeimosErebusPC
