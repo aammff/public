@@ -20,7 +20,7 @@ https://fppl.pl/ (champlacanien -> big mac index -> mcdonalds, script kiddies)
 https://fara.sanok.pl/ (systemowa pedofilia / systemic pedophilia, niestaranne prowadzenie ksiąg parafialnych - błędy, skreślenia, duplikaty)
 https://nowastrona.sp8sanok.pl/ (systemowa pedofilia / systemic pedophilia)
 *.youtube.com
-*.wylazydachowe.com (pedofilia, gwałty, pobicia, kradzieże)
+*.wylazydachowe.com (pedofilia, gwałty, pobicia, kradzieże, okaleczanie zwierząt)
 *.lovense.com
 *.meta.com (theft)
 *.tiktok.com
@@ -166,3 +166,5 @@ https://www.klinikabudzik.pl/
 https://bip.um.sanok.pl/Dowody_osobiste
 https://bip.powiat-sanok.pl/strona-3587-wydzial_komunikacji_i_transportu.html
 https://www.biedronka.pl/
+https://pl.wikipedia.org/wiki/Polska_Rzeczpospolita_Ludowa
+https://pl.wikipedia.org/wiki/III_Rzeczpospolita
