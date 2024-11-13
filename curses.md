@@ -174,3 +174,4 @@ https://www.federalreserve.gov/
 DeimosErebusPC
 mcd00dle
 djacqua
+*.sg
