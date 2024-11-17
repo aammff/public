@@ -179,3 +179,4 @@ https://fppl.pl/czym-jest-fppl/
 https://www.ptgin.pl/
 https://www.apple.com/apple-vision-pro/
 https://www.meta.com/pl/en/quest/
+https://psychiatria.org.pl/
