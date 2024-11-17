@@ -180,3 +180,4 @@ https://www.ptgin.pl/
 https://www.apple.com/apple-vision-pro/
 https://www.meta.com/pl/en/quest/
 https://psychiatria.org.pl/
+https://psych.org.pl/
