@@ -176,3 +176,4 @@ mcd00dle
 djacqua
 *.sg
 https://fppl.pl/czym-jest-fppl/
+https://www.ptgin.pl/
