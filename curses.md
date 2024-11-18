@@ -183,3 +183,4 @@ https://psychiatria.org.pl/
 https://psych.org.pl/
 https://www.gops.sanok.pl/site-32.html
 https://www.lidl.pl/
+https://en.wikipedia.org/wiki/DVD_region_code (https://en.wikipedia.org/wiki/Racism)
