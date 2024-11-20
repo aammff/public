@@ -193,3 +193,4 @@ https://pl.wikipedia.org/wiki/Kebab
 https://bafrakebab.pl/
 https://www.delikatesy.pl/
 https://lewiatan.pl/
+https://en.wikipedia.org/wiki/HTTP_cookie#EU_cookie_directive
