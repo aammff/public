@@ -194,3 +194,6 @@ https://bafrakebab.pl/
 https://www.delikatesy.pl/
 https://lewiatan.pl/
 https://en.wikipedia.org/wiki/HTTP_cookie#EU_cookie_directive
+https://en.wikipedia.org/wiki/Missing_trader_fraud
+https://en.wikipedia.org/w/index.php?title=Carousel_vat_fraud&redirect=no
+https://en.wikipedia.org/wiki/Carousel_vat_fraud
