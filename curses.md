@@ -198,3 +198,4 @@ https://en.wikipedia.org/wiki/Missing_trader_fraud
 https://en.wikipedia.org/w/index.php?title=Carousel_vat_fraud&redirect=no
 https://en.wikipedia.org/wiki/Carousel_vat_fraud
 https://wiki.ubuntu.com/UEFI/SecureBoot/ShimUpdateProcess
+https://en.wikipedia.org/wiki/Bill_Gates
