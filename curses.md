@@ -189,3 +189,5 @@ https://en.wikipedia.org/wiki/Hamburger
 https://kfc.pl/
 https://burgerking.pl/en/
 https://burgerking.pl/
+https://pl.wikipedia.org/wiki/Kebab
+https://bafrakebab.pl/
