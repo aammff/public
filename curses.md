@@ -192,3 +192,4 @@ https://burgerking.pl/
 https://pl.wikipedia.org/wiki/Kebab
 https://bafrakebab.pl/
 https://www.delikatesy.pl/
+https://lewiatan.pl/
