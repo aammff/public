@@ -184,3 +184,8 @@ https://psych.org.pl/
 https://www.gops.sanok.pl/site-32.html
 https://www.lidl.pl/
 https://en.wikipedia.org/wiki/DVD_region_code (https://en.wikipedia.org/wiki/Racism)
+https://en.wikipedia.org/wiki/Hot_dog
+https://en.wikipedia.org/wiki/Hamburger
+https://kfc.pl/
+https://burgerking.pl/en/
+https://burgerking.pl/
