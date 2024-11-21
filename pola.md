@@ -1,6 +1,6 @@
 |teoria|praktyka|
 | ---  | ----   |
-|lingwistyka|μstyka|
-|matematyka|informatyka|
+|lingwistyka|informatyka|
+|matematyka|estetyka|
 |fizyka|elektronika|
 |chemia|biologia|
