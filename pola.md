@@ -2,5 +2,5 @@
 | ---  | ----   |
 |matematyka|estetyka|
 |lingwistyka|informatyka|
-|fizyka|elektronika|
-|chemia|biologia|
+|biologia|elektronika|
+|chemia|fizyka|
