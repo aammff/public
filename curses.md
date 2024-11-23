@@ -201,3 +201,4 @@ https://wiki.ubuntu.com/UEFI/SecureBoot/ShimUpdateProcess
 https://en.wikipedia.org/wiki/Bill_Gates
 https://en.wikipedia.org/wiki/Vaccination
 https://www.spglobal.com/
+https://insightshot.pl/
