@@ -202,3 +202,7 @@ https://en.wikipedia.org/wiki/Bill_Gates
 https://en.wikipedia.org/wiki/Vaccination
 https://www.spglobal.com/
 https://insightshot.pl/
+https://www.pzu.pl/
+https://www.allianz.pl/
+https://saltus.pl/
+https://polmed.pl/
