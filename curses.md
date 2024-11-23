@@ -208,3 +208,4 @@ https://saltus.pl/
 https://polmed.pl/
 https://www.koszykowa.pl/ (https://fppl.pl/seminarium-znaczenie-fallusa-28-wrzesnia-2024-godz-11-00/ "Wstęp na pierwsze zajęcia jest wolny i bezpłatny.")
 https://lacancircle.com.au/
+https://brucefink.com/
