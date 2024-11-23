@@ -213,3 +213,5 @@ https://en.wiktionary.org/wiki/penetration
 https://pl.wiktionary.org/wiki/penetration
 https://en.wiktionary.org/wiki/penetracja
 https://pl.wiktionary.org/wiki/penetracja
+https://pl.wikipedia.org/wiki/Lekarz
+https://en.wikipedia.org/wiki/Physician
