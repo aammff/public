@@ -20,3 +20,6 @@ https://news.ycombinator.com/user?id=iamnotsure
 [ipfs://Qmd9NMQ8x4VN2k9kJZbJFhTBgfc97HNNgHSXrDc5GfW3sL](ipfs://Qmd9NMQ8x4VN2k9kJZbJFhTBgfc97HNNgHSXrDc5GfW3sL)
 [ipfs://QmR13QXaQbZ9yXaB6pVGFVASmDhcmdxRBRCia4FBRAuhie](ipfs://QmR13QXaQbZ9yXaB6pVGFVASmDhcmdxRBRCia4FBRAuhie)
 [ipfs://QmXXEc7CKapXvSBhRyBgAPY8RnEkvjGZSE36RU4oJ4KJKv](ipfs://QmXXEc7CKapXvSBhRyBgAPY8RnEkvjGZSE36RU4oJ4KJKv)
+
+https://en.wikipedia.org/wiki/Survivorship_bias
+https://pl.wikipedia.org/wiki/B%C5%82%C4%85d_prze%C5%BCywalno%C5%9Bci
