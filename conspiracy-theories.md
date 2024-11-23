@@ -6,3 +6,4 @@ https://en.wikipedia.org/wiki/Class_action
  - https://en.wikipedia.org/wiki/Virtual_reality_sickness
  - https://en.wikipedia.org/wiki/Google_Translate
  - https://en.wikipedia.org/wiki/Key_rollover#Key_jamming_and_ghosting
+ - https://en.wikipedia.org/wiki/Transient_execution_CPU_vulnerability
