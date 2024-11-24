@@ -218,3 +218,5 @@ https://en.wikipedia.org/wiki/Physician
 https://pl.wikipedia.org/wiki/Kolonoskopia
 https://en.wikipedia.org/wiki/Colonoscopy
 https://www.taraka.pl/wyrocznia_tarota_z_identyfikatora
+https://en.wikipedia.org/wiki/Tarot
+https://pl.wikipedia.org/wiki/Tarot
