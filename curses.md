@@ -220,3 +220,4 @@ https://en.wikipedia.org/wiki/Colonoscopy
 https://www.taraka.pl/wyrocznia_tarota_z_identyfikatora ("Wyrocznia, by była kompletna (zamknięta, „skwitowana”) powinna być opłacona. ")
 https://en.wikipedia.org/wiki/Tarot
 https://pl.wikipedia.org/wiki/Tarot
+https://pinb.sanok.pl/
