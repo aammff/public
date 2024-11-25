@@ -1,0 +1,95 @@
+#!/usr/bin/perl
+# ./prsr host port time1
+#$time1=90;
+$time1=$ARGV[2];
+
+sub get_screen
+{
+$z=0;
+$screen="";
+	while($z < 320*24){
+	$n=sysread(CLI,$buf,320*24-$z) || die "read: $!\n";
+	$z+=$n;
+	$screen.=$buf;
+	}
+return $screen;
+}
+
+sub parse_screen
+{
+@cards=();
+$_=$_[0];
+s/(.)(.)../\1\2/g;
+/\..\..\..\../ && return;
+s/\|.( .){5}([<(\\])(.)(.)...( .){5}\|./"1".ord($3)."$4$2"/ge;
+s/\|.( .){3}([<(\\])(.)(.)...( .).{6}( .){3}\|./"2".ord($3)."$4$2"/ge;
+s/\|. .([<(\\])(.)(.)...( .).{14} .\|./"3".ord($2)."$3$1"/ge;
+s/[\x00-\x05]//g;
+	while(s/([0-9][0-9]..)//){
+	@cards=(@cards,$1);
+	}
+return @cards;
+}
+
+sub solve
+{
+@sets=();
+	for $i(0..9){
+	$c1=$_[$i];
+	for $j($i+1..10){
+	$c2=$_[$j];
+	for $k($j+1..11){
+	$c3=$_[$k];
+	$c1 =~ tr/<(\\ |@/123123/;
+	$c2 =~ tr/<(\\ |@/123123/;
+	$c3 =~ tr/<(\\ |@/123123/;
+		for $z(0..3){
+		$i1=int(substr($c1,$z,1));
+		$i2=int(substr($c2,$z,1));
+		$i3=int(substr($c3,$z,1));
+			if(!($i1==$i2 && $i2==$i3) && !
+			($i1!=$i2 && $i2!=$i3 && $i3!=$i1)){
+			goto qqqq;
+			}
+		}
+	@sets=(@sets,"$i $j $k");
+	qqqq:
+	}
+	}
+	}
+return @sets;
+}
+
+sub score
+{
+print "Solving...\n";
+$oldcards="";
+	foreach $key (split " ",$sets[rand($#sets+1)]) {
+	print CLI $keys[$key]."\0\0\0";
+	sleep 1;
+	}
+}
+
+use Socket;
+use IO::Handle;
+
+$SIG{"ALRM"}="score";
+
+socket (CLI,AF_INET,SOCK_STREAM,IPPROTO_TCP);
+$host=sockaddr_in($ARGV[1],inet_aton($ARGV[0]));
+connect CLI, $host || die "Connect: $!\n";
+CLI->autoflush(1);
+
+@keys=('q','w','e','r','a','s','d','f','z','x','c','v');
+
+$oldcards;
+	while(1){
+	@cards=parse_screen(get_screen());
+	($#cards <0) && next;
+	$card_string=join("",@cards);
+		if($card_string ne $oldcards){
+		@sets=solve(@cards);
+		alarm($time1/($#sets+1));
+		$oldcards=$card_string;
+		}
+	}
