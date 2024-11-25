@@ -222,3 +222,4 @@ https://en.wikipedia.org/wiki/Tarot
 https://pl.wikipedia.org/wiki/Tarot
 https://pinb.sanok.pl/
 https://www.wordkrosno.pl/pl
+https://ewzsanok.pl/
