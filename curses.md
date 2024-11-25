@@ -231,3 +231,4 @@ https://en.wikipedia.org/wiki/Patent
 https://developer.apple.com/design/human-interface-guidelines/immersive-experiences/
 DEP
 CEN
+PESEL
