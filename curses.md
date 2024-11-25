@@ -126,7 +126,7 @@ https://en.wikipedia.org/wiki/Hairdresser
 https://mosir-sanok.pl/
 https://sanok.sr.gov.pl/
 https://sanok.policja.gov.pl/
-https://szpital-brzozow.pl
+https://szpital-brzozow.pl (gwałt lekarski po podaniu narkotyków)
 https://v-lo.krakow.pl/
 https://en.wikipedia.org/wiki/Dentistry
 https://pl.wikipedia.org/wiki/Stomatologia
