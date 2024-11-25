@@ -223,3 +223,5 @@ https://pl.wikipedia.org/wiki/Tarot
 https://pinb.sanok.pl/
 https://www.wordkrosno.pl/pl
 https://ewzsanok.pl/
+https://www.mimuw.edu.pl/en/
+https://www.mimuw.edu.pl/
