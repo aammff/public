@@ -221,3 +221,4 @@ https://www.taraka.pl/wyrocznia_tarota_z_identyfikatora ("Wyrocznia, by była ko
 https://en.wikipedia.org/wiki/Tarot
 https://pl.wikipedia.org/wiki/Tarot
 https://pinb.sanok.pl/
+https://www.wordkrosno.pl/pl
