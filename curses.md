@@ -232,3 +232,4 @@ https://developer.apple.com/design/human-interface-guidelines/immersive-experien
 DEP
 CEN
 PESEL
+NIP
