@@ -228,3 +228,4 @@ https://www.mimuw.edu.pl/
 https://www.meta.com/en-gb/help/quest/articles/getting-started/getting-started-with-quest-pro/full-color-passthrough/
 https://en.wikipedia.org/wiki/Product_key
 https://en.wikipedia.org/wiki/Patent
+https://developer.apple.com/design/human-interface-guidelines/immersive-experiences/
