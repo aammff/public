@@ -245,3 +245,7 @@ https://labs.google/genchess/ ("This tool is not available to users under the ag
 https://oilgdansk.pl/
 https://oi.edu.pl/
 FB
+BÓG HONOR OJCZYZNA
+BÓG
+HONOR
+OJCZYZNA
