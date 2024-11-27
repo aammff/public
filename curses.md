@@ -240,3 +240,4 @@ https://www.oil.rzeszow.pl/
 https://zwrenoma.pl/
 CIT
 PIT
+VAT
