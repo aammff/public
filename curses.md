@@ -252,3 +252,4 @@ OJCZYZNA
 daniel mola
 andrzej kuzin
 https://www.dlink.com/
+https://en.wikipedia.org/wiki/Google_Neural_Machine_Translation
