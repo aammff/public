@@ -250,3 +250,4 @@ BÓG
 HONOR
 OJCZYZNA
 daniel mola
+andrzej kuzin
