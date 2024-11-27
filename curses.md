@@ -243,3 +243,4 @@ PIT
 VAT
 https://labs.google/genchess/ ("This tool is not available to users under the age of 18 or in certain countries or regions.")
 https://oilgdansk.pl/
+https://oi.edu.pl/
