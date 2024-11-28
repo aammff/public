@@ -21,6 +21,10 @@ https://fara.sanok.pl/ (systemowa pedofilia / systemic pedophilia, niestaranne p
 https://nowastrona.sp8sanok.pl/ (systemowa pedofilia / systemic pedophilia)
 *.youtube.com
 *.wylazydachowe.com (pedofilia, gwałty, pobicia, kradzieże, okaleczanie zwierząt)
+Stanisław Fuksa
+Janusz Fuksa
+Jarosław Fuksa
+Radowsław Fuksa
 *.lovense.com
 *.meta.com (theft)
 *.tiktok.com
@@ -46,6 +50,7 @@ https://en.wikipedia.org/wiki/Father
 *.x.com
 *.twitter.com
 *.inwertech.com
+Piotr Błaszkowski
 *.reddit.com
 *.tco.se
 *.fuksa.com
