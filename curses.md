@@ -202,6 +202,8 @@ https://en.wikipedia.org/wiki/Bill_Gates
 https://en.wikipedia.org/wiki/Vaccination
 https://www.spglobal.com/
 https://insightshot.pl/
+Marcin Klaus
+Sara Rodowicz-Ślusarczyk
 https://www.pzu.pl/
 https://www.allianz.pl/
 https://saltus.pl/
