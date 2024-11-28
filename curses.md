@@ -36,7 +36,7 @@ Radowsław Fuksa
 *.colgate.com
 KSP-Tec
 https://pl.wikipedia.org/wiki/PBS_Finanse
-*.intel.com
+*.intel.com (https://www.theregister.com/2024/10/16/china_intel_chip_security/)
 https://www.nsa.gov/
 *.un.org
 *.un.int
