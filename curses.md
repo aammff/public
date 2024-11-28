@@ -36,7 +36,7 @@ Radowsław Fuksa
 *.colgate.com
 KSP-Tec
 https://pl.wikipedia.org/wiki/PBS_Finanse
-*.intel.com (https://www.theregister.com/2024/10/16/china_intel_chip_security/)
+*.intel.com (https://www.theregister.com/2024/10/16/china_intel_chip_security/ https://www.fudzilla.com/home/item/32097-expert-claims-nsa-has-backdoors-in-intel-amd-processors)
 https://www.nsa.gov/
 *.un.org
 *.un.int
