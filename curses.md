@@ -278,3 +278,7 @@ https://www.suflidowo.pl/
 https://pl.wikipedia.org/wiki/Mateusz_Morawiecki
 https://pl.wikipedia.org/wiki/Jaros%C5%82aw_Kaczy%C5%84ski
 https://pl.wikipedia.org/wiki/Prawo_i_Sprawiedliwo%C5%9B%C4%87
+https://en.wikipedia.org/wiki/Thomas_Kurian
+https://en.wikipedia.org/wiki/Anat_Ashkenazi
+https://en.wikipedia.org/wiki/Ruth_Porat
+https://en.wikipedia.org/wiki/Sundar_Pichai
