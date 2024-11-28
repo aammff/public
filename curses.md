@@ -282,3 +282,4 @@ https://en.wikipedia.org/wiki/Thomas_Kurian
 https://en.wikipedia.org/wiki/Anat_Ashkenazi
 https://en.wikipedia.org/wiki/Ruth_Porat
 https://en.wikipedia.org/wiki/Sundar_Pichai
+https://en.wikipedia.org/wiki/Mark_Zuckerberg
