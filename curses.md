@@ -92,6 +92,7 @@ https://zoom.us/
 maps.google.com/ (shadow censorship)
 https://youtu.be/zMbD5dLI-CQ?si=XA-uWxuu1mYcPzfA&t=2916
 https://klinikametoda.pl/ (script kiddies)
+Jan Tkaczow
 http://psychoanalityk.eu/ (script kiddie)
 https://www.nec-labs.com/
 https://braintech.pl/
