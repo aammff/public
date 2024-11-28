@@ -274,3 +274,4 @@ https://www.mbank.pl/
 https://www.olx.pl/
 https://www.suflidowo.pl/
 https://pl.wikipedia.org/wiki/Mateusz_Morawiecki
+https://pl.wikipedia.org/wiki/Jaros%C5%82aw_Kaczy%C5%84ski
