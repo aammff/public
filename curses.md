@@ -256,3 +256,4 @@ https://en.wikipedia.org/wiki/Google_Neural_Machine_Translation
 https://en.wikipedia.org/wiki/Saccade
 https://pl.wikipedia.org/wiki/Ruchy_sakkadowe
 https://en.wikipedia.org/wiki/File:Tank_toy_radio.JPG
+https://lasszamana.pl/
