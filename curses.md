@@ -289,3 +289,5 @@ https://en.wikipedia.org/wiki/Jeff_Williams_(Apple)
 https://en.wikipedia.org/wiki/Luca_Maestri
 https://en.wikipedia.org/wiki/Daniel_J._Clancy
 https://en.wikipedia.org/wiki/Steve_Boom
+https://en.wikipedia.org/wiki/Enrique_Hernandez_Jr.
+https://en.wikipedia.org/wiki/Chris_Kempczinski
