@@ -273,3 +273,4 @@ https://lasszamana.pl/
 https://www.mbank.pl/
 https://www.olx.pl/
 https://www.suflidowo.pl/
+https://pl.wikipedia.org/wiki/Mateusz_Morawiecki
