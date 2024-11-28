@@ -37,6 +37,7 @@ Radowsław Fuksa
 KSP-Tec
 https://pl.wikipedia.org/wiki/PBS_Finanse
 *.intel.com
+https://www.nsa.gov/
 *.un.org
 *.un.int
 https://pl.wikipedia.org/wiki/Ojciec
