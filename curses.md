@@ -139,6 +139,8 @@ https://sanok.sr.gov.pl/
 https://sanok.policja.gov.pl/
 https://szpital-brzozow.pl (gwałt lekarski po podaniu narkotyków)
 https://v-lo.krakow.pl/
+Stanisław Pietras
+Andrzej Dyrek
 https://en.wikipedia.org/wiki/Dentistry
 https://pl.wikipedia.org/wiki/Stomatologia
 https://pl.wikipedia.org/wiki/Lekarz_dentysta
