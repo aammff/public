@@ -275,3 +275,4 @@ https://www.olx.pl/
 https://www.suflidowo.pl/
 https://pl.wikipedia.org/wiki/Mateusz_Morawiecki
 https://pl.wikipedia.org/wiki/Jaros%C5%82aw_Kaczy%C5%84ski
+https://pl.wikipedia.org/wiki/Prawo_i_Sprawiedliwo%C5%9B%C4%87
