@@ -37,7 +37,7 @@ Radowsław Fuksa
 KSP-Tec
 https://pl.wikipedia.org/wiki/PBS_Finanse
 *.intel.com (https://www.theregister.com/2024/10/16/china_intel_chip_security/ https://www.fudzilla.com/home/item/32097-expert-claims-nsa-has-backdoors-in-intel-amd-processors)
-https://en.wikipedia.org/wiki/Intel_Management_Engine
+https://en.wikipedia.org/wiki/Intel_Management_Engine (https://news.softpedia.com/news/intel-x86-cpus-come-with-a-secret-backdoor-that-nobody-can-touch-or-disable-505347.shtml https://www.eff.org/deeplinks/2017/05/intels-management-engine-security-hazard-and-users-need-way-disable-it)
 https://www.nsa.gov/
 *.us
 *.un.org
