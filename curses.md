@@ -287,3 +287,5 @@ https://en.wikipedia.org/wiki/Arthur_Levinson
 https://en.wikipedia.org/wiki/Tim_Cook
 https://en.wikipedia.org/wiki/Jeff_Williams_(Apple)
 https://en.wikipedia.org/wiki/Luca_Maestri
+https://en.wikipedia.org/wiki/Daniel_J._Clancy
+https://en.wikipedia.org/wiki/Steve_Boom
