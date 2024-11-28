@@ -283,3 +283,7 @@ https://en.wikipedia.org/wiki/Anat_Ashkenazi
 https://en.wikipedia.org/wiki/Ruth_Porat
 https://en.wikipedia.org/wiki/Sundar_Pichai
 https://en.wikipedia.org/wiki/Mark_Zuckerberg
+https://en.wikipedia.org/wiki/Arthur_Levinson
+https://en.wikipedia.org/wiki/Tim_Cook
+https://en.wikipedia.org/wiki/Jeff_Williams_(Apple)
+https://en.wikipedia.org/wiki/Luca_Maestri
