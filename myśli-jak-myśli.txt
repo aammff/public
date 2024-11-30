@@ -4,3 +4,7 @@ tematyką są błędy prowadzące do uszkadzania mechanizmów myślenia
 
 
 spotkałem "osoby" które się pod fizyków podszywały
+
+
+
+języki programowania o których jest sens się dowiadywać w pierwszej kolejności charakteryzują się tym że mają zbadaną semantykę i nie mają odśmiecarek (żadnej aplikacji czasu rzeczywistego nie da się zrobić na odśmiecarce)
