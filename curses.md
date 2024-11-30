@@ -300,3 +300,4 @@ Jan Fijałkowski
 Wojciec Piekarek
 Monika Soroka
 Jan Kogut
+https://www.hasco-lek.pl/
