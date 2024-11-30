@@ -3,3 +3,6 @@ a: there are two implementations of bootstrapped rust: ocaml and c++, therefore 
 
 q: co to jest awruk
 a: madka sprzedająca koleżeństwo
+
+q: kto je produkuje
+a: konstytucja
