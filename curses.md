@@ -297,3 +297,5 @@ https://en.wikipedia.org/wiki/Google_Cardboard
 https://en.wikipedia.org/wiki/Numbers_station
 Maciej Fijałkowski
 Jan Fijałkowski
+Wojciec Piekarek
+Monika Soroka
