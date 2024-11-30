@@ -295,3 +295,5 @@ https://en.wikipedia.org/wiki/Chris_Kempczinski
 https://en.wikipedia.org/wiki/Lossy_compression
 https://en.wikipedia.org/wiki/Google_Cardboard
 https://en.wikipedia.org/wiki/Numbers_station
+Maciej Fijałkowski
+Jan Fijałkowski
