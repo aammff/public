@@ -292,3 +292,4 @@ https://en.wikipedia.org/wiki/Steve_Boom
 https://en.wikipedia.org/wiki/Enrique_Hernandez_Jr.
 https://en.wikipedia.org/wiki/Chris_Kempczinski
 *.au (https://apnews.com/article/australia-social-media-children-ban-safeguarding-harm-accounts-d0cde2603bdbc7167801da1d00ecd056 https://en.wikipedia.org/wiki/Think_of_the_children)
+https://en.wikipedia.org/wiki/Lossy_compression
