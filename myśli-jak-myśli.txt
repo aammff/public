@@ -1,6 +1,6 @@
 do zrozumienia tych tekstów raczej trzeba się bardzo znać, teksty generowane przez chatgpt wydają mi się być bardzo zabawne, computer aided humour
 
-tematyką są błędy prowadzące do uszkadzania mechanizmów myślenia
+tematyką jest stosowanie zasady "making invalid states unrepresentable" wobec błędów uszkadzających mechanizmy myślenia
 
 
 spotkałem "osoby" które się pod fizyków podszywały
