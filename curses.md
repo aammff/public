@@ -383,3 +383,4 @@ https://pl.wiktionary.org/wiki/wymiar
 http://pl.wiktionary.org/wiki/o%C5%9Bcie%C5%BCnica
 https://pl.wiktionary.org/wiki/telewizor
 https://pl.wiktionary.org/wiki/radio
+https://pl.wiktionary.org/wiki/czo%C5%82g
