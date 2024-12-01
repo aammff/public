@@ -319,3 +319,9 @@ https://pl.wiktionary.org/wiki/j%C4%99zyk
 https://en.wiktionary.org/wiki/j%C4%99zyk
 https://en.wiktionary.org/wiki/language
 https://pl.wiktionary.org/wiki/language
+https://pl.wiktionary.org/wiki/auto
+https://en.wiktionary.org/wiki/auto
+https://en.wiktionary.org/wiki/kierownica
+https://en.wiktionary.org/wiki/steering_wheel
+https://en.wiktionary.org/wiki/brake
+https://pl.wiktionary.org/wiki/hamulec
