@@ -389,3 +389,4 @@ https://pl.wiktionary.org/wiki/argument
 https://en.wiktionary.org/wiki/argument
 https://www.envelo.pl/
 https://www.poczta-polska.pl/
+https://pl.wiktionary.org/wiki/piasek
