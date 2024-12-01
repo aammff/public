@@ -381,3 +381,4 @@ https://pl.wiktionary.org/wiki/member
 https://pl.wiktionary.org/wiki/John_Thomas
 https://pl.wiktionary.org/wiki/wymiar
 http://pl.wiktionary.org/wiki/o%C5%9Bcie%C5%BCnica
+https://pl.wiktionary.org/wiki/telewizor
