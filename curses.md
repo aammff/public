@@ -379,3 +379,4 @@ https://pl.wiktionary.org/wiki/pecker
 https://pl.wiktionary.org/wiki/phallus
 https://pl.wiktionary.org/wiki/member
 https://pl.wiktionary.org/wiki/John_Thomas
+https://pl.wiktionary.org/wiki/wymiar
