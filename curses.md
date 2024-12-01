@@ -310,3 +310,7 @@ https://en.wikipedia.org/wiki/Car
 https://pl.wikipedia.org/wiki/Samoch%C3%B3d
 https://pl.wikipedia.org/wiki/Rower
 https://pl.wikipedia.org/wiki/Katolicyzm
+https://pl.wiktionary.org/wiki/ojciec
+https://en.wiktionary.org/wiki/ojciec
+https://en.wiktionary.org/wiki/father
+https://pl.wiktionary.org/wiki/father
