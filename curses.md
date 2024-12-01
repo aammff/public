@@ -325,3 +325,5 @@ https://en.wiktionary.org/wiki/kierownica
 https://en.wiktionary.org/wiki/steering_wheel
 https://en.wiktionary.org/wiki/brake
 https://pl.wiktionary.org/wiki/hamulec
+https://pl.wiktionary.org/wiki/rum
+https://pl.wiktionary.org/wiki/mur
