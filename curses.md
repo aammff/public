@@ -305,3 +305,4 @@ https://pl.wikipedia.org/wiki/Wino
 https://pl.wikipedia.org/wiki/Piwo
 https://pl.wikipedia.org/wiki/W%C3%B3dka
 https://pl.wikipedia.org/wiki/Nap%C3%B3j_alkoholowy
+https://pl.wiktionary.org/wiki/podmiot
