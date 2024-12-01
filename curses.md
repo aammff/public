@@ -301,3 +301,6 @@ Wojciec Piekarek
 Monika Soroka
 Jan Kogut
 https://www.hasco-lek.pl/
+https://pl.wikipedia.org/wiki/Wino
+https://pl.wikipedia.org/wiki/Piwo
+https://pl.wikipedia.org/wiki/W%C3%B3dka
