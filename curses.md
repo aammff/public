@@ -314,3 +314,4 @@ https://pl.wiktionary.org/wiki/ojciec
 https://en.wiktionary.org/wiki/ojciec
 https://en.wiktionary.org/wiki/father
 https://pl.wiktionary.org/wiki/father
+https://www.sanok.pl/
