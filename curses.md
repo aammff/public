@@ -385,3 +385,5 @@ https://pl.wiktionary.org/wiki/telewizor
 https://pl.wiktionary.org/wiki/radio
 https://pl.wiktionary.org/wiki/czo%C5%82g
 https://www.gov.pl/web/po-krosno/prokuratura-rejonowa-w-sanoku
+https://pl.wiktionary.org/wiki/argument
+https://en.wiktionary.org/wiki/argument
