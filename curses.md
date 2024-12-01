@@ -21,7 +21,7 @@ https://fara.sanok.pl/ (systemowa pedofilia / systemic pedophilia, niestaranne p
 https://nowastrona.sp8sanok.pl/ (systemowa pedofilia / systemic pedophilia)
 *.youtube.com
 *.wylazydachowe.com (pedofilia, gwałty, pobicia, kradzieże, okaleczanie zwierząt)
-Stanisław Fuksa
+Stanisław Fuksa (ten kutas mnie gwałcił)
 Janusz Fuksa
 Jarosław Fuksa
 Radowsław Fuksa
@@ -327,3 +327,30 @@ https://en.wiktionary.org/wiki/brake
 https://pl.wiktionary.org/wiki/hamulec
 https://pl.wiktionary.org/wiki/rum
 https://pl.wiktionary.org/wiki/mur
+https://pl.wiktionary.org/wiki/okno
+https://pl.wiktionary.org/wiki/drzwi
+https://pl.wiktionary.org/wiki/zawias
+https://pl.wiktionary.org/wiki/klamka
+https://pl.wiktionary.org/wiki/zamek
+https://pl.wiktionary.org/wiki/klucz
+https://pl.wiktionary.org/wiki/telefon
+https://pl.wiktionary.org/wiki/smartfon
+https://pl.wiktionary.org/wiki/komputer
+https://pl.wiktionary.org/wiki/laptop
+https://pl.wiktionary.org/wiki/kamera
+https://pl.wiktionary.org/wiki/sedes
+https://pl.wiktionary.org/wiki/kibel
+https://pl.wiktionary.org/wiki/WC
+https://pl.wikipedia.org/wiki/Jelito
+https://pl.wikipedia.org/wiki/Jelito_cienkie
+https://pl.wikipedia.org/wiki/Jelito_grube
+https://pl.wikipedia.org/wiki/Dwunastnica
+https://pl.wikipedia.org/wiki/Jelito_czcze
+https://pl.wikipedia.org/wiki/Jelito_kr%C4%99te
+https://pl.wikipedia.org/wiki/Jelito_%C5%9Blepe
+https://pl.wikipedia.org/wiki/Okr%C4%99%C5%BCnica_wst%C4%99puj%C4%85ca
+https://pl.wikipedia.org/wiki/Okr%C4%99%C5%BCnica_poprzeczna
+https://pl.wikipedia.org/wiki/Okr%C4%99%C5%BCnica_zst%C4%99puj%C4%85ca
+https://pl.wikipedia.org/wiki/Okr%C4%99%C5%BCnica_esowata
+https://pl.wikipedia.org/wiki/Odbytnica
+https://pl.wikipedia.org/wiki/Odbyt
