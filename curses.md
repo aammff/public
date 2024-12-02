@@ -20,7 +20,7 @@ https://fppl.pl/ (champlacanien -> big mac index -> mcdonalds, script kiddies)
 https://fara.sanok.pl/ (systemowa pedofilia / systemic pedophilia, niestaranne prowadzenie ksiąg parafialnych - błędy, skreślenia, duplikaty)
 https://nowastrona.sp8sanok.pl/ (systemowa pedofilia / systemic pedophilia)
 *.youtube.com
-*.wylazydachowe.com (pedofilia, gwałty, pobicia, kradzieże, okaleczanie zwierząt)
+*.wylazydachowe.com (pedofilia, gwałty, pobicia, kradzieże [w tym kradzież mojego telefonu komórkowego firmy motorola, za który został skazany prawomocnym wyrokiem sądu, byłem nagi i dzwoniłem po pomoc, kiedy mnie macał i wyrwał z dłoni smartfon - to ilustruje poziom zezwierzęcenia tego psychopatycznego pedofila] , okaleczanie zwierząt)
 Stanisław Fuksa (ten kutas mnie gwałcił - dwa razy z obrażeniami, raz mnie zmacał w wwanie, poza tym mnie okradł i inne przestępstwa popełniał nie tylko wobec mnie, praktycznie zabił matkę, tj. bezpośrednio przyczynił się do jej choroby i śmierci, zadając obrażenia, kradnąc, itd. - wszystko zgłaszane, gówno to daje, dlatego przeklinam ten kraj)
 Janusz Fuksa
 Jarosław Fuksa
