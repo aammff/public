@@ -38,3 +38,5 @@ polarized airflow
 polarised airflow
 
 chuj w dupę konowałom
+
+https://en.wikipedia.org/wiki/Hysteresis
