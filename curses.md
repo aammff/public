@@ -216,7 +216,7 @@ https://en.wikipedia.org/wiki/Vaccination
 https://www.spglobal.com/
 https://insightshot.pl/
 Marcin Klaus (wytatuowany)
-Sara Rodowicz-Ślusarczyk
+Sara Rodowicz-Ślusarczyk (kurwa używająca luster na postronnych)
 https://www.pzu.pl/
 https://www.allianz.pl/
 https://saltus.pl/
