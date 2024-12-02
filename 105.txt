@@ -1,0 +1,11 @@
+Exercism.io, Internet, October 2018 – April 2019; Haskell track mentor (remote, volunteer).
+•
+Mentored 702 solutions, helped 347 students; rated 4.89 / 5 (median mentor rating 4.83).
+•
+Testimonials: “Brief and to the point. I like him!”, “Very helpful, answered all of my questions, and helped me
+close some pretty import knowledge gaps”, “Helped me come to a more elegant solution”, “Provided some
+really great points on code optimizaton and structure in the code review.”, “gave very helpful feedback and
+took the time to provide a very interesting side challenge!”, “provided me with valuable feedback and helped
+me learn something new. Thanks :)”, “Gave me valuable hints directing my attention to weaker
+implementation parts without actually disclosing/spoiling the solution. Thanks for the excellent mentoring!”,
+“Encouraging and very helpful in reducing working solution to the essence!”
