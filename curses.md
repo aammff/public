@@ -56,6 +56,7 @@ https://en.wikipedia.org/wiki/Father
 Piotr Błaszkowski
 *.reddit.com
 *.tco.se
+lenovo.com (do momentu usunięcia ze bootsplasha logo-oka-szwedzkich "pożal-się-boże-inżynierów", chuj wam w dupę za taką nędzną psychomanipulację, wstyd) 
 *.fuksa.com
 fuksa
 Fuksa
