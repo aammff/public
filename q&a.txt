@@ -1,5 +1,5 @@
 q: programming languages of linux kernel
-a: there are two implementations of bootstrapped rust: ocaml and c++, therefore linux kernel build depends not only on rust, c and asm but also either on ocaml or c++
+a: there are two implementations of bootstrapped rust: ocaml and c++, therefore linux kernel build depends not only on rust, c and asm but also either on ocaml or c++ (czyli dostajemy "interesującą" różnicę histerez dla tych samych binarek, jeśli powstały różnymi drogami - o takich rzeczach nikt nie mówi, jest tego więcej) 
 
 q: co to jest awruk
 a: madka sprzedająca koleżeństwo
