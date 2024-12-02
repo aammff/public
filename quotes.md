@@ -68,3 +68,5 @@ jak nie wiadomo o co chodzi to ludzie rozmawiają o językach programowania
 no backseating, no spoilers
 
 życie to gaz rozweselający
+
+https://en.wikipedia.org/wiki/Principle_of_least_astonishment
