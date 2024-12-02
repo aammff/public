@@ -70,3 +70,5 @@ no backseating, no spoilers
 życie to gaz rozweselający
 
 https://en.wikipedia.org/wiki/Principle_of_least_astonishment
+
+https://en.wikipedia.org/wiki/Etiquette_in_technology '"Rules of the Internet" redirects here. For the meme, see Rule 34 and Rule 63.'
