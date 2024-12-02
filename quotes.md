@@ -64,3 +64,5 @@ https://en.wikipedia.org/wiki/Real-time_text
 łańcuch liczb
 
 jak nie wiadomo o co chodzi to ludzie rozmawiają o językach programowania
+
+no backseating, no spoilers
