@@ -393,3 +393,7 @@ https://www.poczta-polska.pl/
 https://pl.wiktionary.org/wiki/piasek
 https://pl.wiktionary.org/wiki/nap%C4%99d
 wbrew służbom specjalnej troski, piasek nie jest własnością firmy az
+https://en.wiktionary.org/wiki/calendar
+https://pl.wiktionary.org/wiki/calendar
+https://pl.wiktionary.org/wiki/kalendarz
+https://en.wiktionary.org/wiki/kalendarz
