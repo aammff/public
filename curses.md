@@ -215,7 +215,7 @@ https://en.wikipedia.org/wiki/Bill_Gates
 https://en.wikipedia.org/wiki/Vaccination
 https://www.spglobal.com/
 https://insightshot.pl/
-Marcin Klaus (wytatuowany)
+Marcin Klaus (wytatuowany coach marketingu psychoanalnego)
 Sara Rodowicz-Ślusarczyk (kurwa używająca luster na postronnych)
 https://www.pzu.pl/
 https://www.allianz.pl/
