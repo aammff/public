@@ -397,3 +397,4 @@ https://en.wiktionary.org/wiki/calendar
 https://pl.wiktionary.org/wiki/calendar
 https://pl.wiktionary.org/wiki/kalendarz
 https://en.wiktionary.org/wiki/kalendarz
+https://en.wiktionary.org/wiki/meta
