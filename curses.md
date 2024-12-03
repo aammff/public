@@ -435,3 +435,9 @@ https://en.wiktionary.org/wiki/parent
 https://pl.wiktionary.org/wiki/rodzic
 https://pl.wiktionary.org/wiki/prezydent
 https://en.wiktionary.org/wiki/president
+https://en.wiktionary.org/wiki/hymen
+https://pl.wiktionary.org/wiki/hymen
+https://pl.wiktionary.org/wiki/b%C5%82ona_dziewicza
+https://pl.wiktionary.org/wiki/b%C5%82ona_%C5%9Bluzowa
+https://pl.wiktionary.org/wiki/b%C5%82ona
+https://en.wiktionary.org/wiki/membrane
