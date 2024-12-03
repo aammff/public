@@ -446,3 +446,4 @@ https://pl.wiktionary.org/wiki/pochwa
 https://pl.wiktionary.org/wiki/USG
 https://pl.wiktionary.org/wiki/RTG
 https://pl.wiktionary.org/wiki/ig%C5%82a
+https://en.wiktionary.org/wiki/needle
