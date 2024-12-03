@@ -449,3 +449,6 @@ https://pl.wiktionary.org/wiki/ig%C5%82a
 https://en.wiktionary.org/wiki/needle
 https://en.wiktionary.org/wiki/key
 https://pl.wiktionary.org/wiki/klucz
+https://pl.wiktionary.org/wiki/resort
+https://www.gov.pl/web/zdrowie
+ms.gov.pl
