@@ -406,3 +406,4 @@ https://pl.wikipedia.org/wiki/Antoni_K%C4%99pi%C5%84ski (faktyczne rodzaje schiz
 https://pl.wiktionary.org/wiki/wycinek
 https://pl.wiktionary.org/wiki/mikroskop
 https://pl.wiktionary.org/wiki/okulista
+https://pl.wiktionary.org/wiki/sinus
