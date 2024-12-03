@@ -405,3 +405,4 @@ https://uczp-krakow.pl/
 https://pl.wikipedia.org/wiki/Antoni_K%C4%99pi%C5%84ski (faktyczne rodzaje schizofrenii: przemoc medyczna, przemoc domowa, przemoc podwórkowa, przemoc szkolna, przemoc religijna, przemoc korporacyjna, przemoc państwowa)
 https://pl.wiktionary.org/wiki/wycinek
 https://pl.wiktionary.org/wiki/mikroskop
+https://pl.wiktionary.org/wiki/okulista
