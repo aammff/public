@@ -407,3 +407,4 @@ https://pl.wiktionary.org/wiki/wycinek
 https://pl.wiktionary.org/wiki/mikroskop
 https://pl.wiktionary.org/wiki/okulista
 https://pl.wiktionary.org/wiki/sinus
+https://en.wiktionary.org/wiki/sinus
