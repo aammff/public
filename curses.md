@@ -410,3 +410,4 @@ https://pl.wiktionary.org/wiki/sinus
 https://en.wiktionary.org/wiki/sinus
 https://en.wikipedia.org/wiki/Rothschild_family
 https://en.wikipedia.org/wiki/GS1
+https://en.wikipedia.org/wiki/Domain_Name_System
