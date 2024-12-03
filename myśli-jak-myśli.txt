@@ -54,3 +54,5 @@ potencjalny paw królowej
 https://en.wikipedia.org/wiki/2019_revision_of_the_SI
 
 nie ma spodziewanego związku między kpi a jakością kodu, istotniejsze od tego co zostało napisane jest kto napisał
+  - być może jest to jedno z głównych kłamstw/niedopowiedzeń branży IT
+  - z tego powodu, jakkolwiek by to głupio nie brzmiało, może być trudno racjonalnie uzasadnić inny podział "zysków" niż wszystkim tyle samo, łącznie z tymi, którzy teoretycznie do projektu nic nie wnieśli 
