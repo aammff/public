@@ -433,3 +433,5 @@ https://pl.wiktionary.org/wiki/%C5%BC%C3%B3%C5%82%C4%87
 https://pl.wiktionary.org/wiki/ja%C5%BA%C5%84
 https://en.wiktionary.org/wiki/parent
 https://pl.wiktionary.org/wiki/rodzic
+https://pl.wiktionary.org/wiki/prezydent
+https://en.wiktionary.org/wiki/president
