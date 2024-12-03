@@ -52,3 +52,5 @@ https://en.wikipedia.org/wiki/Fourier_transform
 potencjalny paw królowej
 
 https://en.wikipedia.org/wiki/2019_revision_of_the_SI
+
+nie ma spodziewanego związku między kpi a jakością kodu, istotniejsze od tego co zostało napisane jest kto napisał
