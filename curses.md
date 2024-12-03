@@ -443,3 +443,5 @@ https://pl.wiktionary.org/wiki/b%C5%82ona
 https://en.wiktionary.org/wiki/membrane
 https://en.wiktionary.org/wiki/vagina
 https://pl.wiktionary.org/wiki/pochwa
+https://pl.wiktionary.org/wiki/USG
+https://pl.wiktionary.org/wiki/RTG
