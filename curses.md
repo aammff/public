@@ -473,3 +473,5 @@ http://www.gumed.edu.pl/
 https://www.ing.pl/
 https://sejm.gov.pl/
 https://www.senat.gov.pl/
+https://en.wikipedia.org/wiki/Dionysus
+https://pl.wikipedia.org/wiki/Dionizos
