@@ -404,3 +404,4 @@ https://pl.wikipedia.org/wiki/%C5%9Awi%C4%99ty_Miko%C5%82aj_(kultura_masowa)
 https://uczp-krakow.pl/
 https://pl.wikipedia.org/wiki/Antoni_K%C4%99pi%C5%84ski (faktyczne rodzaje schizofrenii: przemoc medyczna, przemoc domowa, przemoc podwórkowa, przemoc szkolna, przemoc religijna, przemoc korporacyjna, przemoc państwowa)
 https://pl.wiktionary.org/wiki/wycinek
+https://pl.wiktionary.org/wiki/mikroskop
