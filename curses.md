@@ -475,3 +475,7 @@ https://sejm.gov.pl/
 https://www.senat.gov.pl/
 https://en.wikipedia.org/wiki/Dionysus
 https://pl.wikipedia.org/wiki/Dionizos
+https://pl.wiktionary.org/wiki/cyc
+https://pl.wiktionary.org/wiki/oko
+https://en.wiktionary.org/wiki/tit
+https://en.wiktionary.org/wiki/eye
