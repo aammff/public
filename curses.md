@@ -484,3 +484,4 @@ https://pl.wiktionary.org/wiki/s%C5%82uchawki
 https://en.wiktionary.org/wiki/glasses
 https://en.wiktionary.org/wiki/headphones
 https://en.wiktionary.org/wiki/earphones
+https://przychodniasanok.pl/
