@@ -58,3 +58,7 @@ nie ma spodziewanego związku między kpi a jakością kodu, istotniejsze od teg
   - z tego powodu, jakkolwiek by to głupio nie brzmiało, może być trudno racjonalnie uzasadnić inny podział "zysków" niż wszystkim tyle samo, łącznie z tymi, którzy teoretycznie do projektu nic nie wnieśli 
 
 to nie jest w moim interesie, żeby inni byli znacząco głupsi ode mnie
+
+to nie jest w czyimkolwiek interesie, żeby ktokolwiek był od kogokolwiek istotnie głupszy 
+
+to nie jest w czyimkolwiek interesie, żeby ktokolwiek od kogokolwiek był istotnie głupszy
