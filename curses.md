@@ -479,3 +479,8 @@ https://pl.wiktionary.org/wiki/cyc
 https://pl.wiktionary.org/wiki/oko
 https://en.wiktionary.org/wiki/tit
 https://en.wiktionary.org/wiki/eye
+https://pl.wiktionary.org/wiki/okulary
+https://pl.wiktionary.org/wiki/s%C5%82uchawki
+https://en.wiktionary.org/wiki/glasses
+https://en.wiktionary.org/wiki/headphones
+https://en.wiktionary.org/wiki/earphones
