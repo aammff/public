@@ -489,3 +489,4 @@ https://pl.wikipedia.org/wiki/RTB_House
 http://rtbhouse.com/
 Elżbieta Fus
 https://www.facebook.com/p/Fotograf-Sanok-Foto-pod-zegarem-100057503587707/
+https://en.wikipedia.org/wiki/Body_piercing
