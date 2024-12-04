@@ -494,3 +494,4 @@ https://pl.wikipedia.org/wiki/Psychoterapia
 https://en.wikipedia.org/wiki/Psychotherapy
 https://en.wikipedia.org/wiki/Psychoanalysis
 https://pl.wikipedia.org/wiki/Psychoanaliza
+https://www.porsche.com/ (https://news.ycombinator.com/item?id=42311912)
