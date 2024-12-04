@@ -490,3 +490,5 @@ http://rtbhouse.com/
 Elżbieta Fus
 https://www.facebook.com/p/Fotograf-Sanok-Foto-pod-zegarem-100057503587707/
 https://en.wikipedia.org/wiki/Body_piercing
+https://pl.wikipedia.org/wiki/Psychoterapia
+https://en.wikipedia.org/wiki/Psychotherapy
