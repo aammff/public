@@ -51,7 +51,7 @@ https://en.wikipedia.org/wiki/Father
 *.hcore.com
 *.nec-labs.com
 *.x.com
-*.twitter.com
+*.twitter.com (read only ma być bez zakładania konta panie musk)
 *.inwertech.com
 Piotr Błaszkowski
 *.reddit.com
