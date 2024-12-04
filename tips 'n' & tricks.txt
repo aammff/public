@@ -1,0 +1,1 @@
+od usuwania pomników lepsze jest dokumentowane przerabianie, od dokumentowanego przerabiania lepsze jest stawianie nowych, od stawiania nowych lepsze jest niestawianie wcale
