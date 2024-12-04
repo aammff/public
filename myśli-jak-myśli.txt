@@ -67,3 +67,6 @@ to nie jest w czyimkolwiek interesie, żeby ktokolwiek od kogokolwiek był istot
 kamieni lepiej nie ruszać, jak ruszać to lepiej nie łamać/ciać, jak łamać/ciąć to nie szlifować, jak szlifować to nie sprzedawać; mniej problemów
 
 https://en.wikipedia.org/wiki/Homomorphic_encryption
+
+nie chodzi o to żeby rzeczy się działy z takiego powodu że ktoś coś zapomniał
+
