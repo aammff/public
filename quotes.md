@@ -74,3 +74,5 @@ https://en.wikipedia.org/wiki/Principle_of_least_astonishment
 https://en.wikipedia.org/wiki/Etiquette_in_technology '"Rules of the Internet" redirects here. For the meme, see [Rule 34](https://en.wikipedia.org/wiki/Rule_34) and [Rule 63](https://en.wikipedia.org/wiki/Rule_63).'
 
 https://nosubject.com/KIDA#/media/File:Kida_endorse.gif
+
+"e^(i*π) + 1 = 0"
