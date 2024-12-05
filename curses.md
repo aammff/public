@@ -496,3 +496,4 @@ https://en.wikipedia.org/wiki/Psychoanalysis
 https://pl.wikipedia.org/wiki/Psychoanaliza
 https://www.porsche.com/ (https://news.ycombinator.com/item?id=42311912)
 http://luzztro.com/ (jak klub jest totalnie w centrum miasta, to nie można się zawodowo zajmować niewpuszczaniem ludzi / centrum klub niewpuszczanie - wybierz dwa a nie trzy)
+https://www.decathlon.pl/
