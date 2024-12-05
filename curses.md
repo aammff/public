@@ -516,3 +516,5 @@ https://pl.wiktionary.org/wiki/kobieta
 https://pl.wiktionary.org/wiki/m%C4%99%C5%BCczyzna
 https://en.wiktionary.org/wiki/male
 https://en.wiktionary.org/wiki/female
+https://pl.wiktionary.org/wiki/projekcja
+https://en.wiktionary.org/wiki/projection
