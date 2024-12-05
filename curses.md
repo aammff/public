@@ -506,3 +506,13 @@ https://pl.wikipedia.org/wiki/Uczelnia_Pa%C5%84stwowa_im._Jana_Grodka_w_Sanoku
 https://up-sanok.edu.pl/csm
 https://pl.wiktionary.org/wiki/wojna
 https://en.wiktionary.org/wiki/war
+https://en.wiktionary.org/wiki/boy
+https://en.wiktionary.org/wiki/girl
+https://pl.wikipedia.org/wiki/Ch%C5%82opiec
+https://pl.wikipedia.org/wiki/Dziewczyna
+https://pl.wikipedia.org/wiki/Dziecko
+https://en.wikipedia.org/wiki/Child
+https://pl.wiktionary.org/wiki/kobieta
+https://pl.wiktionary.org/wiki/m%C4%99%C5%BCczyzna
+https://en.wiktionary.org/wiki/male
+https://en.wiktionary.org/wiki/female
