@@ -6,7 +6,8 @@ tes.tar.gz (somewhat lost) files:
  - linux/posix mostly compatible, text mode, multiplayer, network, realtime, C language, implementation of the card 'set' game
  - the source code is lost/missing/unavailable at the moment, will upload if i find missing files; it used to be available at ?~sourceforge.net/tes, however i can't find it anymore.
  - the game was programmed in ~2002 and tested/played at kraków, studencka 12, august.v-lo.krakow.pl
- - the bot was spontaneously programmed by an other admin of august.v-lo.krakow.pl
+ - the bot was spontaneously programmed by an other admin (not sure if he'd like to remain semi-anonymous) of august.v-lo.krakow.pl
+ - decided to upload the files as a support for software preservation / memory restoration
 
 
 
