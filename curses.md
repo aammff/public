@@ -518,3 +518,6 @@ https://en.wiktionary.org/wiki/male
 https://en.wiktionary.org/wiki/female
 https://pl.wiktionary.org/wiki/projekcja
 https://en.wiktionary.org/wiki/projection
+https://wiadomosci.radiozet.pl/polska/uczniowie-nie-rozumieja-juz-prostych-slow-potrzebuja-tlumaczenia-na-angielski-albo-porownan
+https://wiadomosci.radiozet.pl/Redakcja/aleksandra-puculek
+https://pl.wikipedia.org/wiki/Prasa_gadzinowa
