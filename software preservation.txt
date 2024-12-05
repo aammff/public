@@ -1,5 +1,5 @@
 tes.tar.gz (somewhat lost) files:
- gra - game client binary
+ tes - game client binary
  scc - game server binary
  prsr - game bot
 
