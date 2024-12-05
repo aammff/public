@@ -502,3 +502,4 @@ https://pl.wikipedia.org/wiki/Przetoka
 https://en.wikipedia.org/wiki/Fistula
 https://pl.wiktionary.org/wiki/nerka
 https://en.wiktionary.org/wiki/kidney
+https://pl.wikipedia.org/wiki/Uczelnia_Pa%C5%84stwowa_im._Jana_Grodka_w_Sanoku
