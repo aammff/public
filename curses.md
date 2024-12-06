@@ -523,3 +523,5 @@ https://wiadomosci.radiozet.pl/Redakcja/aleksandra-puculek
 https://pl.wikipedia.org/wiki/Prasa_gadzinowa
 https://pl.wikipedia.org/wiki/Pacynka
 https://en.wikipedia.org/wiki/Magic_Eye
+https://pl.wiktionary.org/wiki/syfon
+https://en.wiktionary.org/wiki/siphon
