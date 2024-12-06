@@ -522,3 +522,4 @@ https://wiadomosci.radiozet.pl/polska/uczniowie-nie-rozumieja-juz-prostych-slow-
 https://wiadomosci.radiozet.pl/Redakcja/aleksandra-puculek
 https://pl.wikipedia.org/wiki/Prasa_gadzinowa
 https://pl.wikipedia.org/wiki/Pacynka
+https://en.wikipedia.org/wiki/Magic_Eye
