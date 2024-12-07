@@ -1,3 +1,5 @@
+please explain differences between lathe file drill "milling cutter"
+
 [Tool Function Comparison]
 
 Lathe, file, drill, and milling cutter are tools or machine components used in machining and metalworking, but each serves different purposes and operates differently. Here's a breakdown of their distinctions:
