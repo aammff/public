@@ -1,3 +1,5 @@
+please explain differences between rle huffman dfs bfs
+
 [RLE Huffman DFS BFS]
 
 Sure! Here's a comparison of **RLE (Run-Length Encoding)**, **Huffman Encoding**, **DFS (Depth-First Search)**, and **BFS (Breadth-First Search)**. They are different concepts, used in various fields of computer science, including compression algorithms and graph traversal. Let's go through each one and explain the differences.
