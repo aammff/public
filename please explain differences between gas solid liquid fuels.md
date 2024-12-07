@@ -1,3 +1,5 @@
+please explain differences between gas solid liquid fuels
+
 [Gas Solid Liquid Fuels]
 
 Fuels are materials that release energy through combustion or other chemical processes. They exist in three states: **gas**, **solid**, and **liquid**. Here are the differences between them based on various characteristics:
