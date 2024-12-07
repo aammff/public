@@ -529,3 +529,5 @@ https://syfonstudio.com/
 https://pl.wiktionary.org/wiki/budowa
 https://pl.wikipedia.org/wiki/Stomia
 https://en.wikipedia.org/wiki/Stoma_(medicine)
+https://en.wiktionary.org/wiki/stoma
+https://pl.wiktionary.org/wiki/stomia
