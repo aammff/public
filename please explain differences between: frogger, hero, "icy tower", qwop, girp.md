@@ -1,3 +1,5 @@
+please explain differences between: frogger, hero, "icy tower", qwop, girp
+
 [Game Comparison Overview]
 
 These games, though all popular in their time, differ significantly in gameplay mechanics, goals, and user experience. Here's a breakdown of their differences:
