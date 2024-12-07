@@ -1,0 +1,25 @@
+rants:
+
+
+mimuw (ze dwadzieścia lat temu):
+ - o matematyce się nie wypowiadam, bo się nie znam; sporo można było się nauczyć wdychając pył kredowy autorów znanych podręczników; nie wiem czy teraz są tablice kredowe, a jeśli nie to czy zapach tuszu z pisaków działa podobnie
+ 
+ - o informatyce - lepiej nie
+   - kwestie estetyczne
+     - budynek powojskowy - niefajny klimat
+     - stołówka ze szczątkami martwych zwierząt - wstyd
+     
+   - 
+     - jedynym językami nieodśmiecarkowymi były assembler x86 i C, które już wcześniej jako tako znałem (chyba też pascal na potoku imperatywnym, myślę że to nie fair było takie rozdzielanie roku)
+     
+     - wiele osób prowadzących zajęcia działało poza uczelnią przy projektach o niewiadomej proweniencji
+     
+     - ogólnie to chyba było coś pomiędzy matematyką i bootcampem + było trochę specjalistów, ale może bez sensu dla tych kilku osób siedzieć pięć lat w słabym miejscu i robić trochę niewiadomo co
+     
+     - ogólnie to moje studiowanie nie sprawiło, że w trakcie studiów albo po napisałem cokolwiek ciekawego, nastąpił zastój.
+     
+     - w praktyce po studiach odczuwałem braki w matematycznych podstawach języków programowania, a także w nowszych działach matematyki jak topologia; tj. nie znam/znałem podstaw wielu przydatnych/ciekawych działów matematyki
+     
+     - czy gdzieindziej było lepiej? nie wiem, może nad morzem lepiej, albo nie w budynku powojskowym
+     
+     
