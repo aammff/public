@@ -316,6 +316,7 @@ https://en.wiktionary.org/wiki/ojciec
 https://en.wiktionary.org/wiki/father
 https://pl.wiktionary.org/wiki/father
 https://www.sanok.pl/
+Tomasz Adam Matuszewski
 https://pl.wiktionary.org/wiki/j%C4%99zyk
 https://en.wiktionary.org/wiki/j%C4%99zyk
 https://en.wiktionary.org/wiki/language
