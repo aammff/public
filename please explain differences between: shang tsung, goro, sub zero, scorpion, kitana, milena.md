@@ -1,3 +1,5 @@
+please explain differences between: shang tsung, goro, sub zero, scorpion, kitana, milena
+
 [Mortal Kombat Character Differences]
 
 These characters come from the **Mortal Kombat** universe, a popular video game franchise known for its martial arts combat and rich lore. Each character has distinct traits, fighting styles, and backstories. Here's an overview of their differences:
