@@ -76,6 +76,7 @@ to nie jest tak że gówno (mikcjsroft, srintel, fejsiki) do niczego się nie na
 jakby ktoś miał wątpliwości, to niech zajrzy tutaj https://en.wikipedia.org/wiki/TOP500 "All the fastest supercomputers since the Earth Simulator supercomputer have used operating systems based on Linux. Since November 2017, all the listed supercomputers use an operating system based on the Linux kernel.[13][14]" - wystarczy zainstalować sobie linuxa i mamy boost do intelektu.
 
 (w intelu głupi ludzie raczej nie robią, po prostu im kazali podziurawić procesory, to tak zrobili)
+[cisco to inna gówno-amerykańska-firma znana głównie z produkcji backdoorów z możliwością podłączania do internetu https://nvd.nist.gov/vuln/detail/cve-2019-1804]
 
 [jak ktoś chce być bardziej elitarny to może sobie bsd zaintalować, też dobrze]
 
