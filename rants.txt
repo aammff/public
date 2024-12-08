@@ -57,3 +57,5 @@ najciekawszą chyba było zajmowanie się sprzętem w net.icm.edu.pl
 jak nie wiedzieliście, czym się zajmują/zajmowali "najlepsi" informatycy w kraju, to już wiecie. idea jest taka, że dokładnie każde kliknięcie każdej jednej osoby jest śledzone z dokładnością pozwalającą efektywnie zarządzać jej portfelem i nie tylko (usuwanie ciastek gówno daje). zdarzyło mi się też trafić na firemkę robiącą w filtrach do cp (nie chodzi tu o unixowy program do kopiowania plików). ogólnie bardzo nie polecam polskiej sceny informatycznej dla osób które dbają o zdrowie. ogólnie wniosek taki, że albo FOSS, albo problem.
 
 co by pomogło? usunięcie video loopów z przestrzeni publicznej [niech szlag trafi wszystkich którzy przyczynili się do publicznych videoloopów - autobusy, pociągi, led screeny outdoorowe]
+
+aha, założenie, że gdzieśtam są kumaci ludzie którzy tym sterują, wiedzą co jest grane, i że nie mają przepranych mózgów swoją własną ideologią, jest bardzo naiwne; najprawdopodniej, po prostu mamy do czynienia z popsutą rozproszną sztuczną inteligencją, to jedzie na zasadzie rozpędu/momentum i survivorship bias 
