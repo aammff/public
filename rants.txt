@@ -72,3 +72,5 @@ aha2, uwaga na pisanie czegokolwiek wspólnie z wytatuowanymi ludźmi, mogą wyn
 na nowym komputerze, pierwszą rzeczą którą robię, to zrywanie wszystkich naklejek gównofirm typu mikcjosroft albo srintel, kasownie gównosroftu tychże tak samo. tak gdzieś od debian potato. ubuntu drugi raz bym nie zainstalował. nixos/guix ciekawe, jeszcze nie próbowałem.
 
 to nie jest tak że gówno (mikcjsroft, srintel, fejsiki) do niczego się nie nadaje, po prostu są lepsze rzeczy.
+
+jakby ktoś miał wątpliwości, to niech zajrzy tutaj https://en.wikipedia.org/wiki/TOP500 "All the fastest supercomputers since the Earth Simulator supercomputer have used operating systems based on Linux. Since November 2017, all the listed supercomputers use an operating system based on the Linux kernel.[13][14]" - wystarczy zainstalować sobie linuxa i mamy boost do intelektu.
