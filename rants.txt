@@ -89,3 +89,6 @@ ja osobiście oczekuje, że mi się ekran laptopa przestanie kurzyć
 
 przykład zidiocenia: https://pl.wikipedia.org/wiki/Digital_Audio_Broadcasting  "Nadawcy różnicują przepływność w zależności od profilu rozgłośni. Przykładowo w Polsce Program II Polskiego Radia zawierający programy z wrażliwą na jakość przekazu muzyką klasyczną posiada przepływność ustaloną na 128 kbps, a programy słowne takie jak Polskie Radio 24 czy Radio Poland wykorzystują 64 kbps[11][3]."   każdy wie że 128kbps się do słuchania muzyki nie nadaje. co doprowadziło do tego, jakie procesy, że doprowadzono do wprowadzenia gówno-standardu? kto taki gówno standard wymyślił? kto go zatwierdził? kto to wprowadził?
 64-128 to służy do robienia dziur w mózgu a nie słuchania muzyki czy czegokolwiek.
+
+gógle sobie może swoje neural engine i dominację kwantową w dupę wsadzić. gógle sumarycznie jest gorsze niż było 20 lat temu. 20 lat temu dobrze działało wyszukiwanie www i usenet. teraz nie.
+na serio? co takiego gógle potrafi? cenzurować internet? chój wam w dupę!
