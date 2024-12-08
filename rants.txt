@@ -70,3 +70,5 @@ aha, ciągle czekam, aż góglerzy przywrócą poprawną numerację budynków w 
 aha2, uwaga na pisanie czegokolwiek wspólnie z wytatuowanymi ludźmi, mogą wyniknąć z tego niespodziewane problemy 
 
 na nowym komputerze, pierwszą rzeczą którą robię, to zrywanie wszystkich naklejek gównofirm typu mikcjosroft albo srintel, kasownie gównosroftu tychże tak samo. tak gdzieś od debian potato. ubuntu drugi raz bym nie zainstalował. nixos/guix ciekawe, jeszcze nie próbowałem.
+
+to nie jest tak że gówno (mikcjsroft, srintel, fejsiki) do niczego się nie nadaje, po prostu są lepsze rzeczy.
