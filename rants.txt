@@ -33,4 +33,6 @@ mimuw (ze dwadzieścia lat temu):
      
      - aha ciekawostka kolejna - za studia tak jakby mi zapłacono - może to być przekręt/oszustwo
 
+     - słynne problemy z prologiem, podejrzewam że mogły wynikać z tego, że był komercyjny/niewolny szwedzki sicstus, odśmiecarkowy, o konstrukcji maszyny wirtualnej nie było słowa, więc co z tego że niby matematyczna teoria była studiowana, jak używane było niewiadomo co, szwedzkiego przecież nikt nie znał, dodatkowo był stosowany test wielokrotnego wyboru.  natomiast ja kontrariańsko takie dziwne rzeczy lubię/lubiałem [dziwne / inne / niepopularne języki i rachunki], i akurat (względnie) dobrze wspominam te zajęcia, chociaż to jedyne zajęcia, gdzie pisałem egzamin poprawkowy, ale po dokładnym przemyśleniu wszystkiego, być może tak naprawdę nie miałem wyjścia (!) - niestety rzeczywiście jest tak, że oceny nie mają żadnego sensu, a testy wielokrotnego wyboru są wybitnie głupie, i może się zdarzyć tak, że najlepiej przygotowana osoba nie będzie miała żadnych szans na takim teście, ze względu na mechanikę umysłu. 
+
 - ogólne wnioski - jak kogoś matematyka interesuje to ostrożnie, a informatyki to bym gdzie indziej szukał bo niebezpiecznie i słabo.
