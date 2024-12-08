@@ -78,3 +78,9 @@ jakby ktoś miał wątpliwości, to niech zajrzy tutaj https://en.wikipedia.org/
 (w intelu głupi ludzie raczej nie robią, po prostu im kazali podziurawić procesory, to tak zrobili)
 
 [jak ktoś chce być bardziej elitarny to może sobie bsd zaintalować, też dobrze]
+
+w kwestii llmów - nikt nie pisze jakim dziadostwem jest translate.google.com, które chyba łatwiej zrozumieć, a wiele osób pisze o llmach, tak jakby rozumieli co się dzieje.
+
+translate.google.com to też przykład nie wiem, teoretycznie głupi ludzie w góglu nie siedzą, a takie coś wymyślili
+
+ja osobiście oczekuje, że mi się ekran laptopa przestanie kurzyć
