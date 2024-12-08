@@ -8,6 +8,8 @@ mimuw (ze dwadzieścia lat temu):
    - kwestie estetyczne
      - budynek powojskowy - niefajny klimat
      - stołówka ze szczątkami martwych zwierząt - wstyd
+     - niefajna szyba w labie, nazywanym akwarium, w kontekście sąsiedztwa wojskowych, nietrudno o głupie skojarzenia do suworowa
+     - kodowanie kolorami w labie, też bardzo słaby pomysł
      
    - niestety na wydziale było niewolne oprogramowanie, w tym totalnych gównofirm typu mikcjosroft, do używania którego bywało się przymuszanym
 
@@ -40,3 +42,12 @@ mimuw (ze dwadzieścia lat temu):
 - z konkretów, spod wydziału zajebali mi niebieski rower przypięty łańcuchem
 
 - w przypadku języków odśmiecarkowych istnieje zagrożenie, że są one częścia mechanizmu rekrutacyjnego jakichś gównofirm.
+
+
+najciekawszym polskim projektem, jaki teraz sobie przypominam, jaki znalazłem w sieci, to https://pl.wikipedia.org/wiki/System_Mizar , tu jeszcze coś ciekawego http://www.cs.put.poznan.pl/pawelw/npict/ ;  nie kojarzę żeby na mimie było coś ciekawego/znanego robione, [usos jest znany, ale to jest jakby ?osiągnięcie z innej kategorii, z zastosowań a nie teorii, tj. informatyzacja uczelni, o ile w ogóle; tj. nie wiadomo czy to jest przydatne do czegoś żeby to się liczyło to co usos liczy]
+
+nie wiem na ile / czy cokolwiek jeszcze istnieje, ten tekst został wstukany ręcznie; ale w zasadzie gwarancji że to jakby ja pisałem, to nie ma.
+
+najprzydatniejszą rzeczą jaką mnie nauczyli na uw było pływanie
+
+najciekawszą chyba było zajmowanie się sprzętem w net.icm.edu.pl
