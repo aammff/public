@@ -84,3 +84,8 @@ w kwestii llmów - nikt nie pisze jakim dziadostwem jest translate.google.com, k
 translate.google.com to też przykład nie wiem, teoretycznie głupi ludzie w góglu nie siedzą, a takie coś wymyślili
 
 ja osobiście oczekuje, że mi się ekran laptopa przestanie kurzyć
+
+
+
+przykład zidiocenia: https://pl.wikipedia.org/wiki/Digital_Audio_Broadcasting  "Nadawcy różnicują przepływność w zależności od profilu rozgłośni. Przykładowo w Polsce Program II Polskiego Radia zawierający programy z wrażliwą na jakość przekazu muzyką klasyczną posiada przepływność ustaloną na 128 kbps, a programy słowne takie jak Polskie Radio 24 czy Radio Poland wykorzystują 64 kbps[11][3]."   każdy wie że 128kbps się do słuchania muzyki nie nadaje. co doprowadziło do tego, jakie procesy, że doprowadzono do wprowadzenia gówno-standardu? kto taki gówno standard wymyślił? kto go zatwierdził? kto to wprowadził?
+64-128 to służy do robienia dziur w mózgu a nie słuchania muzyki czy czegokolwiek.
