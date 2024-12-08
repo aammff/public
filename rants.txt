@@ -9,7 +9,16 @@ mimuw (ze dwadzieścia lat temu):
      - budynek powojskowy - niefajny klimat
      - stołówka ze szczątkami martwych zwierząt - wstyd
      
-   - 
+   - niestety na wydziale było niewolne oprogramowanie, w tym totalnych gównofirm typu mikcjosroft, do używania którego bywało się przymuszanym
+
+   - ogólnie w kwestiach istotnych niska świadomość
+
+   - o niskiej jakości wydziału świadczy brak dostępu dla osób z zewnątrz do materiałów z zajęć
+
+   - ciekawostka - pierwszą programistkę z prawdziwego zdarzenia (taka która mi pomagała a nie odwrotnie) spotkałem po studiach, tj nagminne było pisanie programów koleżankom przez kolegów - co zastanawiające, bo przecież sito egzaminacyjne było konkretne
+
+   - niestety były stosowane testy wielokrotnego wyboru - jak ktoś wie jak to działa, to wie że takich rzeczy lepiej nie robić, ale jak pisałem, w kwestiach istotnych niska świadomość
+
      - jedynym językami nieodśmiecarkowymi były assembler x86 i C, które już wcześniej jako tako znałem (chyba też pascal na potoku imperatywnym, myślę że to nie fair było takie rozdzielanie roku)
      
      - wiele osób prowadzących zajęcia działało poza uczelnią przy projektach o niewiadomej proweniencji
