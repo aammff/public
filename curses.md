@@ -1,3 +1,4 @@
+[uwaga, interpretacja tych wpisów wymaga zastanowienia, nie są równoważne, sugerują pułapki]
 *.pl (https://www.rp.pl/polityka/art41507391-jak-rosja-ograla-rzad-pis-w-programie-dla-informatykow)
 *.google.com
 *.facebook.com (thieves)
