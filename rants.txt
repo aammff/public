@@ -74,3 +74,7 @@ na nowym komputerze, pierwszą rzeczą którą robię, to zrywanie wszystkich na
 to nie jest tak że gówno (mikcjsroft, srintel, fejsiki) do niczego się nie nadaje, po prostu są lepsze rzeczy.
 
 jakby ktoś miał wątpliwości, to niech zajrzy tutaj https://en.wikipedia.org/wiki/TOP500 "All the fastest supercomputers since the Earth Simulator supercomputer have used operating systems based on Linux. Since November 2017, all the listed supercomputers use an operating system based on the Linux kernel.[13][14]" - wystarczy zainstalować sobie linuxa i mamy boost do intelektu.
+
+(w intelu głupi ludzie raczej nie robią, po prostu im kazali podziurawić procesory, to tak zrobili)
+
+[jak ktoś chce być bardziej elitarny to może sobie bsd zaintalować, też dobrze]
