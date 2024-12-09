@@ -181,7 +181,7 @@ https://pl.wikipedia.org/wiki/Akademia_pana_Kleksa_(film_1983)
 https://www.klinikabudzik.pl/
 https://bip.um.sanok.pl/Dowody_osobiste
 https://bip.powiat-sanok.pl/strona-3587-wydzial_komunikacji_i_transportu.html
-https://www.biedronka.pl/
+https://www.biedronka.pl/ (za ośmiornice i wypukłe lustra trójkątne)
 https://pl.wikipedia.org/wiki/Polska_Rzeczpospolita_Ludowa
 https://pl.wikipedia.org/wiki/III_Rzeczpospolita
 https://www.echr.coe.int/
@@ -198,7 +198,7 @@ https://www.meta.com/pl/en/quest/
 https://psychiatria.org.pl/
 https://psych.org.pl/
 https://www.gops.sanok.pl/site-32.html
-https://www.lidl.pl/
+https://www.lidl.pl/ (za bramki obrotowe i lustra wypukłe)
 https://en.wikipedia.org/wiki/DVD_region_code (https://en.wikipedia.org/wiki/Racism)
 https://en.wikipedia.org/wiki/Hot_dog
 https://en.wikipedia.org/wiki/Hamburger
