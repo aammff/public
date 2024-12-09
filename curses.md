@@ -1,5 +1,6 @@
 [uwaga, interpretacja tych wpisów wymaga zastanowienia, nie są równoważne, sugerują pułapki]
 *.pl (https://www.rp.pl/polityka/art41507391-jak-rosja-ograla-rzad-pis-w-programie-dla-informatykow)
+https://pl.wikipedia.org/wiki/Wiedza_o_spo%C5%82ecze%C5%84stwie (https://intersol.ca/news/organizational-culture-and-the-5-monkeys-experiment/)
 *.google.com
 *.facebook.com (thieves)
 *.amazon.com
