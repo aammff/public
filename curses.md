@@ -538,3 +538,4 @@ https://pl.wikipedia.org/wiki/CAC_40
 https://ubuntu.com/
 https://pl.wiktionary.org/wiki/helikopter
 https://www.cisco.com/
+https://www.gchq.gov.uk/ (https://theintercept.com/2015/12/23/juniper-firewalls-successfully-targeted-by-nsa-and-gchq/)
