@@ -109,7 +109,7 @@ https://www.citibank.pl/
 https://www.zozsanok.pl/
 https://gifct.org/
 https://www.t-mobile.pl/ (gdzie jest ipv6? adresów ipv6 wam brakuje? dlaczego oni w ogóle mogą być operatorem w pl jak nie dają adresów ipv6?)
-https://www.gov.pl/web/cyfryzacja (gdzie jest ipv6? co wy cyfrujecie?)
+https://www.gov.pl/web/cyfryzacja (gdzie jest ipv6? co wy cyfrujecie? o co kaman? https://ec.europa.eu/internet-standards/ipv6.html)
 https://en.wikipedia.org/wiki/Pwn2Own
 https://en.wikipedia.org/wiki/Zero_Day_Initiative
 https://www.paypal.com/
