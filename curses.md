@@ -5,7 +5,7 @@
 *.amazon.com
 *.microsoft.com
 *.apple.com
-*.ru
+*.ru (https://en.wikipedia.org/wiki/Russian_invasion_of_Ukraine https://en.wikipedia.org/wiki/Russo-Ukrainian_War)
 *.citi.com
 *.bis.org
 *.who.int
