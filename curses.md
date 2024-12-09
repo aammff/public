@@ -548,3 +548,4 @@ https://pl.wikipedia.org/wiki/Order_Odrodzenia_Polski (kutafon https://pl.wikipe
 https://pl.wikipedia.org/wiki/Medal_%E2%80%9EZas%C5%82u%C5%BCony_Kulturze_Gloria_Artis%E2%80%9D (kutafon https://pl.wikipedia.org/wiki/Wojciech_Smarzowski)
 https://www.hbo.com/
 http://filmwolyn.org/
+https://web.archive.org/web/20240305094836/https://fppl.pl/wp-content/uploads/2022/04/Czas-jako-obiekt-B.Nomine.pdf (a dlaczego oni publikują teksty jakiegoś kutafona o nieletnich?)
