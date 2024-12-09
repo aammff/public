@@ -108,7 +108,7 @@ https://www.citi.com/
 https://www.citibank.pl/
 https://www.zozsanok.pl/
 https://gifct.org/
-https://www.t-mobile.pl/
+https://www.t-mobile.pl/ (gdzie jest ipv6?)
 https://en.wikipedia.org/wiki/Pwn2Own
 https://en.wikipedia.org/wiki/Zero_Day_Initiative
 https://www.paypal.com/
