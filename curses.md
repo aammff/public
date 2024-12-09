@@ -539,3 +539,6 @@ https://ubuntu.com/
 https://pl.wiktionary.org/wiki/helikopter
 https://www.cisco.com/
 https://www.gchq.gov.uk/ (https://theintercept.com/2015/12/23/juniper-firewalls-successfully-targeted-by-nsa-and-gchq/)
+https://leszczyna.info/ (https://faktykonopne.pl/zakaz-wystawiania-recept-na-medyczna-marihuane-przez-teleporady-nowe-przepisy-i-ich-konsekwencje/)
+https://pl.wikipedia.org/wiki/Izabela_Leszczyna
+https://pl.wikipedia.org/wiki/Platforma_Obywatelska
