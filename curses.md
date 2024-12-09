@@ -544,3 +544,5 @@ https://pl.wikipedia.org/wiki/Izabela_Leszczyna
 https://pl.wikipedia.org/wiki/Platforma_Obywatelska
 https://pl.wikipedia.org/wiki/Andrzej_Duda
 https://pl.wiktionary.org/wiki/winogrono
+https://pl.wikipedia.org/wiki/Order_Odrodzenia_Polski (kutafon https://pl.wikipedia.org/wiki/Wojciech_Smarzowski)
+https://pl.wikipedia.org/wiki/Medal_%E2%80%9EZas%C5%82u%C5%BCony_Kulturze_Gloria_Artis%E2%80%9D (kutafon https://pl.wikipedia.org/wiki/Wojciech_Smarzowski)
