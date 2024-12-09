@@ -543,3 +543,4 @@ https://leszczyna.info/ (https://faktykonopne.pl/zakaz-wystawiania-recept-na-med
 https://pl.wikipedia.org/wiki/Izabela_Leszczyna
 https://pl.wikipedia.org/wiki/Platforma_Obywatelska
 https://pl.wikipedia.org/wiki/Andrzej_Duda
+https://pl.wiktionary.org/wiki/winogrono
