@@ -73,10 +73,10 @@ Błaszkowski
 BŁASZKOWSKI
 *.interpol.int
 cameras fitters/installers
-https://sinthome.pl/ (script kiddies, smut, shock site)
-https://syfonstudio.com/ (sinthome.pl)
-Krzystof Pawlak
-Stefan Gabler
+https://sinthome.pl/ (script kiddies, smut, shock site, https://sinthome.pl/files/pages/43/sinthome_video.mp4)
+https://syfonstudio.com/ (sinthome.pl, https://sinthome.pl/files/pages/43/sinthome_video.mp4)
+Krzystof Pawlak (https://sinthome.pl/files/pages/43/sinthome_video.mp4)
+Stefan Gabler (https://sinthome.pl/files/pages/43/sinthome_video.mp4)
 reddit.com/r/lacan
 reddit.com/r/psychoanalysis
 reddit.com/r/polska
