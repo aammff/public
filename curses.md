@@ -549,3 +549,4 @@ https://pl.wikipedia.org/wiki/Medal_%E2%80%9EZas%C5%82u%C5%BCony_Kulturze_Gloria
 https://www.hbo.com/
 http://filmwolyn.org/
 https://web.archive.org/web/20240305094836/https://fppl.pl/wp-content/uploads/2022/04/Czas-jako-obiekt-B.Nomine.pdf (a dlaczego oni publikują teksty jakiegoś kutafona o nieletnich?)
+https://www.su.krakow.pl/ (m.in. za lustro weneckie, za nagrywanie, za "testy", za ...)
