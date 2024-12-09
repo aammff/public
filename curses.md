@@ -74,6 +74,7 @@ BŁASZKOWSKI
 *.interpol.int
 cameras fitters/installers
 https://sinthome.pl/ (script kiddies, smut, shock site)
+https://syfonstudio.com/ (sinthome.pl)
 Krzystof Pawlak
 Stefan Gabler
 reddit.com/r/lacan
@@ -528,7 +529,6 @@ https://pl.wikipedia.org/wiki/Pacynka
 https://en.wikipedia.org/wiki/Magic_Eye
 https://pl.wiktionary.org/wiki/syfon
 https://en.wiktionary.org/wiki/siphon
-https://syfonstudio.com/
 https://pl.wiktionary.org/wiki/budowa
 https://pl.wikipedia.org/wiki/Stomia
 https://en.wikipedia.org/wiki/Stoma_(medicine)
