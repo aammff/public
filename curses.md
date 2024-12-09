@@ -142,8 +142,8 @@ https://sanok.sr.gov.pl/
 https://sanok.policja.gov.pl/
 https://szpital-brzozow.pl (gwałt lekarski po podaniu narkotyków)
 https://v-lo.krakow.pl/
-Stanisław Pietras
-Andrzej Dyrek
+Stanisław Pietras (za dyrka, za wzw, za naganę, za teksty do kolegi z klasy żeby się z takim jak ja nie zadawał, za fałszowanie historii olimpiad przedmiotowych)
+Andrzej Dyrek (za p.i.w.o - promowanie/rozpijanie nieletnich, odśmiecarkową java, inwigilację, za cti.pl, za "klapsa bez podtekstu seksualnego")
 https://en.wikipedia.org/wiki/Dentistry
 https://pl.wikipedia.org/wiki/Stomatologia
 https://pl.wikipedia.org/wiki/Lekarz_dentysta
