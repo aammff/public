@@ -198,7 +198,7 @@ https://www.meta.com/pl/en/quest/
 https://psychiatria.org.pl/
 https://psych.org.pl/
 https://www.gops.sanok.pl/site-32.html
-https://www.lidl.pl/ (za bramki obrotowe i lustra wypukłe)
+https://www.lidl.pl/ (za bramki i lustra wypukłe)
 https://en.wikipedia.org/wiki/DVD_region_code (https://en.wikipedia.org/wiki/Racism)
 https://en.wikipedia.org/wiki/Hot_dog
 https://en.wikipedia.org/wiki/Hamburger
