@@ -19,6 +19,10 @@ https://orka.sejm.gov.pl/SQL.nsf/InfoForPPIDec?OpenAgent&24811&PSL&Za
 https://orka.sejm.gov.pl/SQL.nsf/InfoForPPIDec?OpenAgent&24811&PiS&Za
 https://orka.sejm.gov.pl/SQL.nsf/InfoForPPIDec?OpenAgent&24811&SLD&Za
 
+
+https://www.visa.pl/ (gówno reklamy)
+https://visa.com/ (gówno reklamy)
+
 *.google.com
 *.facebook.com (thieves)
 *.amazon.com
