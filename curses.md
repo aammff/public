@@ -1,6 +1,24 @@
 [uwaga, interpretacja tych wpisów wymaga zastanowienia, nie są równoważne, sugerują pułapki]
 *.pl (https://www.rp.pl/polityka/art41507391-jak-rosja-ograla-rzad-pis-w-programie-dla-informatykow)
 https://pl.wikipedia.org/wiki/Wiedza_o_spo%C5%82ecze%C5%84stwie (https://intersol.ca/news/organizational-culture-and-the-5-monkeys-experiment/)
+
+lista zdrajców i sprzedawczyków:
+https://orka.sejm.gov.pl/SQL.nsf/InfoForPPIDec?OpenAgent&24811&niez.&Za
+https://orka.sejm.gov.pl/SQL.nsf/InfoForPPIDec?OpenAgent&24811&RP&Za
+https://orka.sejm.gov.pl/SQL.nsf/InfoForPPIDec?OpenAgent&24811&ROP&Za
+https://orka.sejm.gov.pl/SQL.nsf/InfoForPPIDec?OpenAgent&24811&PP&Za
+https://orka.sejm.gov.pl/SQL.nsf/InfoForPPIDec?OpenAgent&24811&RKN&Za
+https://orka.sejm.gov.pl/SQL.nsf/InfoForPPIDec?OpenAgent&24811&KL&Za
+https://orka.sejm.gov.pl/SQL.nsf/InfoForPPIDec?OpenAgent&24811&D_OJCZYSTY&Za
+https://orka.sejm.gov.pl/SQL.nsf/InfoForPPIDec?OpenAgent&24811&UP&Za
+https://orka.sejm.gov.pl/SQL.nsf/InfoForPPIDec?OpenAgent&24811&SG&Za
+https://orka.sejm.gov.pl/SQL.nsf/InfoForPPIDec?OpenAgent&24811&LPR&Za
+https://orka.sejm.gov.pl/SQL.nsf/InfoForPPIDec?OpenAgent&24811&Samoobrona&Za
+https://orka.sejm.gov.pl/SQL.nsf/InfoForPPIDec?OpenAgent&24811&SDPL&Za
+https://orka.sejm.gov.pl/SQL.nsf/InfoForPPIDec?OpenAgent&24811&PSL&Za
+https://orka.sejm.gov.pl/SQL.nsf/InfoForPPIDec?OpenAgent&24811&PiS&Za
+https://orka.sejm.gov.pl/SQL.nsf/InfoForPPIDec?OpenAgent&24811&SLD&Za
+
 *.google.com
 *.facebook.com (thieves)
 *.amazon.com
