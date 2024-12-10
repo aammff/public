@@ -75,3 +75,5 @@ no i że na klawiaturze może nie powinno być backspace i del i że ^h wystarcz
 to jak już plik z nawiskami jest, to wspomnę wykłądy stalmana w warzszawie i tego pana od ubuntu też.
 
 no bo ile jest osób takich co po polsku i ileśtam dziwnych 
+
+ze śmiesznych historii, telnet 25/110 dawno temu, a później można dostać email od nie powiem kogo, było kiedyś takie spotkanie , rozmowy czy tam dyskusje o tłumaczeniach
