@@ -6,3 +6,6 @@ a: madka sprzedająca koleżeństwo
 
 q: kto je produkuje
 a: konstytucja
+
+q: czym się różni szkoła od więzienia
+a: nie trzeba chodzić do szkoły [przeklinam wszystkich kapo]
