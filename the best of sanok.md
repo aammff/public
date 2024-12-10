@@ -69,3 +69,5 @@ oj pomyłka, jednak hwdp [chwdp] tłumaczymy na acab, nie abac, abac to Anti-bri
 
 
 z przydatnych rzeczy które sprawdziłęm na sobie, nieźle działa nieruszanie włosów, jakby akcelerację do myślenia się dostaje. tj nieścianie itp. ale nie wiem, tak sobie myślę że może włosy po coś są. tzn myślę że to jakoś kwantowo działa, jakieś antenki jakby. i też jest tak, że długo to trwa jak rosną, więc przez ten czas można przemyśleć, czy się nie ścinało bo ktoś inny chciał. bo jak się niby samemu ścina, to przecież nie ma gwarancji, że się samemu ścina bo się chce, a nie z jakiegoś przyzwyczajenia, prykazu czy innej reklamy radiowotelewizyjnej.
+
+no i że na klawiaturze może nie powinno być backspace i del i że ^h wystarcza, nie wiadomo czy używać takich przycisków, tajemnicze p s     sprawy.
