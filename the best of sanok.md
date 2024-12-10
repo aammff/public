@@ -66,3 +66,6 @@ no takie hece jak ktoś się urodził w obozie pracy [tak tak, był prykaz pracy
 tj prl wtedy to był taki duży obóz koncentracyjny.
 
 oj pomyłka, jednak hwdp [chwdp] tłumaczymy na acab, nie abac, abac to Anti-bribery/anti-corruption solutions, ale może pasuje, kto wie.  tzn myślę że to hwdp to już z mody dawno temu wyszło, nie wiem co teraz obowiązuje. w sumie kiedyś w takim jednym banku co robi za banki centralne w kilku krajach robiłem, może stąd. taki co w futuramie.
+
+
+z przydatnych rzeczy które sprawdziłęm na sobie, nieźle działa nieruszanie włosów, jakby akcelerację do myślenia się dostaje. tj nieścianie itp. ale nie wiem, tak sobie myślę że może włosy po coś są. tzn myślę że to jakoś kwantowo działa, jakieś antenki jakby. i też jest tak, że długo to trwa jak rosną, więc przez ten czas można przemyśleć, czy się nie ścinało bo ktoś inny chciał. bo jak się niby samemu ścina, to przecież nie ma gwarancji, że się samemu ścina bo się chce, a nie z jakiegoś przyzwyczajenia, prykazu czy innej reklamy radiowotelewizyjnej.
