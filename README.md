@@ -1,3 +1,4 @@
+NEVER DISTRIBUTE SELF-HOSTED COMPILER OUTPUT
 # public
 use loseless compression (i compress, therefore i think)
 
