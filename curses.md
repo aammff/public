@@ -576,3 +576,5 @@ http://filmwolyn.org/
 https://web.archive.org/web/20240305094836/https://fppl.pl/wp-content/uploads/2022/04/Czas-jako-obiekt-B.Nomine.pdf (a dlaczego oni publikują teksty jakiegoś kutafona o nieletnich?)
 https://www.su.krakow.pl/ (m.in. za lustro weneckie, za nagrywanie, za "testy", za ...)
 https://sora.com/ (https://help.openai.com/en/articles/10250692-sora-supported-countries https://en.wikipedia.org/wiki/Discrimination)
+https://pl.wiktionary.org/wiki/imi%C4%99
+https://en.wiktionary.org/wiki/name
