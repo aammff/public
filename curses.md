@@ -578,3 +578,5 @@ https://www.su.krakow.pl/ (m.in. za lustro weneckie, za nagrywanie, za "testy", 
 https://sora.com/ (https://help.openai.com/en/articles/10250692-sora-supported-countries https://en.wikipedia.org/wiki/Discrimination)
 https://pl.wiktionary.org/wiki/imi%C4%99
 https://en.wiktionary.org/wiki/name
+https://en.wikipedia.org/wiki/Mercedes-Benz_Sprinter
+https://en.wikipedia.org/wiki/Toyota
