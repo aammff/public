@@ -9,3 +9,6 @@ a: konstytucja
 
 q: czym się różni szkoła od więzienia
 a: nie trzeba chodzić do szkoły [przeklinam wszystkich kapo]
+
+q: a co pan potrafi
+a: żonglować
