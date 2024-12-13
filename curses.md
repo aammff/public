@@ -584,3 +584,4 @@ https://en.wikipedia.org/wiki/Toyota
 https://en.wikipedia.org/wiki/Hyundai_Motor_Company
 https://en.wikipedia.org/wiki/Citro%C3%ABn
 https://pl.wikipedia.org/wiki/Lotnisko_Sanok-Baza (chuje mi śmigłowcami nad domem latają)
+https://en.wikipedia.org/wiki/Python_(programming_language)
