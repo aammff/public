@@ -589,3 +589,4 @@ https://en.wikipedia.org/wiki/PHP
 https://en.wikipedia.org/wiki/Java_(programming_language)
 https://horizon.meta.com/
 https://en.wikipedia.org/wiki/Horizon_Worlds
+https://en.wikipedia.org/wiki/Meta_Platforms
