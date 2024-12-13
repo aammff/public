@@ -574,7 +574,7 @@ https://pl.wikipedia.org/wiki/Order_Odrodzenia_Polski (kutafon https://pl.wikipe
 https://pl.wikipedia.org/wiki/Medal_%E2%80%9EZas%C5%82u%C5%BCony_Kulturze_Gloria_Artis%E2%80%9D (kutafon https://pl.wikipedia.org/wiki/Wojciech_Smarzowski)
 https://www.hbo.com/
 http://filmwolyn.org/
-https://web.archive.org/web/20240305094836/https://fppl.pl/wp-content/uploads/2022/04/Czas-jako-obiekt-B.Nomine.pdf (a dlaczego oni publikują teksty jakiegoś kutafona o nieletnich?)
+https://web.archive.org/web/20240305094836/https://fppl.pl/wp-content/uploads/2022/04/Czas-jako-obiekt-B.Nomine.pdf (a dlaczego oni publikują teksty jakiegoś kutafona chuje mi o nieletnich?)
 https://www.su.krakow.pl/ (m.in. za lustro weneckie, za nagrywanie, za "testy", za ...)
 https://sora.com/ (https://help.openai.com/en/articles/10250692-sora-supported-countries https://en.wikipedia.org/wiki/Discrimination)
 https://pl.wiktionary.org/wiki/imi%C4%99
@@ -583,3 +583,4 @@ https://en.wikipedia.org/wiki/Mercedes-Benz_Sprinter
 https://en.wikipedia.org/wiki/Toyota
 https://en.wikipedia.org/wiki/Hyundai_Motor_Company
 https://en.wikipedia.org/wiki/Citro%C3%ABn
+https://pl.wikipedia.org/wiki/Lotnisko_Sanok-Baza (chuje mi śmigłowcami nad domem latają)
