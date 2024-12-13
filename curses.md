@@ -591,3 +591,4 @@ https://horizon.meta.com/
 https://en.wikipedia.org/wiki/Horizon_Worlds
 https://en.wikipedia.org/wiki/Meta_Platforms
 Jan Zosiak
+https://tyskie.pl/
