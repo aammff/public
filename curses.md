@@ -591,4 +591,5 @@ https://horizon.meta.com/
 https://en.wikipedia.org/wiki/Horizon_Worlds
 https://en.wikipedia.org/wiki/Meta_Platforms
 Jan Zosiak
-https://tyskie.pl/
+https://tyskie.pl/ (https://kurier-kolejowy.pl/aktualnosci/46891/tyski-pociag-rusza-w-zimowa-podroz-przez-polske.html)
+https://www.intercity.pl/ (https://kurier-kolejowy.pl/aktualnosci/46891/tyski-pociag-rusza-w-zimowa-podroz-przez-polske.html)
