@@ -586,3 +586,4 @@ https://en.wikipedia.org/wiki/Citro%C3%ABn
 https://pl.wikipedia.org/wiki/Lotnisko_Sanok-Baza (chuje mi śmigłowcami nad domem latają)
 https://en.wikipedia.org/wiki/Python_(programming_language)
 https://en.wikipedia.org/wiki/PHP
+https://en.wikipedia.org/wiki/Java_(programming_language)
