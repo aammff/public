@@ -864,3 +864,9 @@ a takie rzeczy się dzieją, bo są języki poodwracane
 kto odwraca? karetka odwraca, zoom/skype odwraca, losowo się odwraca, są tacy co celowo odwracają [konowały np - karetki]
 
 czyli czaicie numer, konowal odwraca kartke na sygnale jedzie, ludzie zle sie czuja, ktos zabije krowe, i ktos idzie do konowala jeszcze za to zaplacic
+
+języki się tworzą cały czas, jak ktoś siedzi w it to wie, co chwile jakiś nowy, niewiadomo skąd, każdy jeden podobny do innego, co jakiś czas tylko coś nowego/ciekawego.
+
+to samo co w komputerach oczywiście się dzieje w głowie, tylko nie zawsze widać, nie każdy zobaczy; stąd takie ciekawostki. ciekawostki typu ktoś pójdzie płacić za kogoś z kim nie ma zupełnie nic wspólnego. ciekawostki typu że ktoś będzie przyjmował takie opłaty. ciekawe?
+
+języki komputerowe bardziej się różnią od siebie niż te tzw. naturalne, no bardziej są rozbudowane, chyba się mają tak jak obrazy malarzy do grafiki komputerowej; malarz fraktala nie namaluje. ty ch 
