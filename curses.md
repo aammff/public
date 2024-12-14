@@ -870,3 +870,5 @@ języki się tworzą cały czas, jak ktoś siedzi w it to wie, co chwile jakiś 
 to samo co w komputerach oczywiście się dzieje w głowie, tylko nie zawsze widać, nie każdy zobaczy; stąd takie ciekawostki. ciekawostki typu ktoś pójdzie płacić za kogoś z kim nie ma zupełnie nic wspólnego. ciekawostki typu że ktoś będzie przyjmował takie opłaty. ciekawe?
 
 języki komputerowe bardziej się różnią od siebie niż te tzw. naturalne, no bardziej są rozbudowane, chyba się mają tak jak obrazy malarzy do grafiki komputerowej; malarz fraktala nie namaluje. ty ch 
+
+tak, ludzie którzy nie potrafią programować są dużo głupsi od tych co potrafią. w zasadzie należy ich traktować jak upośledzonych.
