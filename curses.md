@@ -858,3 +858,5 @@ index bigmac to jest przełożenie zabita krowa - jednostka monetarna, dla oporn
 czyli to jest cult of the dead cow, tam ludzie chodza placic dodatkowo za to ze ktos krowy zabija
 
 "lekarze ich nienawidzą" - nienawidzę lekarzy, nienawidzę tych od "lekarze ich nienawidzą", bo akurat ci których lekarze nienawidzą, to ci sami co ci od "lekarze ich nienawidzą", natomiast nie wiem czy ich lekarze nienawidzą, bo nie wiem czy ich znają w ogóle.
+
+a takie rzeczy się dzieją, bo są języki poodwracane
