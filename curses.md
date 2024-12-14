@@ -851,3 +851,8 @@ s/status/status  s/status/status/ status
 s/status/statut/
 
 no poszli po to zeby im powiedziec ze s  zle sie czuja ze zwierzeta pozabijali, no takie triki.
+
+
+index bigmac to jest przełożenie zabita krowa - jednostka monetarna, dla opornych mentalnie.
+
+czyli to jest cult of the dead cow, tam ludzie chodza placic dodatkowo za to ze ktos krowy zabija
