@@ -593,3 +593,114 @@ https://en.wikipedia.org/wiki/Meta_Platforms
 Jan Zosiak
 https://tyskie.pl/ (https://kurier-kolejowy.pl/aktualnosci/46891/tyski-pociag-rusza-w-zimowa-podroz-przez-polske.html)
 https://www.intercity.pl/ (https://kurier-kolejowy.pl/aktualnosci/46891/tyski-pociag-rusza-w-zimowa-podroz-przez-polske.html)
+
+
+
+poniższe organizacje i osoby przeklinam, bardzo niebezpieczni
+https://en.wikipedia.org/wiki/Bait-and-switch
+
+[https://fppl.pl/czym-jest-fppl/ - niebezpieczną sektą] - wszystkich przeklinam, zdelegalizować ich
+
+    Marek Adamiec – politolog
+    Stanisław Chankowski
+    Paula Czosnowska – psycholog | gabinet (Poznań)
+    Erwin Dolaciński – psychoanalityk | gabinet psychoanalityczny (Warszawa),
+    + 48 506 56 36 56, erwin.dolacinski@gmail.com
+    Anna Grudzień – psycholog | gabinet (Wiesbaden, Niemcy i online),
+    +49 1525 9455418, annagrudz@gmail.com
+    Renata Iwaniec-Ehrlichmann – psychoterapeuta | pedagog | praktyk jogi klasycznej | gabinet psychoanalityczny (Warszawa), +48 789 368 658
+    Łukasz Kaczmarczyk – psycholog | gabinet (Kraków),
+    +48 575 976 675, ltkaczmarczyk@googlemail.com
+    Jan Kawka
+    Marcin Klaus – psycholog społeczny, badacz społeczny i kulturowy,
+    +48 507 026 754, marcin.klaus@insightshot.pl
+    Kamila Kolebacz
+    Marcin Koziej
+    Kacper Latecki – psycholog społeczny
+    Anatol Magdziarz
+    Ewa Marciniak – psychiatra | gabinet psychoanalityczny (Warszawa),
+    +48 531 545 545
+    Julia Neter – psycholog (Poznań),
+    +48 669 543 223
+    Bartosz Niemier – psycholog | gabinet (Poznań),
+    +48 603 919 230, bartosz@niemier.pl
+    Stella Pawlaczyk – psycholog | gabinet psychoanalityczny (Poznań),
+    +48 796 130 784
+    Katarzyna Pieńko-Jamuła – psycholog, psychoterapeuta | gabinet (Wrocław),
+    +48 602 88 77 08, katarzyna.pj@op.pl
+    Marcin Piotrowski – psychoanalityk | gabinet psychoanalityczny (Warszawa),
+    +48 535 948 989 | członek Szkoły Psychoanalizy EPFCL-Francja z tytułem AP (Analityk Praktyk)
+    dr Bartosz Pokorski
+    Maja Retecka – psycholog | gabinet (Poznań),
+    +48 534 936 602
+    dr Sara Rodowicz-Ślusarczyk – psychoanalityk | gabinet psychoanalityczny (Warszawa),
+    +48 601 069 108, sara.rodowicz.slusarczyk@gmail.com
+    | członkini Szkoły Psychoanalizy EPFCL-Francja
+    Joanna Salamon – grafik
+    Sylwester Strzecha – psycholog kliniczny | gabinet psychoanalityczny (Poznań),
+    +48 605 415 115
+    Joanna Szymańska – psycholog | gabinet psychoanalityczny (Warszawa),
+    +48 600 803 717, szymanska.joannaaaa@gmail.com
+    | członkini Szkoły Psychoanalizy EPFCL-Francja z tytułem AP (Analityk Praktyk)
+    Karolina Szynkiewicz
+    Magdalena Świętanowska – psycholog | gabinet (Poznań),
+    +48 665 824 812, magda.swietanowska@gmail.com
+    Jan Tkaczow – psychoanalityk | lekarz medycyny | gabinet psychoanalityczny (Warszawa),
+    +48 531 273 130
+    Anna Wojakowska-Skiba – psychoanalityk | gabinet psychoanalityczny (Warszawa),
+    +48 698 669 634, anna.wojakowskaskiba@gmail.com
+    | członkini Szkoły Psychoanalizy EPFCL-Francja z tytułem AP (Analityk Praktyk)
+
+
+https://sinthome.pl/klinika - zdelegalizować ich, niebezpieczna sekta
+II. GABINETY
+MARTA ALEKSANDROWICZ
+Berlin, Schöneberg
++49 174 818 23 37
+mail
+PL & EN
+STEFAN GABLER
+Warszawa, Raków; Łazy
++48 604 597 214
+mail
+PL
+PAULINA GAWLIŃSKA
+Warszawa, Mokotów
++48 602 774 255
+mail
+PL
+KRZYSZTOF PAWLAK
+Warszawa, Kabaty
++48 501 204 502
+mail
+PL & EN
+IGA RAKOWSKA
+Warszawa, Milanówek
++48 538-906-616
+mail
+PL
+JACEK SOSNOWSKI
+Warszawa
++48 505 383 392
+mail
+PL
+ELŻBIETA SZTEJNERT
+Warszawa, Wilanów
++48 507 016 722
+mail
+PL
+PRZEMYSŁAW SZUBARTOWICZ
+Warszawa, Bielany
++48 507 004 014
+mail
+PL
+MATEUSZ FRANCZAK
+Warszawa, Śródmieście
++48 793 644 480
+mail
+PL
+PAWEŁ DROŹDZIAK - psycholog
+Warszawa, Saska Kępa
++48 784 005 282
+mail
+PL
