@@ -844,3 +844,10 @@ jeżeli nie znasz porządnie ze czterech albo więcej języków, może być prob
 aha/żbj - to nie jest tak, że jak ktoś ma vr, i mu tam ręce zeskanują, to potem jak zobaczy reklamę, to kupi, nie nie;  nie tak łatwo, wszyscy by się dawno zorientowali.  chodzi o to że inna osoba ma vr , a inna osoba kupuje, jej znajoma, albo znajoma jej znajomej, takie triki; i tak samo z tymi sektami, inna osoba ogląda reklamę, inna pójdzie na wykład, inna do gabinetu, inna ... to jest rozproszone gówno, mało kto to kojarzy
 
 tzn ja tak podejrzewam, na podstawie tego co widziałem w iluśtam miejscach
+
+czyli co, ludzie się źle czują, bo zabijają zwierzęta, a potem idą do takich, których status zależy od tych właśnie pozabijanych zwierząt, żeby im mówić niewiadomo co, bo niewiadomo po co do nich poszli.
+s/status/status  s/status/status/ status   
+
+s/status/statut/
+
+no poszli po to zeby im powiedziec ze s  zle sie czuja ze zwierzeta pozabijali, no takie triki.
