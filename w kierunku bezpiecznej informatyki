@@ -1,0 +1,15 @@
+w kierunku bezpiecznej informatyki
+
+
+https://en.wikipedia.org/wiki/Free_and_open-source_software [podstawy]
+
+https://en.wikipedia.org/wiki/Open-source_hardware [podstawy podstaw]
+
+no gc / gc-less [gc-dependent code is useless for rt systems, avoid time-based algorithmic hazard]
+
+no self-hosted-compilers or their outputs [please stop spread of semantic viruses]
+
+prefer languages with formal semantics [no wild language experiments on people ;-)]
+
+no patents, no ip, etc [don't lie, you haven't invented anything by youself]
+
