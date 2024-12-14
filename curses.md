@@ -834,3 +834,4 @@ https://klinikametoda.pl/specjalisci/  - gówno a nie specjaliści przeklinam ty
 
 
 żeby była jasność, jak to mniej więcej m.in. działa, wywodzą się epfcl, który ma w statusie indeksowanie składek od indeksu big-mac z economist.com, więc defacto chodzi o obracanie burgerów/smażenie krów w macdonaldach i ich mac-drivy, które są takimi wirtualnymi rondami, ludzie świrują od tego, bo nie znają francuskiego, eksploitują kalendarzami, zaburzają cache - jeszcze raz przekliam tych konowałów, "psychologów" "psycholożki" "terapeutki" "terapeutów" "lekarzy" "lekarki" - wszystkich przeklinam absolutne kurwy pizdy chuje. absolutna 100% szkodliwość społeczna, nie ma nic gorszego.
+jak ktoś nie zauważył https://pl.wikipedia.org/wiki/CAC_40 ma produkcję alkoholi, tj trucizny.
