@@ -704,3 +704,129 @@ Warszawa, Saska Kępa
 +48 784 005 282
 mail
 PL
+
+
+to samo poniżej, takie samo gówno, przeklinam wszystkich, bait and switch robią i szkodzą
+SPECJALISTA
+Marcin Piotrowski
+Psychoanalityk
+Jan Tkaczow
+SPECJALISTA
+Jan Tkaczow
+Psychoanalityk, Psychiatra
+SPECJALISTA
+Joanna Szymańska
+Psychoanalityk
+SPECJALISTA
+Kajetan Pyrzowski
+Psychiatra
+Katarzyna Pycio
+SPECJALISTA
+Katarzyna Pycio
+Psychiatra dziecięcy
+Jan Cichecki
+SPECJALISTA
+Jan Cichecki
+Psychiatra
+Marcin Kołodziej
+SPECJALISTA
+Marcin Kołodziej
+Psychiatra
+Ewa Marciniak
+SPECJALISTA
+Ewa Marciniak
+Psychiatra
+Joanna Karwat
+SPECJALISTA
+Joanna Karwat
+Psychiatra
+Karolina Tybulczuk
+SPECJALISTA
+Karolina Tybulczuk
+Psychiatra
+Marta Pachla
+SPECJALISTA
+Marta Pachla
+Psychiatra
+Joanna Borucka
+SPECJALISTA
+Joanna Borucka
+Psychiatra
+Łukasz Rudnicki
+SPECJALISTA
+Łukasz Rudnicki
+Psychiatra
+Krzysztof Bożejko
+SPECJALISTA
+Krzysztof Romuald Bożejko
+Psychiatra
+Marcin Jasiński
+SPECJALISTA
+Marcin Jasiński
+Psychiatra
+Adrianna Wantuła
+SPECJALISTA
+Adrianna Wantuła
+Psychiatra
+Bartłomiej Bauer
+SPECJALISTA
+Bartłomiej Bauer
+Psychiatra
+Aleksandra Knot
+SPECJALISTA
+Aleksandra Knot
+Psychiatra
+Marzena Ogniewska (Gralicka)
+SPECJALISTA
+Marzena Ogniewska (Gralicka)
+Psycholog
+Olga Wachnik-Rychlicka
+SPECJALISTA
+Olga Wachnik-Rychlicka
+Psychiatra
+Klara Kwiecińska
+SPECJALISTA
+Klara Kwiecińska
+Psychiatra
+Patrycja Gerlich
+SPECJALISTA
+Patrycja Gerlich
+Psychiatra
+Bartosz Urbański
+SPECJALISTA
+Bartosz Urbański
+Psychiatra
+Marta Paleczna
+SPECJALISTA
+Marta Paleczna
+Psycholog
+Bogumiła Gelbach
+SPECJALISTA
+Bogumiła Gelbach
+Psycholog, Psychoterapeuta
+Adrianna Wołtosz
+SPECJALISTA
+Adrianna Wołtosz
+Psycholog dziecięcy
+Magdalena Waluk
+SPECJALISTA
+Magdalena Waluk
+Psycholog
+Halina Kandzierska
+SPECJALISTA
+Halina Kandzierska
+Psychiatra dziecięcy
+Aleksandra Bakalarska
+SPECJALISTA
+Aleksandra Bakalarska
+Psychoterapeuta
+Dominika Siwik
+SPECJALISTA
+Dominika Siwik
+Psychiatra
+
+Podaj nam swoje dane – skontaktujemy się z Tobą.
+
+Jeżeli chcesz, możesz od razu krótko opisać swój problem.
+
+https://klinikametoda.pl/specjalisci/  - gówno a nie specjaliści przeklinam tych chujów i pizdy
