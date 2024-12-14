@@ -872,3 +872,5 @@ to samo co w komputerach oczywiście się dzieje w głowie, tylko nie zawsze wid
 języki komputerowe bardziej się różnią od siebie niż te tzw. naturalne, no bardziej są rozbudowane, chyba się mają tak jak obrazy malarzy do grafiki komputerowej; malarz fraktala nie namaluje. ty ch 
 
 tak, ludzie którzy nie potrafią programować są dużo głupsi od tych co potrafią. w zasadzie należy ich traktować jak upośledzonych.
+
+osoby które nie potrafią programować, mówiąc wprost, nie znają się na myśleniu; i tak też należy je traktować. 
