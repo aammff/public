@@ -878,3 +878,11 @@ osoby które nie potrafią programować, mówiąc wprost, nie znają się na my�
 przykładowo: jeżeli nie potrafisz zaprogramować banku, to nie wypowiadaj się o pieniądzach, bo pierdolisz jak potłuczony. jeżeli nie znasz się na pieniądzach, a ich używasz, to tak naprawdę na niczym się nie znasz. dziękuję pozdrawiam.
 ja w banku programowałem program do programowania banku [updatowałem system do updatowania]
 (z przydatniejszych rzeczy gnu smalltalk gui biblioteka przyjęła moje bugfixy, tj pieniądze to błąd)
+
+nie chodzi o to żeby pieniądze zarabiać, tylko o to, żeby pieniędzy nie było w ogóle (tj. wcale, żeby nigdy nie było czegoś takiego, takiego pojęcia w ogóle, to jest błąd, tzw. dług techniczny)
+
+nie odważyłbym się tego samego sformuowania zaaplikować względem komputerów (bo w końcu granie w gry jest zabawne, nie powiedziałbym, że lepiej będzie, jak gier nie będzie)
+
+interesujesz się pieniędzmi - tak, interesujesz się kupą. gratulacje, kup se mikroskop.
+
+888
