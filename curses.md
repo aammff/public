@@ -874,3 +874,6 @@ języki komputerowe bardziej się różnią od siebie niż te tzw. naturalne, no
 tak, ludzie którzy nie potrafią programować są dużo głupsi od tych co potrafią. w zasadzie należy ich traktować jak upośledzonych.
 
 osoby które nie potrafią programować, mówiąc wprost, nie znają się na myśleniu; i tak też należy je traktować. 
+
+przykładowo: jeżeli nie potrafisz zaprogramować banku, to nie wypowiadaj się o pieniądzach, bo pierdolisz jak potłuczony. jeżeli nie znasz się na pieniądzach, a ich używasz, to tak naprawdę na niczym się nie znasz. dziękuję pozdrawiam.
+ja w banku programowałem program do programowania banku [updatowałem system do updatowania]
