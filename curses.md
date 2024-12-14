@@ -837,3 +837,10 @@ https://klinikametoda.pl/specjalisci/  - gówno a nie specjaliści przeklinam ty
 jak ktoś nie zauważył https://pl.wikipedia.org/wiki/CAC_40 ma produkcję alkoholi, tj trucizny. knajpa mito w której kiedyś łowili już nie ma, rekomendacje na fb leciały.
 
 jeżeli nie znasz porządnie ze czterech albo więcej języków, może być problem żeby cokolwiek z tego wszystkie zrozumieć [jeżeli znasz tylko jeden to jakby to powiedzieć, bystryś jak kapsel od piwa] - na serio, znając język polski jesteś na poziomie warzywa, zgniłego. 
+
+
+
+
+aha/żbj - to nie jest tak, że jak ktoś ma vr, i mu tam ręce zeskanują, to potem jak zobaczy reklamę, to kupi, nie nie;  nie tak łatwo, wszyscy by się dawno zorientowali.  chodzi o to że inna osoba ma vr , a inna osoba kupuje, jej znajoma, albo znajoma jej znajomej, takie triki; i tak samo z tymi sektami, inna osoba ogląda reklamę, inna pójdzie na wykład, inna do gabinetu, inna ... to jest rozproszone gówno, mało kto to kojarzy
+
+tzn ja tak podejrzewam, na podstawie tego co widziałem w iluśtam miejscach
