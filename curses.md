@@ -851,7 +851,7 @@ jeżeli nie znasz porządnie ze czterech albo więcej języków, może być prob
 
 z trików jakie kurwa sara z wytatuowanym kutafonem marcinem zrobili, to np zajęcia na poljapie (więc reputacja jakby), ale w pewnym momencie zmienili salę na taką z gigantycznymi lustrami, a potem spowrotem, to są takie triki, tak samo jak organizowane przez pis spotkania z wyborcami w sali z baletnicami; nie mówiąc o tym, że potem poljap zmienia nazwę na jakąś inną, więc jest jeszcze śmieszniej; a knajpa mito, gdzie to się wszystko zaczęło, to też już nie ma. tak tak, też mnie zaprosili do siebie na karmienie i oglądanie filmów. ale nie chuja nie mówili o co w tym wszystkim tak naprawdę chodzi, przeklinam ich. dużo mówić. straszliwi oszuści, jebać ich.
 
-
+tak tak, jak ktoś ma tatuaż, to robi szkody innym dookoła. niestety. jak jeszcze w marketingu robi to już w ogóle jazda. no a ta kurwa z tym chujem "współpracowała". przeklinam i jego i ją. 
 
 
 aha/żbj - to nie jest tak, że jak ktoś ma vr, i mu tam ręce zeskanują, to potem jak zobaczy reklamę, to kupi, nie nie;  nie tak łatwo, wszyscy by się dawno zorientowali.  chodzi o to że inna osoba ma vr , a inna osoba kupuje, jej znajoma, albo znajoma jej znajomej, takie triki; i tak samo z tymi sektami, inna osoba ogląda reklamę, inna pójdzie na wykład, inna do gabinetu, inna ... to jest rozproszone gówno, mało kto to kojarzy
