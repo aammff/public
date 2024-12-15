@@ -20,6 +20,16 @@ https://orka.sejm.gov.pl/SQL.nsf/InfoForPPIDec?OpenAgent&24811&PSL&Za
 https://orka.sejm.gov.pl/SQL.nsf/InfoForPPIDec?OpenAgent&24811&PiS&Za
 https://orka.sejm.gov.pl/SQL.nsf/InfoForPPIDec?OpenAgent&24811&SLD&Za
 
+https://pl.wikipedia.org/wiki/Henryk_Jab%C5%82o%C5%84ski
+https://pl.wikipedia.org/wiki/Wojciech_Jaruzelski
+https://pl.wikipedia.org/wiki/Lech_Wa%C5%82%C4%99sa
+https://pl.wikipedia.org/wiki/Aleksander_Kwa%C5%9Bniewski
+https://pl.wikipedia.org/wiki/Lech_Kaczy%C5%84ski
+https://pl.wikipedia.org/wiki/Bronis%C5%82aw_Komorowski
+https://pl.wikipedia.org/wiki/Bogdan_Borusewicz
+https://pl.wikipedia.org/wiki/Grzegorz_Schetyna
+https://pl.wikipedia.org/wiki/Andrzej_Duda
+
 
 https://www.visa.pl/ (gówno reklamy)
 https://visa.com/ (gówno reklamy)
