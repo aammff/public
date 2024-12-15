@@ -1,7 +1,9 @@
 NEVER DISTRIBUTE SELF-HOSTED COMPILER OUTPUT
 # public
 
-kampania społeczna SanokPośmiewiskiemGównoKraju  (RiiiP 1989-2019)
+kampania społeczna SanokPośmiewiskiemGównoKraju  (RiIiP 1989-2019)
+https://www.youtube.com/watch?v=t1mxzBqDNjs - pytanie nie jest ile wypiłeś, pytanie jest ile znasz języków
+
 
 use loseless compression (i compress, therefore i think)
 
