@@ -20,6 +20,7 @@ https://orka.sejm.gov.pl/SQL.nsf/InfoForPPIDec?OpenAgent&24811&PSL&Za
 https://orka.sejm.gov.pl/SQL.nsf/InfoForPPIDec?OpenAgent&24811&PiS&Za
 https://orka.sejm.gov.pl/SQL.nsf/InfoForPPIDec?OpenAgent&24811&SLD&Za
 
+poniżej lista herbicydów: "Większość herbicydów to herbicydy selektywne zwalczające określone grupy roślin, a nieniszczące rośliny uprawnej." (https://pl.wikipedia.org/wiki/Herbicydy) 
 https://pl.wikipedia.org/wiki/Henryk_Jab%C5%82o%C5%84ski
 https://pl.wikipedia.org/wiki/Wojciech_Jaruzelski
 https://pl.wikipedia.org/wiki/Lech_Wa%C5%82%C4%99sa
