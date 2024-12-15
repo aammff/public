@@ -293,7 +293,7 @@ REGON
 https://oilkrakow.pl/en/home-page/
 https://oilkrakow.pl/
 https://www.oil.rzeszow.pl/
-https://zwrenoma.pl/
+https://zwrenoma.pl/ ("kontrola" "biletowa" przez dwie wytatuowane kobiety) 
 CIT
 PIT
 VAT
