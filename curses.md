@@ -849,6 +849,8 @@ jak ktoś nie zauważył https://pl.wikipedia.org/wiki/CAC_40 ma produkcję alko
 
 jeżeli nie znasz porządnie ze czterech albo więcej języków, może być problem żeby cokolwiek z tego wszystkie zrozumieć [jeżeli znasz tylko jeden to jakby to powiedzieć, bystryś jak kapsel od piwa] - na serio, znając język polski jesteś na poziomie warzywa, zgniłego. 
 
+z trików jakie kurwa sara z wytatuowanym kutafonem marcinem zrobili, to np zajęcia na poljapie (więc reputacja jakby), ale w pewnym momencie zmienili salę na taką z gigantycznymi lustrami, a potem spowrotem, to są takie triki, tak samo jak organizowane przez pis spotkania z wyborcami w sali z baletnicami; nie mówiąc o tym, że potem poljap zmienia nazwę na jakąś inną, więc jest jeszcze śmieszniej; a knajpa mito, gdzie to się wszystko zaczęło, to też już nie ma. tak tak, też mnie zaprosili do siebie na karmienie i oglądanie filmów. ale nie chuja nie mówili o co w tym wszystkim tak naprawdę chodzi, przeklinam ich. dużo mówić. straszliwi oszuści, jebać ich.
+
 
 
 
