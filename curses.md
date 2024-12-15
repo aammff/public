@@ -336,7 +336,7 @@ https://en.wikipedia.org/wiki/Chris_Kempczinski
 https://en.wikipedia.org/wiki/Lossy_compression
 https://en.wikipedia.org/wiki/Google_Cardboard
 https://en.wikipedia.org/wiki/Numbers_station
-Maciej Fijałkowski (wuj z przelotką, kiedy "informatyk" robiący soft vr zaczyna interesować się psychologią, to wiedz, że coś się dzieje; wskazówki: kiedy mnie zapraszasz do pasterki, nie wyrzucaj mnie stamtąd po paru dniach, i nie opowiadaj, że uciąłeś sobie nasieniowody albo że twój stary kupił dom z kiblem otocznym scianą z luster, nie opowiadaj o "twojej dziewczynie")
+Maciej Fijałkowski (wuj z przelotką, kiedy "informatyk" robiący soft vr zaczyna interesować się psychologią, to wiedz, że coś się dzieje; wskazówki: nie wysyłaj mi zdjęć dziewczyn w wannie, kiedy mnie zapraszasz do pasterki, nie wyrzucaj mnie stamtąd po paru dniach, i nie opowiadaj, że uciąłeś sobie nasieniowody albo że twój stary kupił dom z kiblem otocznym scianą z luster, nie opowiadaj o "twojej dziewczynie")
 https://pypy.org/
 Jan Fijałkowski
 Wojciec Piekarek
