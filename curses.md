@@ -49,7 +49,7 @@ https://visa.com/ (gówno reklamy)
 https://fppl.pl/ (champlacanien -> big mac index -> mcdonalds, script kiddies)
 *.mcdonalds.com (drive through, slaughterhouse)
 *.ikea.com
-*.twitch.tv
+*.twitch.tv (dlaczego puszczają reklamy lego na twitchu?)
 *.spotify.com
 *.tidal.com
 *.vatican.va (systemowa pedofilia / systemic pedophilia)
