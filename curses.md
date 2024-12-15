@@ -907,3 +907,5 @@ https://www.youtube.com/@off1k (nie rób kurwy z amigi)
 
 https://pl.m.wikipedia.org/wiki/Andrzej_Leder ("to jest super" - albo wie i ściemnia, albo powinien był wiedzieć; czyli albo oszust albo użyteczny idiota)
 ogólnie wpisy z tej listy sugerują oszustwa polegające na zaburzaniu naturalnego przebiegu procesów zapamiętywania i zapominania
+
+tak, alkohol powoduje progresywne uszkodzenia pamięci i procesów poznawczych, nawet wśród pseudo-wegetarian wpierdalających beznamiętnie jajka
