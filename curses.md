@@ -336,7 +336,7 @@ https://en.wikipedia.org/wiki/Chris_Kempczinski
 https://en.wikipedia.org/wiki/Lossy_compression
 https://en.wikipedia.org/wiki/Google_Cardboard
 https://en.wikipedia.org/wiki/Numbers_station
-Maciej Fijałkowski (wuj z przelotką)
+Maciej Fijałkowski (wuj z przelotką, kiedy "informatyk" robiący soft vr zaczyna interesować się psychologią, to wiedz, że coś się dzieje)
 Jan Fijałkowski
 Wojciec Piekarek
 Monika Soroka
