@@ -165,8 +165,9 @@ https://ksiegarnia.pwn.pl/it-pwn?utm_source=oi.edu.pl&utm_medium=logo&utm_campai
 https://www.cmegroup.com/ (HE, LE, GF)
 https://nil.org.pl/
 https://en.wikipedia.org/wiki/Tracing_garbage_collection
-http://lkw.org.pl/
-https://pza.org.pl/
+http://lkw.org.pl/ (za piekarka)
+https://pza.org.pl/ (za lkw)
+https://www.gov.pl/web/sport/ministerstwo-sportu-i-turystyki (za pza)
 https://kielich.lubin.pl/
 https://pl.wikipedia.org/wiki/Wojciech_Smarzowski
 https://www.facebook.com/artur.pierzchniakguma/
