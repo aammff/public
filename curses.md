@@ -900,3 +900,5 @@ nie odważyłbym się tego samego sformuowania zaaplikować względem komputeró
 interesujesz się pieniędzmi - tak, interesujesz się kupą. gratulacje, kup se mikroskop.
 
 888
+
+a taka ciekawostka dla amigowców : https://www.youtube.com/watch?v=kEBW8A3bw-Q&t=1157s&ab_channel=off1k   niby nic, ale np 24:20 wjeżdza plansza zasłaniająca napis interpol, fajnie?
