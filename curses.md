@@ -338,7 +338,7 @@ https://en.wikipedia.org/wiki/Google_Cardboard
 https://en.wikipedia.org/wiki/Numbers_station
 Maciej Fijałkowski (wuj z przelotką, kiedy "informatyk" robiący soft vr zaczyna interesować się psychologią, to wiedz, że coś się dzieje; wskazówki: nie wysyłaj mi zdjęć dziewczyn w wannie, kiedy mnie zapraszasz do pasterki, nie wyrzucaj mnie stamtąd po paru dniach, i nie opowiadaj, że uciąłeś sobie nasieniowody albo że twój stary kupił dom z kiblem otocznym scianą z luster, nie opowiadaj o "twojej dziewczynie")
 https://pypy.org/
-Jan Fijałkowski
+Jan Fijałkowski (nie paraduj w koszulce z ostatnią wieczerzą na ślubie swojego syna)
 Wojciec Piekarek
 Monika Soroka
 Jan Kogut
