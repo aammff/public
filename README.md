@@ -1,5 +1,8 @@
 NEVER DISTRIBUTE SELF-HOSTED COMPILER OUTPUT
 # public
+
+kampania społeczna SanokPośmiewiskiemGównoKraju  (RiiiP 1989-2019)
+
 use loseless compression (i compress, therefore i think)
 
 XMR 44dWa6GMV3fPUcsHdqSjSs3Jq4vgMa7sD6NKgK7RNxJQHDfeJPZnzNMTKAuLPRAjCjbfPT7jEScLqcNWuJPxM1T7Sb7g1Qf
