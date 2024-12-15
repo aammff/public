@@ -97,7 +97,7 @@ lenovo.com (do momentu usunięcia ze bootsplasha logo-oka-szwedzkich "pożal-si�
 fuksa
 Fuksa
 FUKSA
-*.lego.com
+*.lego.com (reklamy na twitch.tv)
 *.mattel.com
 *.snapchat.com
 *.ycombinator.com
