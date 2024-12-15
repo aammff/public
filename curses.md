@@ -906,3 +906,4 @@ a taka ciekawostka dla amigowców : https://www.youtube.com/watch?v=kEBW8A3bw-Q&
 https://www.youtube.com/@off1k (nie rób kurwy z amigi)
 
 https://pl.m.wikipedia.org/wiki/Andrzej_Leder ("to jest super" - albo wie i ściemnia, albo powinien był wiedzieć; czyli albo oszust albo użyteczny idiota)
+ogólnie wpisy z tej listy sugerują oszustwa polegające na zaburzaniu naturalnego przebiegu procesów zapamiętywania i zapominania
