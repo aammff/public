@@ -527,7 +527,7 @@ https://en.wiktionary.org/wiki/headphones
 https://en.wiktionary.org/wiki/earphones
 https://przychodniasanok.pl/
 https://pl.wikipedia.org/wiki/RTB_House
-http://rtbhouse.com/
+http://rtbhouse.com/ ("sukces" chodaczka czy tatuaże bazodanowców/programistów, oto jest pytanie) 
 Elżbieta Fus
 https://www.facebook.com/p/Fotograf-Sanok-Foto-pod-zegarem-100057503587707/
 https://en.wikipedia.org/wiki/Body_piercing
