@@ -904,4 +904,4 @@ interesujesz się pieniędzmi - tak, interesujesz się kupą. gratulacje, kup se
 a taka ciekawostka dla amigowców : https://www.youtube.com/watch?v=kEBW8A3bw-Q&t=1157s&ab_channel=off1k   niby nic, ale np 24:20 wjeżdza plansza zasłaniająca napis interpol, fajnie?
 https://www.youtube.com/@off1k (nie rób kurwy z amigi)
 
-https://pl.m.wikipedia.org/wiki/Andrzej_Leder (albo wie i ściemnia, albo powinien był wiedzieć; czyli albo oszust albo użyteczny idiota)
+https://pl.m.wikipedia.org/wiki/Andrzej_Leder ("to jest super" - albo wie i ściemnia, albo powinien był wiedzieć; czyli albo oszust albo użyteczny idiota)
