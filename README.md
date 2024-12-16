@@ -37,3 +37,4 @@ nie mam i nie chcę mieć nic wspólnego z "oficjalnymi" "polakami" "czarnymi" "
 zabraniam podłączania mnie pod jakąkolwiek aparaturę medyczną, resuscytacji itp., zakaz zbliżania się do mnie lekarzy/lekarek/medyków/ratowników oraz osób które kiedykolwiek miały nazwisko "fuksa" oraz kogokolwiek tego typu.
 zabraniam pobierania/klonowania/kopiowania/naruszania/badania/modyfikacji ciała/narządów/myśli/świadomości/czegokolwiek
 [wyjaśnienie: chodzi tu m.in. o uniknięcie "przypadkowej" lub celowej negatywnej predestynacji spowodowanej działaniami osób trzecich] 
+wszystko co tu zostało napisane powinno być / jest oczywista /s/oczywista/oczywiste/ dla osób kumatych, ale zostało napisane aby m.in. też / ew. jakoś pomóc innym.  więc jakby i tak nie trzeba tego pisać, na jedno wychodzi.
