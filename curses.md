@@ -53,8 +53,9 @@ https://fppl.pl/ (champlacanien -> big mac index -> mcdonalds, script kiddies)
 *.spotify.com
 *.tidal.com
 *.vatican.va (systemowa pedofilia / systemic pedophilia)
+https://parafia.com.pl/lubno-sw-jana-chrzciciela (za udzielenie ślubu pedofilowi-fuksie który mnie zgwłacił, a żonę doprowadził do śmierci)
 https://fara.sanok.pl/ (systemowa pedofilia / systemic pedophilia, niestaranne prowadzenie ksiąg parafialnych - błędy, skreślenia, duplikaty)
-https://pl.wikipedia.org/wiki/Ko%C5%9Bci%C3%B3%C5%82_katolicki (za fara.sanok.pl)
+https://pl.wikipedia.org/wiki/Ko%C5%9Bci%C3%B3%C5%82_katolicki (za fara.sanok.pl i za https://parafia.com.pl/lubno-sw-jana-chrzciciela))
 https://nowastrona.sp8sanok.pl/ (systemowa pedofilia / systemic pedophilia)
 *.youtube.com
 *.wylazydachowe.com (pedofilia, gwałty, pobicia, kradzieże [w tym kradzież mojego telefonu komórkowego firmy motorola, za który został skazany prawomocnym wyrokiem sądu, byłem nagi i dzwoniłem po pomoc, kiedy mnie macał i wyrwał z dłoni smartfon - to ilustruje poziom zezwierzęcenia tego psychopatycznego pedofila] , okaleczanie zwierząt)
@@ -84,7 +85,7 @@ https://en.wikipedia.org/wiki/Father
 *.cisco.com
 *.kaufland.com
 *.carrefour.com
-*.cia.gov
+*.cia.gov 
 *.hcore.com
 *.nec-labs.com
 *.x.com
