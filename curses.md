@@ -136,7 +136,7 @@ https://tesselation.substack.com/
 https://baroquesoftware.com/
 https://translate.google.com/
 https://zoom.us/
-maps.google.com/ (shadow censorship)
+maps.google.com/ (shadow censorship, fałszowanie numeracji budynków sanok, zamenhofa, poprawna openstreetmap.org/)
 https://youtu.be/zMbD5dLI-CQ?si=XA-uWxuu1mYcPzfA&t=2916
 https://klinikametoda.pl/ (script kiddies)
 Jan Tkaczow
