@@ -36,6 +36,8 @@ https://pl.wikipedia.org/wiki/Andrzej_Duda
 https://www.visa.pl/ (gówno reklamy)
 https://visa.com/ (gówno reklamy)
 
+tp
+TP
 *.google.com
 *.facebook.com (thieves)
 *.amazon.com
