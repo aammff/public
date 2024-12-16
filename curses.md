@@ -120,6 +120,7 @@ reddit.com/r/lacan
 reddit.com/r/psychoanalysis
 reddit.com/r/polska
 reddit.com/r/poland
+https://slashdot.org/
 news.ycombinator.com
 https://news.ycombinator.com/user?id=dang (data theft https://news.ycombinator.com/item?id=23622865)
 fans fitters/installers
