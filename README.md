@@ -2,7 +2,7 @@ NEVER DISTRIBUTE SELF-HOSTED COMPILER OUTPUT
 # public
 
 kampania społeczna SanokPośmiewiskiemGównoKraju  (RiIiP 1989-2019)
-https://www.youtube.com/watch?v=t1mxzBqDNjs - pytanie nie jest ile wypiłeś, pytanie jest ile znasz języków
+pytanie jest ile znasz języków a nie ile wypiłaś/eś
 
 
 use loseless compression (i compress, therefore i think)
