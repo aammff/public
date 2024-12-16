@@ -30,3 +30,5 @@ https://news.ycombinator.com/user?id=iamnotsure
 
 https://en.wikipedia.org/wiki/Survivorship_bias
 https://pl.wikipedia.org/wiki/B%C5%82%C4%85d_prze%C5%BCywalno%C5%9Bci
+
+zabraniam symulowania mojej osoby, robienia zdjęć, filmów, nagrań itp
