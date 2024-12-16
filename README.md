@@ -31,4 +31,5 @@ https://news.ycombinator.com/user?id=iamnotsure
 https://en.wikipedia.org/wiki/Survivorship_bias
 https://pl.wikipedia.org/wiki/B%C5%82%C4%85d_prze%C5%BCywalno%C5%9Bci
 
-zabraniam symulowania mojej osoby, robienia zdjęć, filmów, nagrań itp
+zabraniam jakiegokolwiek symulowania mojej osoby, zabraniam robienia deep-fakes; zabraniam robienia/przechowywania zdjęć, filmów, nagrań, podpisów, jakiejkolwiek biometrii, itp.
+zabraniam pochówku mojej osoby czarnym/katolikom/chrześcijanom; zabraniam pochówku mojej osoby na terenach RP; zabraniam wykonywania trumien i innych przedmiotów w tym celu, zabraniam wykonywania nagrobków, tablic itp.
