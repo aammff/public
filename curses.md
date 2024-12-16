@@ -38,6 +38,10 @@ https://visa.com/ (gówno reklamy)
 
 tp
 TP
+rp
+RP
+POLSKA
+POLSKIE
 *.google.com
 *.facebook.com (thieves)
 *.amazon.com
