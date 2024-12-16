@@ -54,6 +54,7 @@ https://fppl.pl/ (champlacanien -> big mac index -> mcdonalds, script kiddies)
 *.tidal.com
 *.vatican.va (systemowa pedofilia / systemic pedophilia)
 https://fara.sanok.pl/ (systemowa pedofilia / systemic pedophilia, niestaranne prowadzenie ksiąg parafialnych - błędy, skreślenia, duplikaty)
+https://pl.wikipedia.org/wiki/Ko%C5%9Bci%C3%B3%C5%82_katolicki (za fara.sanok.pl)
 https://nowastrona.sp8sanok.pl/ (systemowa pedofilia / systemic pedophilia)
 *.youtube.com
 *.wylazydachowe.com (pedofilia, gwałty, pobicia, kradzieże [w tym kradzież mojego telefonu komórkowego firmy motorola, za który został skazany prawomocnym wyrokiem sądu, byłem nagi i dzwoniłem po pomoc, kiedy mnie macał i wyrwał z dłoni smartfon - to ilustruje poziom zezwierzęcenia tego psychopatycznego pedofila] , okaleczanie zwierząt)
