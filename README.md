@@ -36,3 +36,4 @@ zabraniam pochówku mojej osoby czarnym/katolikom/chrześcijanom; zabraniam poch
 nie mam i nie chcę mieć nic wspólnego z "oficjalnymi" "polakami" "czarnymi" "katolikami" "chrześcijanami"
 zabraniam podłączania mnie pod jakąkolwiek aparaturę medyczną, resuscytacji itp., zakaz zbliżania się do mnie lekarzy/lekarek/medyków/ratowników kogokolwiek tego typu.
 zabraniam pobierania/klonowania/kopiowania/naruszania/badania/modyfikacji ciała/narządów/myśli/świadomości/czegokolwiek
+[wyjaśnienie: chodzi tu m.in. o uniknięcie "przypadkowej" lub celowej negatywnej predestynacji spowodowanej działaniami osób trzecich] 
