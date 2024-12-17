@@ -35,6 +35,7 @@ https://pl.wikipedia.org/wiki/Andrzej_Duda
 
 https://www.visa.pl/ (gówno reklamy)
 https://visa.com/ (gówno reklamy)
+https://www.zabka.pl/ (spam)
 
 tp
 TP
