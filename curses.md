@@ -317,7 +317,7 @@ BÓG HONOR OJCZYZNA
 BÓG
 HONOR
 OJCZYZNA
-daniel mola
+daniel mola *fu (fuj)
 andrzej kuzin (kłamie i truje, poza tym bait and switch robi, niech spierdala) (poza tym źle się o konopiach wyo wypowiada)
 https://www.dlink.com/
 https://en.wikipedia.org/wiki/Google_Neural_Machine_Translation
