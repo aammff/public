@@ -524,7 +524,7 @@ https://pl.wikipedia.org/wiki/Pomorski_Uniwersytet_Medyczny_w_Szczecinie
 http://www.pum.edu.pl/
 https://pl.wikipedia.org/wiki/Gda%C5%84ski_Uniwersytet_Medyczny
 http://www.gumed.edu.pl/
-https://www.ing.pl/
+https://www.ing.pl/ (bardzo lubię holendrów, ale mają jednego bardzo złego klienta który mi napsół krew)
 https://sejm.gov.pl/
 https://www.senat.gov.pl/
 https://en.wikipedia.org/wiki/Dionysus
