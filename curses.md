@@ -4,6 +4,9 @@ https://en.wikipedia.org/wiki/Self-hosting_(compilers) (NEVER DISTRIBUTE SELF-HO
 *.pl (https://www.rp.pl/polityka/art41507391-jak-rosja-ograla-rzad-pis-w-programie-dla-informatykow)
 https://pl.wikipedia.org/wiki/Wiedza_o_spo%C5%82ecze%C5%84stwie (https://intersol.ca/news/organizational-culture-and-the-5-monkeys-experiment/)
 
+
+
+
 lista zdrajców i sprzedawczyków:
 https://orka.sejm.gov.pl/SQL.nsf/InfoForPPIDec?OpenAgent&24811&niez.&Za
 https://orka.sejm.gov.pl/SQL.nsf/InfoForPPIDec?OpenAgent&24811&RP&Za
@@ -31,6 +34,12 @@ https://pl.wikipedia.org/wiki/Bronis%C5%82aw_Komorowski
 https://pl.wikipedia.org/wiki/Bogdan_Borusewicz
 https://pl.wikipedia.org/wiki/Grzegorz_Schetyna
 https://pl.wikipedia.org/wiki/Andrzej_Duda
+
+https://pl.wikipedia.org/wiki/Monar
+https://pl.wikipedia.org/wiki/Markot
+https://pl.wikipedia.org/wiki/Order_Odrodzenia_Polski
+https://pl.wikipedia.org/wiki/Order_U%C5%9Bmiechu
+https://pl.wikipedia.org/wiki/Marek_Kota%C5%84ski
 
 
 https://www.visa.pl/ (gówno reklamy)
