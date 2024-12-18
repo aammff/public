@@ -42,6 +42,11 @@ https://pl.wikipedia.org/wiki/Order_U%C5%9Bmiechu
 https://pl.wikipedia.org/wiki/Marek_Kota%C5%84ski
 
 
+https://www.instagram.com/czyste_bity/
+https://www.facebook.com/czystebity/?locale=pl_PL
+http://drop-in.krakow.pl/realizatorzy.html
+
+
 https://www.visa.pl/ (gówno reklamy)
 https://visa.com/ (gówno reklamy)
 https://www.zabka.pl/ (spam)
