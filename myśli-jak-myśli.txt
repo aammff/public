@@ -108,4 +108,4 @@ coraz gorzej wychodzi ludziom udawanie że internet nie istnieje
 
 never distribute self-hosted compiler output
 
-systematycznie lekki błąd
+systematycznie lekki błąd - literally thinking with portals
