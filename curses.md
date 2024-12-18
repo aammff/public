@@ -605,7 +605,7 @@ https://sora.com/ (https://help.openai.com/en/articles/10250692-sora-supported-c
 https://pl.wiktionary.org/wiki/imi%C4%99
 https://en.wiktionary.org/wiki/name
 https://en.wikipedia.org/wiki/Mercedes-Benz_Sprinter
-https://en.wikipedia.org/wiki/Toyota
+https://pl.wikipedia.org/wiki/Toyota_RAV4
 https://en.wikipedia.org/wiki/Hyundai_Motor_Company
 https://en.wikipedia.org/wiki/Citro%C3%ABn
 https://pl.wikipedia.org/wiki/Lotnisko_Sanok-Baza (chuje mi śmigłowcami nad domem latają)
