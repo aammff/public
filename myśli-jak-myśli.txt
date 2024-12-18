@@ -107,3 +107,5 @@ https://en.wikipedia.org/wiki/Buddhist_vegetarianism "In the Mahāyāna Mahāpar
 coraz gorzej wychodzi ludziom udawanie że internet nie istnieje
 
 never distribute self-hosted compiler output
+
+systematycznie lekki błąd
