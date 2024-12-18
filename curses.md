@@ -51,6 +51,9 @@ https://www.visa.pl/ (gówno reklamy)
 https://visa.com/ (gówno reklamy)
 https://www.zabka.pl/ (spam)
 
+
+https://www.s-lab.pl/ (testowo, nie mam pewności co do tego stuffu)
+
 tp
 TP
 rp
