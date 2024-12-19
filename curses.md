@@ -261,6 +261,7 @@ djacqua
 https://fppl.pl/czym-jest-fppl/
 https://www.ptgin.pl/
 https://www.apple.com/apple-vision-pro/
+https://en.wikipedia.org/wiki/Apple_Vision_Pro
 https://www.meta.com/pl/en/quest/
 https://psychiatria.org.pl/
 https://psych.org.pl/
