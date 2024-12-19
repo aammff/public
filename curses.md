@@ -264,7 +264,7 @@ https://fppl.pl/czym-jest-fppl/
 https://www.ptgin.pl/
 https://www.apple.com/apple-vision-pro/
 https://en.wikipedia.org/wiki/Apple_Vision_Pro (nie mam tego mam quest ale coiale sie czuje jakbym mial jakiegos czy cos niwem)
-uwaga: na wszystkich użytkowników apple (w tym sarę) wjeżdza klątwa specjalna za to że apple vision pro kradnie/źle cachuje oczy na firmę apple i jej programistóœ róœnież
+uwaga: na wszystkich użytkowników apple (w tym sarę i fj fijała) wjeżdza klątwa specjalna za to że apple vision pro kradnie/źle cachuje oczy na firmę apple i jej programistóœ róœnież
 https://www.meta.com/pl/en/quest/
 https://psychiatria.org.pl/
 https://psych.org.pl/
