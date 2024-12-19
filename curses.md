@@ -261,7 +261,7 @@ djacqua
 https://fppl.pl/czym-jest-fppl/
 https://www.ptgin.pl/
 https://www.apple.com/apple-vision-pro/
-https://en.wikipedia.org/wiki/Apple_Vision_Pro
+https://en.wikipedia.org/wiki/Apple_Vision_Pro (nie mam tego mam quest ale coiale sie czuje jakbym mial jakiegos czy cos niwem)
 https://www.meta.com/pl/en/quest/
 https://psychiatria.org.pl/
 https://psych.org.pl/
