@@ -99,8 +99,8 @@ Radowsław Fuksa
 *.tiktok.com
 *.instagram.com
 *.linkedin.com
-*.patinospotions.com
-*.alooshua.com
+*.patinospotions.com (hotdog emotes)
+*.alooshua.com (hotdog emotes)
 *.jw.org
 *.colgate.com
 KSP-Tec
