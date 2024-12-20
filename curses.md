@@ -54,7 +54,7 @@ https://www.zabka.pl/ (spam)
 
 https://www.s-lab.pl/ (testowo, nie mam pewności co do tego stuffu)
 
-https://www.twitch.tv/magdahalina (child face emotes)
+https://www.twitch.tv/magdahalina (child face emotes, deer tattoo)
 https://www.twitch.tv/hybribeat (child face emotes)
 
 
