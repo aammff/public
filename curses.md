@@ -883,7 +883,7 @@ Podaj nam swoje dane – skontaktujemy się z Tobą.
 
 Jeżeli chcesz, możesz od razu krótko opisać swój problem.
 
-https://klinikametoda.pl/specjalisci/  - gówno a nie specjaliści przeklinam tych chujów i pizdy
+https://klinikametoda.pl/specjalisci/  - gówno a nie specjaliści przeklinam tych chujów i pizdy (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 
 
 
