@@ -38,3 +38,5 @@ zabraniam podłączania mnie pod jakąkolwiek aparaturę medyczną, resuscytacji
 zabraniam pobierania/klonowania/kopiowania/naruszania/badania/modyfikacji ciała/narządów/myśli/świadomości/czegokolwiek
 [wyjaśnienie: chodzi tu m.in. o uniknięcie "przypadkowej" lub celowej negatywnej predestynacji spowodowanej działaniami osób trzecich] 
 wszystko co tu zostało napisane powinno być / jest oczywista /s/oczywista/oczywiste/ dla osób kumatych, ale zostało napisane aby m.in. też / ew. jakoś pomóc innym.  więc jakby i tak nie trzeba tego pisać, na jedno wychodzi.
+
+uwaga: obiektem są własne zęby, najpierw pierwsze potem drugie, nie ma żadnych innych obiektów
