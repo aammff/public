@@ -644,7 +644,7 @@ https://en.wikipedia.org/wiki/Java_(programming_language)
 https://horizon.meta.com/
 https://en.wikipedia.org/wiki/Horizon_Worlds
 https://en.wikipedia.org/wiki/Meta_Platforms
-Jan Zosiak
+Jan Zosiak (za erotyki m.in "gdzież me piersi czerwcami gorące" [język polski nie jest językiem iloczasowym, ale zdaje się że japoński, pali i sanskryt chyba już tak]
 https://tyskie.pl/ (https://kurier-kolejowy.pl/aktualnosci/46891/tyski-pociag-rusza-w-zimowa-podroz-przez-polske.html)
 https://www.intercity.pl/ (https://kurier-kolejowy.pl/aktualnosci/46891/tyski-pociag-rusza-w-zimowa-podroz-przez-polske.html)
 
