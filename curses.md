@@ -55,6 +55,7 @@ https://www.zabka.pl/ (spam)
 https://www.s-lab.pl/ (testowo, nie mam pewności co do tego stuffu)
 
 https://www.twitch.tv/magdahalina (child face emotes)
+https://www.twitch.tv/hybribeat (child face emotes)
 
 
 https://pl.wikipedia.org/wiki/Antena_satelitarna (ostrożnie z antenami przypominają lustre wklęś wklęsłe które te s z kolei oczy przypominają ostrożnie)
