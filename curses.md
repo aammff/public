@@ -708,7 +708,7 @@ https://en.wikipedia.org/wiki/Bait-and-switch
 
 https://sinthome.pl/klinika - zdelegalizować ich, niebezpieczna sekta
 II. GABINETY
-MARTA ALEKSANDROWICZ
+MARTA ALEKSANDROWICZ (chuj najpierw sprwoadza gościa zza granicy, idziecie na spotkanie, a jakiś czas później kutas f wrzuca na www rozbierane sceny pieprzenia - przeklinam cię)
 Berlin, Schöneberg
 +49 174 818 23 37
 mail
@@ -718,7 +718,7 @@ Warszawa, Raków; Łazy
 +48 604 597 214
 mail
 PL
-PAULINA GAWLIŃSKA
+PAULINA GAWLIŃSKA (chuj najpierw sprwoadza gościa zza granicy, idziecie na spotkanie, a jakiś czas później kutas f wrzuca na www rozbierane sceny pieprzenia - przeklinam cię)
 Warszawa, Mokotów
 +48 602 774 255
 mail
@@ -728,32 +728,32 @@ Warszawa, Kabaty
 +48 501 204 502
 mail
 PL & EN
-IGA RAKOWSKA
+IGA RAKOWSKA (chuj najpierw sprwoadza gościa zza granicy, idziecie na spotkanie, a jakiś czas później kutas f wrzuca na www rozbierane sceny pieprzenia - przeklinam cię)
 Warszawa, Milanówek
 +48 538-906-616
 mail
 PL
-JACEK SOSNOWSKI
+JACEK SOSNOWSKI (chuj najpierw sprwoadza gościa zza granicy, idziecie na spotkanie, a jakiś czas później kutas f wrzuca na www rozbierane sceny pieprzenia - przeklinam cię)
 Warszawa
 +48 505 383 392
 mail
 PL
-ELŻBIETA SZTEJNERT
+ELŻBIETA SZTEJNERT (chuj najpierw sprwoadza gościa zza granicy, idziecie na spotkanie, a jakiś czas później kutas f wrzuca na www rozbierane sceny pieprzenia - przeklinam cię)
 Warszawa, Wilanów
 +48 507 016 722
 mail
 PL
-PRZEMYSŁAW SZUBARTOWICZ
+PRZEMYSŁAW SZUBARTOWICZ (chuj najpierw sprwoadza gościa zza granicy, idziecie na spotkanie, a jakiś czas później kutas f wrzuca na www rozbierane sceny pieprzenia - przeklinam cię)
 Warszawa, Bielany
 +48 507 004 014
 mail
 PL
-MATEUSZ FRANCZAK
+MATEUSZ FRANCZAK (chuj najpierw sprwoadza gościa zza granicy, idziecie na spotkanie, a jakiś czas później kutas f wrzuca na www rozbierane sceny pieprzenia - przeklinam cię)
 Warszawa, Śródmieście
 +48 793 644 480
 mail
 PL
-PAWEŁ DROŹDZIAK - psycholog
+PAWEŁ DROŹDZIAK - psycholog (chuj najpierw sprwoadza gościa zza granicy, idziecie na spotkanie, a jakiś czas później kutas f wrzuca na www rozbierane sceny pieprzenia - przeklinam cię)
 Warszawa, Saska Kępa
 +48 784 005 282
 mail
