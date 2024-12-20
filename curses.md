@@ -723,7 +723,7 @@ Warszawa, Mokotów
 +48 602 774 255
 mail
 PL
-KRZYSZTOF PAWLAK
+KRZYSZTOF PAWLAK (chuj najpierw sprwoadza gościa zza granicy, idziecie na spotkanie, a jakiś czas później kutas f wrzuca na www rozbierane sceny pieprzenia - przeklinam cię)
 Warszawa, Kabaty
 +48 501 204 502
 mail
