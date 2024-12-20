@@ -762,121 +762,121 @@ PL
 
 to samo poniżej, takie samo gówno, przeklinam wszystkich, bait and switch robią i szkodzą
 SPECJALISTA
-Marcin Piotrowski
+Marcin Piotrowski (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 Psychoanalityk
-Jan Tkaczow
+Jan Tkaczow (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 SPECJALISTA
-Jan Tkaczow
+Jan Tkaczow (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 Psychoanalityk, Psychiatra
 SPECJALISTA
-Joanna Szymańska
-Psychoanalityk
+Joanna Szymańska (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
+Psychoanalityk 
 SPECJALISTA
-Kajetan Pyrzowski
+Kajetan Pyrzowski (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 Psychiatra
-Katarzyna Pycio
+Katarzyna Pycio (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 SPECJALISTA
-Katarzyna Pycio
+Katarzyna Pycio (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 Psychiatra dziecięcy
-Jan Cichecki
+Jan Cichecki (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 SPECJALISTA
-Jan Cichecki
+Jan Cichecki (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 Psychiatra
-Marcin Kołodziej
+Marcin Kołodziej (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 SPECJALISTA
-Marcin Kołodziej
+Marcin Kołodziej (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 Psychiatra
-Ewa Marciniak
+Ewa Marciniak (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 SPECJALISTA
-Ewa Marciniak
+Ewa Marciniak (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 Psychiatra
-Joanna Karwat
+Joanna Karwat (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 SPECJALISTA
-Joanna Karwat
+Joanna Karwat (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 Psychiatra
-Karolina Tybulczuk
+Karolina Tybulczuk (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 SPECJALISTA
-Karolina Tybulczuk
+Karolina Tybulczuk (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 Psychiatra
-Marta Pachla
+Marta Pachla (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 SPECJALISTA
-Marta Pachla
+Marta Pachla (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 Psychiatra
-Joanna Borucka
+Joanna Borucka (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 SPECJALISTA
-Joanna Borucka
+Joanna Borucka (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 Psychiatra
-Łukasz Rudnicki
+Łukasz Rudnicki (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 SPECJALISTA
-Łukasz Rudnicki
+Łukasz Rudnicki (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 Psychiatra
-Krzysztof Bożejko
+Krzysztof Bożejko (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 SPECJALISTA
-Krzysztof Romuald Bożejko
+Krzysztof Romuald Bożejko (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 Psychiatra
-Marcin Jasiński
+Marcin Jasiński (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 SPECJALISTA
-Marcin Jasiński
+Marcin Jasiński (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 Psychiatra
-Adrianna Wantuła
+Adrianna Wantuła (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 SPECJALISTA
-Adrianna Wantuła
+Adrianna Wantuła (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 Psychiatra
-Bartłomiej Bauer
+Bartłomiej Bauer (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 SPECJALISTA
-Bartłomiej Bauer
+Bartłomiej Bauer (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 Psychiatra
-Aleksandra Knot
+Aleksandra Knot (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 SPECJALISTA
-Aleksandra Knot
+Aleksandra Knot (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 Psychiatra
-Marzena Ogniewska (Gralicka)
+Marzena Ogniewska (Gralicka) (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 SPECJALISTA
-Marzena Ogniewska (Gralicka)
+Marzena Ogniewska (Gralicka) (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 Psycholog
-Olga Wachnik-Rychlicka
+Olga Wachnik-Rychlicka (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 SPECJALISTA
-Olga Wachnik-Rychlicka
+Olga Wachnik-Rychlicka (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 Psychiatra
-Klara Kwiecińska
+Klara Kwiecińska (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 SPECJALISTA
-Klara Kwiecińska
+Klara Kwiecińska (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 Psychiatra
-Patrycja Gerlich
+Patrycja Gerlich (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 SPECJALISTA
-Patrycja Gerlich
+Patrycja Gerlich (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 Psychiatra
-Bartosz Urbański
+Bartosz Urbański (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 SPECJALISTA
-Bartosz Urbański
+Bartosz Urbański (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 Psychiatra
-Marta Paleczna
+Marta Paleczna (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 SPECJALISTA
-Marta Paleczna
+Marta Paleczna (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 Psycholog
-Bogumiła Gelbach
+Bogumiła Gelbach (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 SPECJALISTA
-Bogumiła Gelbach
+Bogumiła Gelbach (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 Psycholog, Psychoterapeuta
-Adrianna Wołtosz
+Adrianna Wołtosz (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 SPECJALISTA
-Adrianna Wołtosz
+Adrianna Wołtosz (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 Psycholog dziecięcy
-Magdalena Waluk
+Magdalena Waluk (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 SPECJALISTA
-Magdalena Waluk
+Magdalena Waluk (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 Psycholog
-Halina Kandzierska
+Halina Kandzierska (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 SPECJALISTA
-Halina Kandzierska
+Halina Kandzierska (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 Psychiatra dziecięcy
-Aleksandra Bakalarska
+Aleksandra Bakalarska (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 SPECJALISTA
-Aleksandra Bakalarska
+Aleksandra Bakalarska (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 Psychoterapeuta
-Dominika Siwik
+Dominika Siwik (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 SPECJALISTA
-Dominika Siwik
+Dominika Siwik (najpierw "bezpłatne " wykłady , a potem kanty razem z w fppl - teksty o seksie oralnym z nieletnią  + umieszczanie "sponsorów")
 Psychiatra
 
 Podaj nam swoje dane – skontaktujemy się z Tobą.
