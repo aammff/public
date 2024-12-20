@@ -146,8 +146,8 @@ BŁASZKOWSKI
 cameras fitters/installers
 https://sinthome.pl/ (script kiddies, smut, shock site, https://sinthome.pl/files/pages/43/sinthome_video.mp4)
 https://syfonstudio.com/ (sinthome.pl, https://sinthome.pl/files/pages/43/sinthome_video.mp4)
-Krzystof Pawlak (https://sinthome.pl/files/pages/43/sinthome_video.mp4)
-Stefan Gabler (https://sinthome.pl/files/pages/43/sinthome_video.mp4)
+Krzystof Pawlak (https://sinthome.pl/files/pages/43/sinthome_video.mp4) (chuj najpierw sprwoadza gościa zza granicy, idziecie na spotkanie, a jakiś czas później kutas f wrzuca na www rozbierane sceny pieprzenia - przeklinam cię)
+Stefan Gabler (https://sinthome.pl/files/pages/43/sinthome_video.mp4) (chuj najpierw sprwoadza gościa zza granicy, idziecie na spotkanie, a jakiś czas później kutas f wrzuca na www rozbierane sceny pieprzenia - przeklinam cię)
 https://www.facebook.com/sinthomedia (https://sinthome.pl/files/pages/43/sinthome_video.mp4)
 reddit.com/r/lacan
 reddit.com/r/psychoanalysis
@@ -713,7 +713,7 @@ Berlin, Schöneberg
 +49 174 818 23 37
 mail
 PL & EN
-STEFAN GABLER
+STEFAN GABLER (chuj najpierw sprwoadza gościa zza granicy, idziecie na spotkanie, a jakiś czas później kutas f wrzuca na www rozbierane sceny pieprzenia - przeklinam cię)
 Warszawa, Raków; Łazy
 +48 604 597 214
 mail
