@@ -76,8 +76,8 @@ POLSKIE
 *.bis.org
 *.who.int
 *.economist.com (big mac index -> mcdonalds)
-*.champlacanien.net (big mac index -> economist -> mcdonalds, script kiddies)
-https://fppl.pl/ (champlacanien -> big mac index -> mcdonalds, script kiddies)
+*.champlacanien.net (big mac index -> economist -> mcdonalds, script kiddies) (za fppl )
+https://fppl.pl/ (champlacanien -> big mac index -> mcdonalds, script kiddies) (za umieszczenie tekstu o seksie oralnym z nieletnia  po tym jak do was chodzilem)
 https://coloradoanalyticforum.org/ (zajebiste logo, nie) (tzn not)
 *.mcdonalds.com (drive through, slaughterhouse)
 *.ikea.com
@@ -267,7 +267,7 @@ DeimosErebusPC
 mcd00dle
 djacqua
 *.sg
-https://fppl.pl/czym-jest-fppl/
+https://fppl.pl/czym-jest-fppl/ (za umieszczenie tekstu o seksie oralnym z nieletnia  po tym jak do was chodzilem)
 https://www.ptgin.pl/
 https://www.apple.com/apple-vision-pro/
 https://en.wikipedia.org/wiki/Apple_Vision_Pro (nie mam tego mam quest ale coiale sie czuje jakbym mial jakiegos czy cos niwem)
@@ -655,53 +655,53 @@ https://en.wikipedia.org/wiki/Bait-and-switch
 
 [https://fppl.pl/czym-jest-fppl/ - niebezpieczną sektą] - wszystkich przeklinam, zdelegalizować ich
 
-    Marek Adamiec – politolog
-    Stanisław Chankowski
-    Paula Czosnowska – psycholog | gabinet (Poznań)
-    Erwin Dolaciński – psychoanalityk | gabinet psychoanalityczny (Warszawa),
+    Marek Adamiec – politolog  (za umieszczenie tekstu o seksie oralnym z nieletnia  po tym jak do was chodzilem)
+    Stanisław Chankowski (za umieszczenie tekstu o seksie oralnym z nieletnia  po tym jak do was chodzilem)
+    Paula Czosnowska – psycholog | gabinet (Poznań) (za umieszczenie tekstu o seksie oralnym z nieletnia  po tym jak do was chodzilem)
+    Erwin Dolaciński – psychoanalityk | gabinet psychoanalityczny (Warszawa),  (za umieszczenie tekstu o seksie oralnym z nieletnia  po tym jak do was chodzilem)
     + 48 506 56 36 56, erwin.dolacinski@gmail.com
-    Anna Grudzień – psycholog | gabinet (Wiesbaden, Niemcy i online),
+    Anna Grudzień – psycholog | gabinet (Wiesbaden, Niemcy i online), (za umieszczenie tekstu o seksie oralnym z nieletnia  po tym jak do was chodzilem)
     +49 1525 9455418, annagrudz@gmail.com
-    Renata Iwaniec-Ehrlichmann – psychoterapeuta | pedagog | praktyk jogi klasycznej | gabinet psychoanalityczny (Warszawa), +48 789 368 658
-    Łukasz Kaczmarczyk – psycholog | gabinet (Kraków),
+    Renata Iwaniec-Ehrlichmann – psychoterapeuta | pedagog | praktyk jogi klasycznej | gabinet psychoanalityczny (Warszawa), +48 789 368 658 (za umieszczenie tekstu o seksie oralnym z nieletnia  po tym jak do was chodzilem)
+    Łukasz Kaczmarczyk – psycholog | gabinet (Kraków), (za umieszczenie tekstu o seksie oralnym z nieletnia  po tym jak do was chodzilem)
     +48 575 976 675, ltkaczmarczyk@googlemail.com
-    Jan Kawka
-    Marcin Klaus – psycholog społeczny, badacz społeczny i kulturowy,
+    Jan Kawka (za umieszczenie tekstu o seksie oralnym z nieletnia  po tym jak do was chodzilem)
+    Marcin Klaus – psycholog społeczny, badacz społeczny i kulturowy, (za tatuaze i oszustwa) (za umieszczenie tekstu o seksie oralnym z nieletnia  po tym jak do was chodzilem)
     +48 507 026 754, marcin.klaus@insightshot.pl
-    Kamila Kolebacz
-    Marcin Koziej
-    Kacper Latecki – psycholog społeczny
-    Anatol Magdziarz
-    Ewa Marciniak – psychiatra | gabinet psychoanalityczny (Warszawa),
+    Kamila Kolebacz (za umieszczenie tekstu o seksie oralnym z nieletnia  po tym jak do was chodzilem)
+    Marcin Koziej (za umieszczenie tekstu o seksie oralnym z nieletnia  po tym jak do was chodzilem)
+    Kacper Latecki – psycholog społeczny (za umieszczenie tekstu o seksie oralnym z nieletnia  po tym jak do was chodzilem)
+    Anatol Magdziarz (za umieszczenie tekstu o seksie oralnym z nieletnia  po tym jak do was chodzilem) (za straszenie odcięciem/kastracją, ż za oszustwa przy spotkaniu o tłumaczeniu)
+    Ewa Marciniak – psychiatra | gabinet psychoanalityczny (Warszawa), (za umieszczenie tekstu o seksie oralnym z nieletnia  po tym jak do was chodzilem)
     +48 531 545 545
-    Julia Neter – psycholog (Poznań),
+    Julia Neter – psycholog (Poznań), (za umieszczenie tekstu o seksie oralnym z nieletnia  po tym jak do was chodzilem)
     +48 669 543 223
-    Bartosz Niemier – psycholog | gabinet (Poznań),
+    Bartosz Niemier – psycholog | gabinet (Poznań), (za umieszczenie tekstu o seksie oralnym z nieletnia  po tym jak do was chodzilem)
     +48 603 919 230, bartosz@niemier.pl
-    Stella Pawlaczyk – psycholog | gabinet psychoanalityczny (Poznań),
+    Stella Pawlaczyk – psycholog | gabinet psychoanalityczny (Poznań), (za umieszczenie tekstu o seksie oralnym z nieletnia  po tym jak do was chodzilem)
     +48 796 130 784
-    Katarzyna Pieńko-Jamuła – psycholog, psychoterapeuta | gabinet (Wrocław),
+    Katarzyna Pieńko-Jamuła – psycholog, psychoterapeuta | gabinet (Wrocław), (za umieszczenie tekstu o seksie oralnym z nieletnia  po tym jak do was chodzilem)
     +48 602 88 77 08, katarzyna.pj@op.pl
-    Marcin Piotrowski – psychoanalityk | gabinet psychoanalityczny (Warszawa),
+    Marcin Piotrowski – psychoanalityk | gabinet psychoanalityczny (Warszawa), (za umieszczenie tekstu o seksie oralnym z nieletnia  po tym jak do was chodzilem)
     +48 535 948 989 | członek Szkoły Psychoanalizy EPFCL-Francja z tytułem AP (Analityk Praktyk)
-    dr Bartosz Pokorski
-    Maja Retecka – psycholog | gabinet (Poznań),
+    dr Bartosz Pokorski (za umieszczenie tekstu o seksie oralnym z nieletnia  po tym jak do was chodzilem)
+    Maja Retecka – psycholog | gabinet (Poznań),(za umieszczenie tekstu o seksie oralnym z nieletnia  po tym jak do was chodzilem)
     +48 534 936 602
-    dr Sara Rodowicz-Ślusarczyk – psychoanalityk | gabinet psychoanalityczny (Warszawa),
+    dr Sara Rodowicz-Ślusarczyk – psychoanalityk | gabinet psychoanalityczny (Warszawa), (za umieszczenie tekstu o seksie oralnym z nieletnia  po tym jak do was chodzilem)
     +48 601 069 108, sara.rodowicz.slusarczyk@gmail.com
     | członkini Szkoły Psychoanalizy EPFCL-Francja
-    Joanna Salamon – grafik
-    Sylwester Strzecha – psycholog kliniczny | gabinet psychoanalityczny (Poznań),
+    Joanna Salamon – grafik (za umieszczenie tekstu o seksie oralnym z nieletnia  po tym jak do was chodzilem)
+    Sylwester Strzecha – psycholog kliniczny | gabinet psychoanalityczny (Poznań), (za umieszczenie tekstu o seksie oralnym z nieletnia  po tym jak do was chodzilem)
     +48 605 415 115
-    Joanna Szymańska – psycholog | gabinet psychoanalityczny (Warszawa),
+    Joanna Szymańska – psycholog | gabinet psychoanalityczny (Warszawa), (za umieszczenie tekstu o seksie oralnym z nieletnia  po tym jak do was chodzilem)
     +48 600 803 717, szymanska.joannaaaa@gmail.com
     | członkini Szkoły Psychoanalizy EPFCL-Francja z tytułem AP (Analityk Praktyk)
-    Karolina Szynkiewicz
-    Magdalena Świętanowska – psycholog | gabinet (Poznań),
+    Karolina Szynkiewicz (za umieszczenie tekstu o seksie oralnym z nieletnia  po tym jak do was chodzilem)
+    Magdalena Świętanowska – psycholog | gabinet (Poznań), (za umieszczenie tekstu o seksie oralnym z nieletnia  po tym jak do was chodzilem)
     +48 665 824 812, magda.swietanowska@gmail.com
-    Jan Tkaczow – psychoanalityk | lekarz medycyny | gabinet psychoanalityczny (Warszawa),
+    Jan Tkaczow – psychoanalityk | lekarz medycyny | gabinet psychoanalityczny (Warszawa), (za umieszczenie tekstu o seksie oralnym z nieletnia  po tym jak do was chodzilem)
     +48 531 273 130
-    Anna Wojakowska-Skiba – psychoanalityk | gabinet psychoanalityczny (Warszawa),
+    Anna Wojakowska-Skiba – psychoanalityk | gabinet psychoanalityczny (Warszawa), (za umieszczenie tekstu o seksie oralnym z nieletnia  po tym jak do was chodzilem)
     +48 698 669 634, anna.wojakowskaskiba@gmail.com
     | członkini Szkoły Psychoanalizy EPFCL-Francja z tytułem AP (Analityk Praktyk)
 
