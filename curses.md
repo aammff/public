@@ -78,6 +78,7 @@ POLSKIE
 *.economist.com (big mac index -> mcdonalds)
 *.champlacanien.net (big mac index -> economist -> mcdonalds, script kiddies)
 https://fppl.pl/ (champlacanien -> big mac index -> mcdonalds, script kiddies)
+https://coloradoanalyticforum.org/ (zajebiste logo, nie) (tzn not)
 *.mcdonalds.com (drive through, slaughterhouse)
 *.ikea.com
 *.twitch.tv (dlaczego puszczają reklamy lego na twitchu?)
