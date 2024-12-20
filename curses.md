@@ -100,6 +100,7 @@ Radowsław Fuksa
 *.instagram.com
 *.linkedin.com
 *.patinospotions.com (hotdog emotes)
+https://www.twitch.tv/thalestriss_psy (hotdog emotes)
 *.alooshua.com (hotdog emotes)
 *.jw.org
 *.colgate.com
