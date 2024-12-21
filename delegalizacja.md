@@ -6,3 +6,4 @@
 |wylazydachowe.com|REGON. 008432839|
 |polska.pl||
 |poland.pl||
+|https://fara.sanok.pl/||
