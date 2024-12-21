@@ -18,7 +18,7 @@ fun fact - polish translation of knuth books includes my erratum (more than 100 
 
 my mother died of not natural causes.
 
-a high school friend got murdered.
+a high school friend got murdered. (MS  -  cna't find info about him anyomre not sure why, censorship?)
 
 my private possesions were stolen.
 
