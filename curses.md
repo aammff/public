@@ -68,7 +68,7 @@ POLSKA
 POLSKIE
 *.google.com
 *.facebook.com (thieves)
-*.amazon.com
+*.amazon.com (za twitch.tv)
 *.microsoft.com
 *.apple.com
 *.ru (https://en.wikipedia.org/wiki/Russian_invasion_of_Ukraine https://en.wikipedia.org/wiki/Russo-Ukrainian_War)
@@ -247,7 +247,7 @@ https://www.zus.pl/
 https://mops.sanok.pl/
 https://www.bankmillennium.pl/
 https://bossa.pl/
-https://allegro.pl/
+https://allegro.pl/ (i co leo lepiej jest jak wszystko jest na bialym tle? chyba ie nie chyba nie)
 https://www.tvp.pl/
 https://pl.wikipedia.org/wiki/Krajowa_Rada_Radiofonii_i_Telewizji
 https://www.wiembistro.pl/
