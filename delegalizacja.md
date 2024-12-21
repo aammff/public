@@ -8,3 +8,4 @@
 |poland.pl|ISO 4217 PLN|
 |https://fara.sanok.pl/||
 |who.int||
+|bis.org||
