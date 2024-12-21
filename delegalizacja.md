@@ -9,3 +9,5 @@
 |https://fara.sanok.pl/||
 |who.int||
 |bis.org||
+|mcdonalds.com||
+|mcdonalds.pl||
