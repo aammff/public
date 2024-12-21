@@ -11,3 +11,5 @@
 |bis.org||
 |mcdonalds.com||
 |mcdonalds.pl||
+|un.org||
+|un.int||
