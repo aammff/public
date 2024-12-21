@@ -7,3 +7,4 @@
 |polska.pl|ISO 4217 PLN|
 |poland.pl|ISO 4217 PLN|
 |https://fara.sanok.pl/||
+|who.int||
