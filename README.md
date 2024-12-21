@@ -40,3 +40,5 @@ zabraniam pobierania/klonowania/kopiowania/naruszania/badania/modyfikacji ciała
 wszystko co tu zostało napisane powinno być / jest oczywista /s/oczywista/oczywiste/ dla osób kumatych, ale zostało napisane aby m.in. też / ew. jakoś pomóc innym.  więc jakby i tak nie trzeba tego pisać, na jedno wychodzi.
 
 uwaga: obiektem są własne zęby, najpierw pierwsze potem drugie, nie ma żadnych innych obiektów; nieuszkodzony komplet drugich zębów jest warunkiem koniecznym i niewystarczającym do bycia osobą pełnosprawną; zęby są częścią mózgu / zęby to część mózgu / zęby to mózg / zęby są mózgiem
+
+za ewentualne błędy lub nieścisłości na tej stronie odpowiedzialne są osoby które mnie zgwałciły, okradły, pobiły, okłamały, oszukały, itd, itp.
