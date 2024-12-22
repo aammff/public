@@ -44,3 +44,5 @@ uwaga: obiektem są własne zęby, najpierw pierwsze potem drugie, nie ma żadny
 za ewentualne błędy lub nieścisłości na tej stronie odpowiedzialne są osoby które mnie zgwałciły, okradły, pobiły, okłamały, oszukały, itd, itp. (autor dołożył starań żeby takich błędów lub nieścisłości nie było m.in. temu służą niepoprawiane literówki, jak ktoś się zna to wie czym są takie literówki)
 
 tu sobie mo z można poczytać o podobnych motywach https://en.wikipedia.org/wiki/Zersetzung
+
+informacja dla idiotów - money is software - pieniądze to są programy komputerowe, jak nie potrafisz programować, to nie wiesz co to są pieniądze
