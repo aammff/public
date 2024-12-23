@@ -6,6 +6,7 @@ https://pl.wikipedia.org/wiki/Wiedza_o_spo%C5%82ecze%C5%84stwie (https://interso
 
 
 https://store.steampowered.com/ (spam)
+https://wydawnictwowam.pl/ (spam)
 
 lista zdrajców i sprzedawczyków:
 https://orka.sejm.gov.pl/SQL.nsf/InfoForPPIDec?OpenAgent&24811&niez.&Za
