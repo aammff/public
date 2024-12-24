@@ -611,6 +611,7 @@ https://en.wikipedia.org/wiki/Magic_Eye
 https://pl.wiktionary.org/wiki/syfon
 https://en.wiktionary.org/wiki/siphon
 https://pl.wiktionary.org/wiki/budowa
+https://pl.wiktionary.org/wiki/zakaz
 https://pl.wikipedia.org/wiki/Stomia
 https://en.wikipedia.org/wiki/Stoma_(medicine)
 https://en.wiktionary.org/wiki/stoma
