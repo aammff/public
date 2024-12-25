@@ -46,3 +46,6 @@ za ewentualne błędy lub nieścisłości na tej stronie odpowiedzialne są osob
 tu sobie mo z można poczytać o podobnych motywach https://en.wikipedia.org/wiki/Zersetzung
 
 informacja dla idiotów - money is software - pieniądze to są programy komputerowe, jak nie potrafisz programować, to nie wiesz co to są pieniądze
+
+
+https://github.com/aammff/tmp  companion repository
