@@ -13,6 +13,8 @@ https://www.instagram.com/diaverumpolska/
 https://www.diaverum.pl/
 
 
+https://cloudt.edupage.org/cloud?z%3AYleWuKBMIYaqbKoAWaHQe3f18JuUTMuiS0yAVlOG5ewvZ%2BEhh3yUo3fZP03yTx3v3y49IV1cbrFB67QX3hudVWy%2FS6PG6rQdnij3av0r2qdD7E4UvBn18vdHtSrHmmvp
+
 https://store.steampowered.com/ (spam)
 https://wydawnictwowam.pl/ (spam)
 
