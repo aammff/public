@@ -17,6 +17,8 @@ https://cloudt.edupage.org/cloud?z%3AYleWuKBMIYaqbKoAWaHQe3f18JuUTMuiS0yAVlOG5ew
 
 https://fppl.pl/wp-content/uploads/tn_mesocolumn_header_logo.jpg
 
+https://www.youtube.com/watch?v=GGG85uY-Tk0
+
 https://store.steampowered.com/ (spam)
 https://wydawnictwowam.pl/ (spam)
 
