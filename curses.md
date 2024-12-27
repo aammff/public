@@ -21,6 +21,9 @@ https://en.wikipedia.org/wiki/Mesolimbic_pathway
 
 https://www.youtube.com/watch?v=GGG85uY-Tk0
 
+
+https://en.wikipedia.org/wiki/Swedish_krona
+
 https://store.steampowered.com/ (spam)
 https://wydawnictwowam.pl/ (spam)
 
