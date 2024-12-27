@@ -12,7 +12,7 @@ https://www.youtube.com/@DiaverumPolska
 https://www.instagram.com/diaverumpolska/
 https://www.diaverum.pl/
 
-https://en.wikipedia.org/wiki/Semantics https://pl.wikipedia.org/wiki/Funkcje_semiotyczne (gówno artykuły)
+https://en.wikipedia.org/wiki/Semantics https://pl.wikipedia.org/wiki/Funkcje_semiotyczne (gówno artykuły w sensie ewidentnie źle czy niekompletnie podlinkowane pod różne języki)
 
 https://en.wikipedia.org/wiki/Pascal_(programming_language) https://pl.wikipedia.org/wiki/Pascal_(j%C4%99zyk_programowania) (gówno język)
 
