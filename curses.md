@@ -15,6 +15,9 @@ https://www.diaverum.pl/
 https://en.wikipedia.org/wiki/Semantics
 https://pl.wikipedia.org/wiki/Funkcje_semiotyczne
 
+https://en.wikipedia.org/wiki/Pascal_(programming_language)
+https://pl.wikipedia.org/wiki/Pascal_(j%C4%99zyk_programowania)
+
 https://cloudt.edupage.org/cloud?z%3AYleWuKBMIYaqbKoAWaHQe3f18JuUTMuiS0yAVlOG5ewvZ%2BEhh3yUo3fZP03yTx3v3y49IV1cbrFB67QX3hudVWy%2FS6PG6rQdnij3av0r2qdD7E4UvBn18vdHtSrHmmvp
 
 https://fppl.pl/wp-content/uploads/tn_mesocolumn_header_logo.jpg
