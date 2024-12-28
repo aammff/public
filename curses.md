@@ -5,6 +5,12 @@ https://en.wikipedia.org/wiki/Self-hosting_(compilers) (NEVER DISTRIBUTE SELF-HO
 https://pl.wikipedia.org/wiki/Wiedza_o_spo%C5%82ecze%C5%84stwie (https://intersol.ca/news/organizational-culture-and-the-5-monkeys-experiment/)
 
 
+
+
+https://pl.wiktionary.org/wiki/kad%C5%BA
+https://pl.wiktionary.org/wiki/kadzi%C4%87
+
+
 https://www.facebook.com/people/Diaverum-Polska/100057502395862/
 https://www.linkedin.com/company/diaverum-polska/
 https://twitter.com/diaverump
