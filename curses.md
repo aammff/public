@@ -4,9 +4,10 @@ https://en.wikipedia.org/wiki/Self-hosting_(compilers) (NEVER DISTRIBUTE SELF-HO
 *.pl (https://www.rp.pl/polityka/art41507391-jak-rosja-ograla-rzad-pis-w-programie-dla-informatykow)
 https://pl.wikipedia.org/wiki/Wiedza_o_spo%C5%82ecze%C5%84stwie (https://intersol.ca/news/organizational-culture-and-the-5-monkeys-experiment/)
 
-https://en.wikipedia.org/wiki/Scala_(programming_language) (https://www.bootstrappable.org/projects/jvm-languages.html niestety programowałem w scali, nie wiedziałem o tym problemie :-( )
 
-https://en.wikipedia.org/wiki/Kotlin_(programming_language) (https://www.bootstrappable.org/projects/jvm-languages.html)
+https://en.wikipedia.org/wiki/Information_hazard
+    https://en.wikipedia.org/wiki/Scala_(programming_language) (https://www.bootstrappable.org/projects/jvm-languages.html niestety programowałem w scali, nie wiedziałem o tym problemie :-( )
+    https://en.wikipedia.org/wiki/Kotlin_(programming_language) (https://www.bootstrappable.org/projects/jvm-languages.html "On 7 May 2019, Google announced that the Kotlin programming language had become its preferred language for Android app developers."  przypadek? nie sądze. oszuści z googla chuj im w dupę)
 
 https://fide.com/ (https://www.timesnownews.com/sports/magnus-carlsen-disqualified-from-world-rapid-and-blitz-championship-for-wearing-jeans-article-116727852)
 
