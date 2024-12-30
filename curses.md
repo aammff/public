@@ -18,6 +18,9 @@ kojarzy sie tez z kotlinem taki bal maskowy ktory sie zaczal w 2019 ale nie wiem
 w sensie zostały/przetrwały/są dostępne binarki kotlina które potrafią skompilować kod w kotlinie do innej binarki no i jakie mogą być konsekwencje czegoś takiego. brzmi trochę jak timewave zero,
 banda ludźi zhexagramowana na jakichś wielkich zbiorach liczb, chiński pokój czy coś, jakaś przypadkowa jakbyblackboxowa cyborgizacja; być może jest to podobne do algorytmu wyznaczania lat przestępnych
 
+odtwarzałem w dużym banku utracony kod źródłowy do generowania sum kontrolnych plików, coś podobnego tyle że w drugą stronę; tzn odgadłem algorytm i napisałem zamiennik.
+wniosek - stay away from non foss banking/money
+
 https://en.wikipedia.org/wiki/Google_Cardboard wkład gógla w państwowość z dykty i kartonu "If you experience nausea, discomfort, eye strain, or disorientation, immediately discontinue using Cardboard."
 
 https://en.wikipedia.org/wiki/Don%27t_be_evil Between 21 April and 4 May 2018, Google removed the motto from the preface, leaving a mention in the final line: "And remember... don't be evil, and if you see something that you think isn't right – speak up!"[9][16]  - okeeeej spierdoliliście języki świata translate.google.com  promujecie gównojęzyk kotlin  być może wywołaliście wojnę 
