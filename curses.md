@@ -6,6 +6,7 @@ https://pl.wikipedia.org/wiki/Wiedza_o_spo%C5%82ecze%C5%84stwie (https://interso
 
 https://en.wikipedia.org/wiki/Scala_(programming_language) (https://www.bootstrappable.org/projects/jvm-languages.html niestety programowałem w scali, nie wiedziałem o tym problemie :-( )
 
+https://en.wikipedia.org/wiki/Kotlin_(programming_language) (https://www.bootstrappable.org/projects/jvm-languages.html)
 
 https://fide.com/ (https://www.timesnownews.com/sports/magnus-carlsen-disqualified-from-world-rapid-and-blitz-championship-for-wearing-jeans-article-116727852)
 
