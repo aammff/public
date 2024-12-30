@@ -19,7 +19,8 @@ w sensie zostały/przetrwały/są dostępne binarki kotlina które potrafią sko
 banda ludźi zhexagramowana na jakichś wielkich zbiorach liczb, chiński pokój czy coś, jakaś przypadkowa jakbyblackboxowa cyborgizacja; być może jest to podobne do algorytmu wyznaczania lat przestępnych
 
 odtwarzałem w dużym banku utracony kod źródłowy do generowania sum kontrolnych plików, coś podobnego tyle że w drugą stronę; tzn odgadłem algorytm i napisałem zamiennik.
-wniosek - stay away from non foss banking/money
+wniosek - stay away from non foss banking/money ; tzn ten bank jest z kategorii too big to fail wiec i tak wszystko od niego zalezy wiec niejako wszystko zalezy ode mnie tez.
+tak jestescie glupkami a sanoczanie to totalne pedofilsko pijackie zjeby atakujecie ludzi od ktorych zalezy wasze zycie
 
 https://en.wikipedia.org/wiki/Google_Cardboard wkład gógla w państwowość z dykty i kartonu "If you experience nausea, discomfort, eye strain, or disorientation, immediately discontinue using Cardboard."
 
