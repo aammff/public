@@ -7,7 +7,12 @@ https://pl.wikipedia.org/wiki/Wiedza_o_spo%C5%82ecze%C5%84stwie (https://interso
 
 https://en.wikipedia.org/wiki/Information_hazard
     https://en.wikipedia.org/wiki/Scala_(programming_language) (https://www.bootstrappable.org/projects/jvm-languages.html niestety programowałem w scali, nie wiedziałem o tym problemie :-( )
-    https://en.wikipedia.org/wiki/Kotlin_(programming_language) (https://www.bootstrappable.org/projects/jvm-languages.html "On 7 May 2019, Google announced that the Kotlin programming language had become its preferred language for Android app developers."  przypadek? nie sądze. oszuści z googla chuj im w dupę)
+    https://en.wikipedia.org/wiki/Kotlin_(programming_language) (https://www.bootstrappable.org/projects/jvm-languages.html "On 7 May 2019, Google announced that the Kotlin programming language had become its preferred language for Android app developers."  przypadek? nie sądze. oszuści z googla chuj im w dupę; kotlin, najpopularniejszy język programowania dla android, najpopularniejszego systemu
+    dla smartfonów/komórek jest niewiadomoczym jakimś binarnym blobem efektywnie; oficjalnie zaprojketowany przez kolesia z USSR/rosji - czy to możliwe że rosjanom od tego odpierdoliło? 
+    
+    Name The name is derived from Kotlin Island, a Russian island in the Gulf of Finland, near Saint Petersburg. Andrey Breslav, Kotlin's former lead designer, mentioned that the team decided to name it after an island, just like the programming language Java was named after the Indonesian island of Java[10] (though the language's name is said to have been inspired by the Java variety of coffee,[11] which itself is derived from the island name).[12] 
+
+    w indonezji jakby ktoś nie wiedział jest oficjalnie najwięcej na świecie schizofreników, ciekawe czy to od firmy sun i javy ;-)))
 
 https://fide.com/ (https://www.timesnownews.com/sports/magnus-carlsen-disqualified-from-world-rapid-and-blitz-championship-for-wearing-jeans-article-116727852)
 
