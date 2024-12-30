@@ -14,6 +14,10 @@ https://en.wikipedia.org/wiki/Information_hazard
 
     w indonezji jakby ktoś nie wiedział jest oficjalnie najwięcej na świecie schizofreników, ciekawe czy to od firmy sun i javy ;-)))
 
+kojarzy sie tez z kotlinem taki bal maskowy ktory sie zaczal w 2019 ale nie wiem jak jedno z drugiego wynika, ale takie luźne skojarzenie. tzn można przypuszczać że może być tak, że są tylko,
+w sensie zostały/przetrwały/są dostępne binarki kotlina które potrafią skompilować kod w kotlinie do innej binarki no i jakie mogą być konsekwencje czegoś takiego. brzmi trochę jak timewave zero,
+banda ludźi zhexagramowana na jakichś wielkich zbiorach liczb, chiński pokój czy coś, jakaś przypadkowa jakbyblackboxowa cyborgizacja; być może jest to podobne do algorytmu wyznaczania lat przestępnych
+
 https://en.wikipedia.org/wiki/Google_Cardboard wkład gógla w państwowość z dykty i kartonu "If you experience nausea, discomfort, eye strain, or disorientation, immediately discontinue using Cardboard."
 
 https://en.wikipedia.org/wiki/Don%27t_be_evil Between 21 April and 4 May 2018, Google removed the motto from the preface, leaving a mention in the final line: "And remember... don't be evil, and if you see something that you think isn't right – speak up!"[9][16]  - okeeeej spierdoliliście języki świata translate.google.com  promujecie gównojęzyk kotlin  być może wywołaliście wojnę 
