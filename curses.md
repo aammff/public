@@ -4,6 +4,9 @@ https://en.wikipedia.org/wiki/Self-hosting_(compilers) (NEVER DISTRIBUTE SELF-HO
 *.pl (https://www.rp.pl/polityka/art41507391-jak-rosja-ograla-rzad-pis-w-programie-dla-informatykow)
 https://pl.wikipedia.org/wiki/Wiedza_o_spo%C5%82ecze%C5%84stwie (https://intersol.ca/news/organizational-culture-and-the-5-monkeys-experiment/)
 
+https://en.wikipedia.org/wiki/Scala_(programming_language) (https://www.bootstrappable.org/projects/jvm-languages.html niestety programowałem w scali, nie wiedziałem o tym problemie :-( )
+
+
 https://fide.com/ (https://www.timesnownews.com/sports/magnus-carlsen-disqualified-from-world-rapid-and-blitz-championship-for-wearing-jeans-article-116727852)
 
 
