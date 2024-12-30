@@ -14,7 +14,7 @@ https://en.wikipedia.org/wiki/Information_hazard
 
     w indonezji jakby ktoś nie wiedział jest oficjalnie najwięcej na świecie schizofreników, ciekawe czy to od firmy sun i javy ;-)))
 
-https://en.wikipedia.org/wiki/Google_Cardboard wkład w google w państwowość z dykty i kartonu
+https://en.wikipedia.org/wiki/Google_Cardboard wkład gógla w państwowość z dykty i kartonu
 
 https://fide.com/ (https://www.timesnownews.com/sports/magnus-carlsen-disqualified-from-world-rapid-and-blitz-championship-for-wearing-jeans-article-116727852)
 
