@@ -22,6 +22,11 @@ odtwarzałem w dużym banku utracony kod źródłowy do generowania sum kontroln
 wniosek - stay away from non foss banking/money ; tzn ten bank jest z kategorii too big to fail wiec i tak wszystko od niego zalezy wiec niejako wszystko zalezy ode mnie tez.
 tak jestescie glupkami a sanoczanie to totalne pedofilsko pijackie zjeby atakujecie ludzi od ktorych zalezy wasze zycie; imie i nazwisko pedofila-zlodzieja-gwalciciela-mordercy stanislaw fuksa i jego zjebany brat janusz-fuksa prosze bardzo.
 
+korzystając z okazji jeszcze raz przeklinam tych skurwieli permanetnie, nawet moje / mój komputer / komputery mi ukradł/rozkradł, klawiaturę łamaną szlag trafił, monitory i inne takie - zero szacunku i godności dla czegokolwiek co ma jakąkolwiek waretość dla człowieka, matkę mi zabił, kota wykastrował, rzeczy ukradł. przeklnam polaczków sanoczków którzy gówno robili w tej sprawie, przeklinam polskę
+przeklinam ministerstwo zdrowia, ministerstwo sprawiedliwosci, ministerstwo nauki czy tam gównooświaty. niech was sraka dopadnie powieście się. przeklnam zasrancyh policjantów z budynku po drugiej
+stronie sanu, przeklnam prokuraturę, przeklinam ombudsmana, przeklinam komisję pedofilską. chuj wam wszystkim w dupę nie obudźcie się już nigdy niech wasz szlag trafi i niech was zanihiluje wszystko.
+
+
 https://en.wikipedia.org/wiki/Google_Cardboard wkład gógla w państwowość z dykty i kartonu "If you experience nausea, discomfort, eye strain, or disorientation, immediately discontinue using Cardboard."
 
 https://en.wikipedia.org/wiki/Don%27t_be_evil Between 21 April and 4 May 2018, Google removed the motto from the preface, leaving a mention in the final line: "And remember... don't be evil, and if you see something that you think isn't right – speak up!"[9][16]  - okeeeej spierdoliliście języki świata translate.google.com  promujecie gównojęzyk kotlin  być może wywołaliście wojnę 
