@@ -18,6 +18,13 @@ https://en.wikipedia.org/wiki/Google_Cardboard wkład gógla w państwowość z 
 
 https://en.wikipedia.org/wiki/Don%27t_be_evil Between 21 April and 4 May 2018, Google removed the motto from the preface, leaving a mention in the final line: "And remember... don't be evil, and if you see something that you think isn't right – speak up!"[9][16]  - okeeeej spierdoliliście języki świata translate.google.com  promujecie gównojęzyk kotlin  być może wywołaliście wojnę 
 
+których języków programowania nie używać:
+ - tych które nie są foss
+ - tych które nie są bootstrappowalne
+ - tych która są odśmiecarkowe
+ - tych które są self-hosted
+
+
 https://fide.com/ (https://www.timesnownews.com/sports/magnus-carlsen-disqualified-from-world-rapid-and-blitz-championship-for-wearing-jeans-article-116727852)
 
 
