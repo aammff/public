@@ -20,7 +20,7 @@ banda ludźi zhexagramowana na jakichś wielkich zbiorach liczb, chiński pokój
 
 odtwarzałem w dużym banku utracony kod źródłowy do generowania sum kontrolnych plików, coś podobnego tyle że w drugą stronę; tzn odgadłem algorytm i napisałem zamiennik.
 wniosek - stay away from non foss banking/money ; tzn ten bank jest z kategorii too big to fail wiec i tak wszystko od niego zalezy wiec niejako wszystko zalezy ode mnie tez.
-tak jestescie glupkami a sanoczanie to totalne pedofilsko pijackie zjeby atakujecie ludzi od ktorych zalezy wasze zycie
+tak jestescie glupkami a sanoczanie to totalne pedofilsko pijackie zjeby atakujecie ludzi od ktorych zalezy wasze zycie; imie i nazwisko pedofila-zlodzieja-gwalciciela-mordercy stanislaw fuksa i jego zjebany brat janusz-fuksa prosze bardzo.
 
 https://en.wikipedia.org/wiki/Google_Cardboard wkład gógla w państwowość z dykty i kartonu "If you experience nausea, discomfort, eye strain, or disorientation, immediately discontinue using Cardboard."
 
