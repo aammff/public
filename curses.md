@@ -5,6 +5,10 @@ https://en.wikipedia.org/wiki/Self-hosting_(compilers) (NEVER DISTRIBUTE SELF-HO
 https://pl.wikipedia.org/wiki/Wiedza_o_spo%C5%82ecze%C5%84stwie (https://intersol.ca/news/organizational-culture-and-the-5-monkeys-experiment/)
 
 
+https://vrsketch.eu/ program był na mnie testowany przez kutafona psychotechnika macieja fijałkowskiego którego przeklinam
+https://baroquesoftware.com/ jego gówno firma
+
+
 https://en.wikipedia.org/wiki/Information_hazard
     https://en.wikipedia.org/wiki/Scala_(programming_language) (https://www.bootstrappable.org/projects/jvm-languages.html niestety programowałem w scali, nie wiedziałem o tym problemie :-( )
     https://en.wikipedia.org/wiki/Kotlin_(programming_language) (https://www.bootstrappable.org/projects/jvm-languages.html "On 7 May 2019, Google announced that the Kotlin programming language had become its preferred language for Android app developers."  przypadek? nie sądze. oszuści z googla chuj im w dupę; kotlin, najpopularniejszy język programowania dla android, najpopularniejszego systemu
