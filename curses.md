@@ -5,8 +5,13 @@ https://en.wikipedia.org/wiki/Self-hosting_(compilers) (NEVER DISTRIBUTE SELF-HO
 https://pl.wikipedia.org/wiki/Wiedza_o_spo%C5%82ecze%C5%84stwie (https://intersol.ca/news/organizational-culture-and-the-5-monkeys-experiment/)
 
 
-https://vrsketch.eu/ program był na mnie testowany przez kutafona psychotechnika macieja fijałkowskiego którego przeklinam
-https://baroquesoftware.com/ jego gówno firma
+https://vrsketch.eu/ program był na mnie testowany przez kutafona pychotechnika macieja fijałkowskiego którego przeklinam https://baroquesoftware.com/ gówno firma tego pojeba
+Maciej Fijałkowski (chuj z przelotką, kiedy "informatyk" robiący soft vr zaczyna interesować się psychologią, to wiedz, że coś się dzieje; wskazówki: nie używaj vr w moim towarzystwie, nie używaj przelotek vr w moim towarzystwie, nie wysyłaj mi zdjęć dziewczyn w wannie, kiedy mnie zapraszasz do pasterki, nie wyrzucaj mnie stamtąd po paru dniach, i nie opowiadaj, że uciąłeś sobie nasieniowody albo że twój stary kupił dom z kiblem otocznym scianą z luster, nie opowiadaj o "twojej dziewczynie", bez tekstów o srających pod domem jeleniach w moim towarzystwie, nie wykonuj w moim towarzystwie w moją stronę ruchów biodrami, nie mów w moim towarzystwie "why am i anal about it", jak zaprasz mnie na spacer, to unikaj wielokrotnego odlewania się na widoku; - w skórcie jeb się chuju; zdanie macieja o alkoholu: "piję, ale zupełnie na mnie nie działa")
+https://pypy.org/ projekt w którym srał pychotechnik
+Jan Fijałkowski (nie paraduj w koszulce z ostatnią wieczerzą na ślubie swojego syna)
+Wojciec Piekarek pedofil pedał pychotecnik
+Monika Soroka pycholożka
+Jan Kogut zainteresowany moimi zębami kutafon kradł klucze z chaty
 
 
 https://en.wikipedia.org/wiki/Information_hazard
@@ -444,12 +449,6 @@ https://en.wikipedia.org/wiki/Chris_Kempczinski
 https://en.wikipedia.org/wiki/Lossy_compression
 https://en.wikipedia.org/wiki/Google_Cardboard
 https://en.wikipedia.org/wiki/Numbers_station
-Maciej Fijałkowski (chuj z przelotką, kiedy "informatyk" robiący soft vr zaczyna interesować się psychologią, to wiedz, że coś się dzieje; wskazówki: nie używaj vr w moim towarzystwie, nie używaj przelotek vr w moim towarzystwie, nie wysyłaj mi zdjęć dziewczyn w wannie, kiedy mnie zapraszasz do pasterki, nie wyrzucaj mnie stamtąd po paru dniach, i nie opowiadaj, że uciąłeś sobie nasieniowody albo że twój stary kupił dom z kiblem otocznym scianą z luster, nie opowiadaj o "twojej dziewczynie", bez tekstów o srających pod domem jeleniach w moim towarzystwie, nie wykonuj w moim towarzystwie w moją stronę ruchów biodrami, nie mów w moim towarzystwie "why am i anal about it", jak zaprasz mnie na spacer, to unikaj wielokrotnego odlewania się na widoku; - w skórcie jeb się chuju; zdanie macieja o alkoholu: "piję, ale zupełnie na mnie nie działa")
-https://pypy.org/
-Jan Fijałkowski (nie paraduj w koszulce z ostatnią wieczerzą na ślubie swojego syna)
-Wojciec Piekarek
-Monika Soroka
-Jan Kogut
 https://www.hasco-lek.pl/
 https://pl.wikipedia.org/wiki/Wino
 https://pl.wikipedia.org/wiki/Piwo
