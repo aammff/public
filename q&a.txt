@@ -27,3 +27,6 @@ a: nie da sie naprawic
 
 q: dlaczego się wszystko tak pierdoli
 a: myślę że dlatego że nie ma ipv6 statycznych to tak jakby kiedyś nie było numerów telefonicznych a tylko telefony i tylko niektórzy mają numery a tak to jakieś dziwne kombinowanie i się przez to ludzie sklejają i jest straszny cyrk
+
+q: a dlaczego nie zrobią statycznych ipv6
+a: bo by kurwa władzę nad światem stracili a nie po to tak gwałcili wszystko i wszystkich żeby tak łatwo wszystko stracić
