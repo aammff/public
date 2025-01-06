@@ -24,3 +24,6 @@ a: no to raczej po herbacie, ja bym już w to nie wierzył.
 
 q: nie da sie naprawic
 a: nie da sie naprawic
+
+q: dlaczego się wszystko tak pierdoli
+a: myślę że dlatego że nie ma ipv6 statycznych to tak jakby kiedyś nie było numerów telefonicznych a tylko telefony i tylko niektórzy mają numery a tak to jakieś dziwne kombinowanie i się przez to ludzie sklejają i jest straszny cyrk
