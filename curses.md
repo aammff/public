@@ -13,7 +13,7 @@ Wojciec Piekarek pedofil pedał pychotecnik
 Monika Soroka pycholożka
 Jan Kogut zainteresowany moimi zębami kutafon kradł klucze z chaty
 
-
+edict.pl
 https://en.wikipedia.org/wiki/Information_hazard
     https://en.wikipedia.org/wiki/Scala_(programming_language) (https://www.bootstrappable.org/projects/jvm-languages.html niestety programowałem w scali, nie wiedziałem o tym problemie :-( )
     https://en.wikipedia.org/wiki/Kotlin_(programming_language) (https://www.bootstrappable.org/projects/jvm-languages.html "On 7 May 2019, Google announced that the Kotlin programming language had become its preferred language for Android app developers."  przypadek? nie sądze. oszuści z googla chuj im w dupę; kotlin, najpopularniejszy język programowania dla android, najpopularniejszego systemu
