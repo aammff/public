@@ -12,7 +12,7 @@ Jan Fijałkowski (nie paraduj w koszulce z ostatnią wieczerzą na ślubie swoje
 Wojciec Piekarek pedofil pedał pychotecnik
 Monika Soroka pycholożka
 Jan Kogut zainteresowany moimi zębami kutafon kradł klucze z chaty
-te ktesty teksty tutaj i link oznaczaja mniej wiecej tyle ze w zwiazku z nimi cos mi sie nie podoba to nie chodzi o to zeby tam nigdy nie wchodzic czy cos w tym stylu bo to moze odwrotny efekt przyniesc
+te ktesty teksty tutaj i linki oznaczaja mniej wiecej tyle ze w zwiazku z nimi cos mi sie nie podoba to nie chodzi o to zeby tam nigdy nie wchodzic czy cos w tym stylu bo to moze odwrotny efekt przyniesc
 edict.pl
 https://en.wikipedia.org/wiki/Information_hazard
     https://en.wikipedia.org/wiki/Scala_(programming_language) (https://www.bootstrappable.org/projects/jvm-languages.html niestety programowałem w scali, nie wiedziałem o tym problemie :-( )
