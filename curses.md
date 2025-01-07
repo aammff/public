@@ -74,7 +74,7 @@ https://en.wikipedia.org/wiki/Mesolimbic_pathway
 t
 https://www.youtube.com/watch?v=GGG85uY-Tk0
 
-
+https://pl.wiktionary.org/wiki/patelnia
 https://en.wikipedia.org/wiki/Swedish_krona
 
 https://store.steampowered.com/ (spam)
