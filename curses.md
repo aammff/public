@@ -71,6 +71,7 @@ https://fppl.pl/wp-content/uploads/tn_mesocolumn_header_logo.jpg
 
 https://en.wikipedia.org/wiki/Mesolimbic_pathway
 
+t
 https://www.youtube.com/watch?v=GGG85uY-Tk0
 
 
@@ -80,6 +81,7 @@ https://store.steampowered.com/ (spam)
 https://wydawnictwowam.pl/ (spam)
 
 lista zdrajców i sprzedawczyków:
+T
 https://orka.sejm.gov.pl/SQL.nsf/InfoForPPIDec?OpenAgent&24811&niez.&Za
 https://orka.sejm.gov.pl/SQL.nsf/InfoForPPIDec?OpenAgent&24811&RP&Za
 https://orka.sejm.gov.pl/SQL.nsf/InfoForPPIDec?OpenAgent&24811&ROP&Za
