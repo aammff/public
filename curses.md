@@ -48,11 +48,11 @@ których języków programowania nie używać:
 
 
 https://fide.com/ (https://www.timesnownews.com/sports/magnus-carlsen-disqualified-from-world-rapid-and-blitz-championship-for-wearing-jeans-article-116727852)
-
-
+ut
+utu
 https://pl.wiktionary.org/wiki/kad%C5%BA
 https://pl.wiktionary.org/wiki/kadzi%C4%87
-
+tu
 
 https://www.facebook.com/people/Diaverum-Polska/100057502395862/
 https://www.linkedin.com/company/diaverum-polska/
