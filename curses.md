@@ -5,6 +5,8 @@ https://en.wikipedia.org/wiki/Self-hosting_(compilers) (NEVER DISTRIBUTE SELF-HO
 https://pl.wikipedia.org/wiki/Wiedza_o_spo%C5%82ecze%C5%84stwie (https://intersol.ca/news/organizational-culture-and-the-5-monkeys-experiment/)
 
 
+https://www.alab.pl/ chuje reklamuja kaza mi sie badac chuje niech spierdalaja wypierdalac gownojady wypierdalac gownobadaczekalu spierdalajcie chuj wam w dupe chuj wam w oko chuj wam w nos chuj wam w ucho
+
 https://vrsketch.eu/ program był na mnie testowany przez kutafona pychotechnika macieja fijałkowskiego którego przeklinam https://baroquesoftware.com/ gówno firma tego pojeba
 Maciej Fijałkowski (chuj z przelotką, kiedy "informatyk" robiący soft vr zaczyna interesować się psychologią, to wiedz, że coś się dzieje; wskazówki: nie używaj vr w moim towarzystwie, nie używaj przelotek vr w moim towarzystwie, nie wysyłaj mi zdjęć dziewczyn w wannie, kiedy mnie zapraszasz do pasterki, nie wyrzucaj mnie stamtąd po paru dniach, i nie opowiadaj, że uciąłeś sobie nasieniowody albo że twój stary kupił dom z kiblem otocznym scianą z luster, nie opowiadaj o "twojej dziewczynie", bez tekstów o srających pod domem jeleniach w moim towarzystwie, nie wykonuj w moim towarzystwie w moją stronę ruchów biodrami, nie mów w moim towarzystwie "why am i anal about it", jak zaprasz mnie na spacer, to unikaj wielokrotnego odlewania się na widoku; nie kłam że lubisz słuchać muzyki psytrance - po tym jakim jesteś pojebem widać że wcale nie słuchałeś, poza tym to nie jest muzyka do słuchania tylko do tańczenia głupku; nie mów o kobietach chude świnie/lean hogs - w skórcie jeb się chuju; zdanie macieja o alkoholu: "piję, ale zupełnie na mnie nie działa")
 https://pypy.org/ projekt w którym srał pychotechnik
