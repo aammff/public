@@ -1024,3 +1024,7 @@ https://pl.m.wikipedia.org/wiki/Andrzej_Leder ("to jest super" - albo wie i ści
 ogólnie wpisy z tej listy sugerują oszustwa polegające na zaburzaniu naturalnego przebiegu procesów zapamiętywania i zapominania
 
 tak, alkohol powoduje progresywne uszkodzenia pamięci i procesów poznawczych, nawet wśród pseudo-wegetarian wpierdalających beznamiętnie jajka
+
+
+
+korobczenko
