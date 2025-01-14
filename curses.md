@@ -13,7 +13,11 @@ any practicing psychoanalyst is automatically cursed
 
 any vr shenanigans maker is automatically cursed
 
-any bad person is autmatically cursed
+any bad person is automatically cursed
+
+any marketer is automatically cursed
+
+any advertiser is automatically cursed
 
 any unlawful activity is automatically cursed
 
