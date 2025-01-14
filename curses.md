@@ -4,6 +4,9 @@ https://en.wikipedia.org/wiki/Self-hosting_(compilers) (NEVER DISTRIBUTE SELF-HO
 *.pl (https://www.rp.pl/polityka/art41507391-jak-rosja-ograla-rzad-pis-w-programie-dla-informatykow)
 https://pl.wikipedia.org/wiki/Wiedza_o_spo%C5%82ecze%C5%84stwie (https://intersol.ca/news/organizational-culture-and-the-5-monkeys-experiment/)
 
+uwaga wcześniej było takie gówno tylko na youtube teraz już jest na twitchu - renderowange llmowo video djanes / didżejki przykład https://www.twitch.tv/beatmotion w zasadzie wypada przekląć youtube/twitcha za wpuszczanie takiego gówna
+
+
 mojorbit.pl mojodbyt.pl
 https://www.alab.pl/ chuje reklamuja kaza mi sie badac chuje niech spierdalaja wypierdalac gownojady wypierdalac gownobadaczekalu spierdalajcie chuj wam w dupe chuj wam w oko chuj wam w nos chuj wam w ucho
 
