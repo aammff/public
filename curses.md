@@ -9,6 +9,14 @@ whoever posts deceiving llm fakes without prior warning is automatically cursed
 
 any unlawful camera user is automatically cursed
 
+any practicing psychoanalyst is automatically cursed
+
+any vr shenanigans maker is automatically cursed
+
+any bad person is autmatically cursed
+
+any unlawful activity is automatically cursed
+
 mojorbit.pl mojodbyt.pl
 https://www.alab.pl/ chuje reklamuja kaza mi sie badac chuje niech spierdalaja wypierdalac gownojady wypierdalac gownobadaczekalu spierdalajcie chuj wam w dupe chuj wam w oko chuj wam w nos chuj wam w ucho
 
