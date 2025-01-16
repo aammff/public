@@ -99,6 +99,12 @@ https://en.wikipedia.org/wiki/Swedish_krona
 https://store.steampowered.com/ (spam)
 https://wydawnictwowam.pl/ (spam)
 
+
+https://en.wikipedia.org/wiki/Implant_(medicine)
+
+https://en.wikipedia.org/wiki/Implantation_(embryology)
+
+
 lista zdrajców i sprzedawczyków:
 T
 https://orka.sejm.gov.pl/SQL.nsf/InfoForPPIDec?OpenAgent&24811&niez.&Za
