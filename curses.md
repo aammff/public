@@ -60,6 +60,8 @@ https://en.wikipedia.org/wiki/Testicle
 
 https://en.wikipedia.org/wiki/Dishwasher
 
+https://en.wikipedia.org/wiki/Refrigerator
+
 https://en.wikipedia.org/wiki/Alcohol_(drug)
 
 https://en.wikipedia.org/wiki/Washing_machine
