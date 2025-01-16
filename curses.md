@@ -21,6 +21,9 @@ any advertiser is automatically cursed
 
 any unlawful activity is automatically cursed
 
+
+https://www.amazon.pl/dp/B0CKYWWF6Z/ref=syn_sd_offsite_desktop_0?ie=UTF8&psc=1&aaxitk=BQ0qbNA8iYxCW2xFimiNJz&aref=wrywAU5tuA&tag=dradisplay-20
+
 mojorbit.pl mojodbyt.pl
 https://www.alab.pl/ chuje reklamuja kaza mi sie badac chuje niech spierdalaja wypierdalac gownojady wypierdalac gownobadaczekalu spierdalajcie chuj wam w dupe chuj wam w oko chuj wam w nos chuj wam w ucho
 
