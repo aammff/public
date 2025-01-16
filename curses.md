@@ -104,6 +104,11 @@ https://store.steampowered.com/ (spam)
 https://wydawnictwowam.pl/ (spam)
 
 
+https://en.wikipedia.org/wiki/Egg_cell
+
+
+https://en.wikipedia.org/wiki/Spermatozoon
+
 https://en.wikipedia.org/wiki/Implant_(medicine)
 
 https://en.wikipedia.org/wiki/Implantation_(embryology)
