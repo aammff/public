@@ -58,6 +58,8 @@ https://en.wikipedia.org/wiki/Anus
 
 https://en.wikipedia.org/wiki/Testicle
 
+https://en.wikipedia.org/wiki/Stove
+
 https://en.wikipedia.org/wiki/Dishwasher
 
 https://en.wikipedia.org/wiki/Refrigerator
