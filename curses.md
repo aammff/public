@@ -110,6 +110,8 @@ https://en.wikipedia.org/wiki/Implantation_(embryology)
 
 https://en.wikipedia.org/wiki/Uterus
 
+https://en.wikipedia.org/wiki/Blood_vessel
+
 
 lista zdrajców i sprzedawczyków:
 T
