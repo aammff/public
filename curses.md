@@ -21,6 +21,11 @@ any advertiser is automatically cursed
 
 any unlawful activity is automatically cursed
 
+
+any public camera operator filming without explicit permission of filmed persons is automatically cursed
+
+any private camera operator filming without explicit permission of filmed persons is automatically cursed
+
 https://en.wikipedia.org/wiki/Polish
 
 https://en.wikipedia.org/wiki/Screw
