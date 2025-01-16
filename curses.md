@@ -26,7 +26,7 @@ any public camera operator filming without explicit unforced permission of filme
 
 any private camera operator filming without explicit unforced permission of filmed persons is automatically cursed
 
-any camera operator infringing on animal privacy is automatically cursed
+any camera operator infringing on animals' privacy is automatically cursed
 
 https://en.wikipedia.org/wiki/Bus_factor
 
