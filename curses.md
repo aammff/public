@@ -34,6 +34,9 @@ https://en.wikipedia.org/wiki/Proprietary_software
 
 https://en.wikipedia.org/wiki/Proprietary_hardware
 
+https://web.archive.org/web/20140718085503/http://braintech.pl/Manifesto.html sie ma chuje bait and switch przeklinam was
+
+
 https://en.wikipedia.org/wiki/Bearing
 
 https://en.wikipedia.org/wiki/Laser
