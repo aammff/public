@@ -103,7 +103,6 @@ https://en.wikipedia.org/wiki/Swedish_krona
 https://store.steampowered.com/ (spam)
 https://wydawnictwowam.pl/ (spam)
 
-https://pl.wikipedia.org/wiki/Zakaz
 
 https://en.wikipedia.org/wiki/Interdict_(disambiguation)
 
