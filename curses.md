@@ -30,6 +30,8 @@ https://en.wikipedia.org/wiki/Bus_factor
 
 https://en.wikipedia.org/wiki/Proprietary_software
 
+https://en.wikipedia.org/wiki/Proprietary_hardware
+
 https://en.wikipedia.org/wiki/Bearing
 
 https://en.wikipedia.org/wiki/Laser
