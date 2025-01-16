@@ -40,7 +40,7 @@ https://www.klinikabudzik.pl/ oczywiście jedzie kurwa na sygnale przez sanok ja
 
 http://durka.info/
 
-https://www.fuw.edu.pl/~durka/
+https://www.fuw.edu.pl/~durka/    i jeszcze raz przejechała kurwa na sygnale po wejściu na stronę tego naukowca
 
 
 https://en.wikipedia.org/wiki/Bearing
