@@ -62,6 +62,8 @@ https://en.wikipedia.org/wiki/Dishwasher
 
 https://en.wikipedia.org/wiki/Alcohol_(drug)
 
+https://en.wikipedia.org/wiki/Washing_machine
+
 https://en.wikipedia.org/wiki/Polish
 
 https://en.wikipedia.org/wiki/Screw
