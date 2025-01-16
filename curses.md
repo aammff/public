@@ -27,6 +27,8 @@ any public camera operator filming without explicit permission of filmed persons
 any private camera operator filming without explicit permission of filmed persons is automatically cursed
 
 
+
+
 https://en.wikipedia.org/wiki/Anus
 
 https://en.wikipedia.org/wiki/Testicle
@@ -153,6 +155,7 @@ https://en.wikipedia.org/wiki/Uterus
 
 https://en.wikipedia.org/wiki/Blood_vessel
 
+https://en.wikipedia.org/wiki/Eye
 
 lista zdrajców i sprzedawczyków:
 T
