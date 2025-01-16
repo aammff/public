@@ -21,6 +21,11 @@ any advertiser is automatically cursed
 
 any unlawful activity is automatically cursed
 
+https://en.wikipedia.org/wiki/Polish
+
+https://en.wikipedia.org/wiki/Screw
+
+https://en.wikipedia.org/wiki/Nail
 
 
 https://en.wikipedia.org/wiki/Sibling
