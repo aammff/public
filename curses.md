@@ -26,6 +26,9 @@ any public camera operator filming without explicit permission of filmed persons
 
 any private camera operator filming without explicit permission of filmed persons is automatically cursed
 
+https://en.wikipedia.org/wiki/Laser
+
+
 https://en.wiktionary.org/wiki/worsening
 
 https://en.wiktionary.org/wiki/bad
