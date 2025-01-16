@@ -26,6 +26,7 @@ any public camera operator filming without explicit permission of filmed persons
 
 any private camera operator filming without explicit permission of filmed persons is automatically cursed
 
+https://en.wiktionary.org/wiki/bad
 
 https://pl.wiktionary.org/wiki/%C5%BAle
 
