@@ -28,6 +28,7 @@ any private camera operator filming without explicit unforced permission of film
 
 https://en.wikipedia.org/wiki/Bus_factor
 
+https://en.wikipedia.org/wiki/Proprietary_software
 
 https://en.wikipedia.org/wiki/Bearing
 
