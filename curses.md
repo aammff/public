@@ -26,10 +26,14 @@ any public camera operator filming without explicit unforced permission of filme
 
 any private camera operator filming without explicit unforced permission of filmed persons is automatically cursed
 
+
+
+
 https://en.wikipedia.org/wiki/Bearing
 
 https://en.wikipedia.org/wiki/Laser
 
+https://en.wikipedia.org/wiki/Placenta
 
 https://en.wiktionary.org/wiki/worsening
 
