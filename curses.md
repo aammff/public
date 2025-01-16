@@ -26,6 +26,9 @@ any public camera operator filming without explicit permission of filmed persons
 
 any private camera operator filming without explicit permission of filmed persons is automatically cursed
 
+
+https://en.wikipedia.org/wiki/Anus
+
 https://en.wikipedia.org/wiki/Testicle
 
 https://en.wikipedia.org/wiki/Alcohol_(drug)
