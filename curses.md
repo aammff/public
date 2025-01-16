@@ -104,6 +104,8 @@ https://en.wikipedia.org/wiki/Implant_(medicine)
 
 https://en.wikipedia.org/wiki/Implantation_(embryology)
 
+https://en.wikipedia.org/wiki/Uterus
+
 
 lista zdrajców i sprzedawczyków:
 T
