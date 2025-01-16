@@ -26,6 +26,8 @@ any public camera operator filming without explicit permission of filmed persons
 
 any private camera operator filming without explicit permission of filmed persons is automatically cursed
 
+https://en.wikipedia.org/wiki/Brain
+
 https://en.wikipedia.org/wiki/Ear
 
 https://en.wikipedia.org/wiki/Nostril
