@@ -28,7 +28,7 @@ any private camera operator filming without explicit permission of filmed person
 
 https://en.wikipedia.org/wiki/Ear
 
-
+https://en.wikipedia.org/wiki/Nostril
 
 https://en.wikipedia.org/wiki/Anus
 
