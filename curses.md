@@ -29,6 +29,7 @@ any private camera operator filming without explicit permission of filmed person
 
 https://pl.wiktionary.org/wiki/%C5%BAle
 
+https://pl.wiktionary.org/wiki/pogorszenie
 
 https://en.wikipedia.org/wiki/Brain
 
