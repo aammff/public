@@ -36,6 +36,8 @@ https://en.wikipedia.org/wiki/Proprietary_hardware
 
 https://web.archive.org/web/20140718085503/http://braintech.pl/Manifesto.html sie ma chuje bait and switch przeklinam was
 
+https://www.klinikabudzik.pl/ oczywiście jedzie kurwa na sygnale przez sanok jak tylko weszłem wszedłem na stronę
+
 http://durka.info/
 
 https://www.fuw.edu.pl/~durka/
