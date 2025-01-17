@@ -588,8 +588,8 @@ https://en.wikipedia.org/wiki/Mark_Zuckerberg
 https://en.wikipedia.org/wiki/Arthur_Levinson
 https://en.wikipedia.org/wiki/Tim_Cook
 https://en.wikipedia.org/wiki/Jeff_Williams_(Apple)
-https://en.wikipedia.org/wiki/Luca_Maestri
-https://en.wikipedia.org/wiki/Daniel_J._Clancy
+https://en.wikipedia.org/wiki/Luca_Maestri       look below this line is displayd normally however nextline is displayed differently for starting for the clancy surname in the link below
+https://en.wikipedia.org/wiki/Daniel_J._Clancy   somehow letters are displayed in italics for this and following lines despite seemingly raw text format
 https://en.wikipedia.org/wiki/Steve_Boom
 https://en.wikipedia.org/wiki/Enrique_Hernandez_Jr.
 https://en.wikipedia.org/wiki/Chris_Kempczinski
