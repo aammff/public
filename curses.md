@@ -38,6 +38,8 @@ https://en.wiktionary.org/wiki/keyhole
 
 https://en.wiktionary.org/wiki/damn_it
 
+https://en.wiktionary.org/wiki/duck
+
 https://web.archive.org/web/20140718085503/http://braintech.pl/Manifesto.html sie ma chuje bait and switch przeklinam was
 
 https://www.klinikabudzik.pl/ oczywiście jedzie kurwa na sygnale przez sanok jak tylko weszłem wszedłem na stronę
