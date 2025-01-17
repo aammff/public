@@ -42,6 +42,7 @@ http://durka.info/
 
 https://www.fuw.edu.pl/~durka/    i jeszcze raz przejechała kurwa na sygnale po wejściu na stronę tego naukowca
 
+https://pl.wiktionary.org/wiki/bzdura
 
 https://en.wikipedia.org/wiki/Bearing
 
