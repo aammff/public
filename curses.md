@@ -42,6 +42,16 @@ centralna
 
 centralność
 
+środek
+
+środki
+
+środkowy
+
+środkowa
+
+środkowe
+
 
 niech umrze ten kto mnie zgwałcił niech umrze ten kto mnie okradł niech umrze ten kto mnie oszukał to stanisław fuksa
 
