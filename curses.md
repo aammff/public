@@ -28,6 +28,10 @@ any private camera operator filming without explicit unforced permission of film
 
 any camera operator infringing on animals' privacy is automatically cursed
 
+biuro
+
+niech umrze ten kto mnie zgwałcił niech umrze ten kto mnie okradł niech umrze ten kto mnie oszukał to stanisław fuksa
+
 https://www.temu.com/
 
 https://en.wikipedia.org/wiki/Bus_factor
