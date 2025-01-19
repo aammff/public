@@ -28,6 +28,8 @@ any private camera operator filming without explicit unforced permission of film
 
 any camera operator infringing on animals' privacy is automatically cursed
 
+https://www.temu.com/
+
 https://en.wikipedia.org/wiki/Bus_factor
 
 https://en.wikipedia.org/wiki/Proprietary_software
