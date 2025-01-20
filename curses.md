@@ -28,6 +28,8 @@ any private camera operator filming without explicit unforced permission of film
 
 any camera operator infringing on animals' privacy is automatically cursed
 
+any car driver using sound signals is automatically cursed
+
 biuro
 
 center
