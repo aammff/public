@@ -59,7 +59,7 @@ odlewnicza 14? kraków
 
 zamenhofa 9 sanok https://www.openstreetmap.org/way/398150547
 
-sadowa 14 sanok
+sadowa 14m4 sanok
 
 niech umrze ten kto mnie zgwałcił niech umrze ten kto mnie okradł niech umrze ten kto mnie oszukał to stanisław fuksa
 
