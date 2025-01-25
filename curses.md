@@ -55,7 +55,7 @@ centralność
 środkowe
 
 
-odlewnicza 14? kraków
+odlewnicza 14C? kraków
 
 zamenhofa 9 sanok https://www.openstreetmap.org/way/398150547
 
