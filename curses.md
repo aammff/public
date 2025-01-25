@@ -57,7 +57,7 @@ centralność
 
 odlewnicza 14C? kraków
 
-zamenhofa 9 sanok https://www.openstreetmap.org/way/398150547
+zamenhofa 9 sanok https://www.openstreetmap.org/way/398150547    https://pl.wikipedia.org/wiki/Drakula_(film_1992)
 
 sadowa 14m4 sanok
 
