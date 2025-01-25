@@ -57,6 +57,8 @@ centralność
 
 odlewnicza 14? kraków
 
+zamenhofa 9 sanok
+
 niech umrze ten kto mnie zgwałcił niech umrze ten kto mnie okradł niech umrze ten kto mnie oszukał to stanisław fuksa
 
 https://www.temu.com/
