@@ -57,7 +57,7 @@ centralność
 
 odlewnicza 14? kraków
 
-zamenhofa 9 sanok
+zamenhofa 9 sanok https://www.openstreetmap.org/way/398150547
 
 niech umrze ten kto mnie zgwałcił niech umrze ten kto mnie okradł niech umrze ten kto mnie oszukał to stanisław fuksa
 
