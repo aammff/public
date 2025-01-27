@@ -5,3 +5,4 @@ https://github.com/lamyiowce/word2vec-explore tego typu ustrojstwa mogą być u�
 https://en.wikipedia.org/wiki/Sequent_calculus
 https://pl.wiktionary.org/wiki/wi%C4%99%C5%BAniarka
 https://pl.wiktionary.org/wiki/wi%C4%99%C5%BAniarka_polityczna
+https://en.wikipedia.org/wiki/Optic_radiation
