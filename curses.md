@@ -65,6 +65,8 @@ niech umrze ten kto mnie zgwałcił niech umrze ten kto mnie okradł niech umrze
 
 https://www.temu.com/
 
+https://pl.wikipedia.org/wiki/Pa%C5%84stwowe_Ratownictwo_Medyczne
+
 https://en.wikipedia.org/wiki/Bus_factor
 
 https://en.wikipedia.org/wiki/Proprietary_software
