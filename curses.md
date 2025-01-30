@@ -54,7 +54,7 @@ centralność
 
 środkowe
 
-
+https://www.barustasi.sanok.pl/
 
 https://www.reddit.com/r/okkolegauposledzony/ dodaje tutaj bo zawsze myślę że to om o mnie
 
