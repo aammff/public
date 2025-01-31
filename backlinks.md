@@ -6,3 +6,4 @@ https://en.wikipedia.org/wiki/Sequent_calculus
 https://pl.wiktionary.org/wiki/wi%C4%99%C5%BAniarka
 https://pl.wiktionary.org/wiki/wi%C4%99%C5%BAniarka_polityczna
 https://en.wikipedia.org/wiki/Optic_radiation
+https://pl.wikibooks.org/wiki/Japo%C5%84ski/Klasyfikatory
