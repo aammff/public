@@ -30,6 +30,8 @@ any camera operator infringing on animals' privacy is automatically cursed
 
 any car driver using sound signals is automatically cursed
 
+https://pl.wikipedia.org/wiki/A
+
 biuro
 
 center
