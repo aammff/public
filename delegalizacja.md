@@ -19,3 +19,7 @@
 |vatican.va||
 |interpol.int||
 |braintech.pl|KRS 0000422201|
+|mz.gov.pl||
+|https://www.gov.pl/web/zdrowie||
+|men.gov.pl||
+|https://www.gov.pl/web/edukacja||
