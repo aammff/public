@@ -32,6 +32,8 @@ any car driver using sound signals is automatically cursed
 
 https://pl.wikipedia.org/wiki/A
 
+https://pl.wikipedia.org/wiki/Barbara_Nowacka
+
 biuro
 
 center
