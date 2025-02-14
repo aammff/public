@@ -35,6 +35,8 @@ https://pl.wikipedia.org/wiki/A
 https://pl.wikipedia.org/wiki/Barbara_Nowacka https://trojka.polskieradio.pl/artykul/1395846,barbara-nowacka--in-vitro-powinno-byc-dostepne-dla-samotnych-kobiet https://wiadomosci.dziennik.pl/polityka/artykuly/7837975,barbara-nowacka-odznaczona-francuski-order-narodowy-zaslugi-ratujmy-kobiety.html https://pl.wikipedia.org/wiki/Order_Narodowy_Zas%C5%82ugi
 
 https://pl.wikipedia.org/wiki/5-10-15
+https://pl.wikipedia.org/wiki/Teleranek
+https://pl.wikipedia.org/wiki/Domowe_przedszkole
 
 biuro
 
