@@ -52,3 +52,6 @@ informacja dla idiotów - money is software - pieniądze to są programy kompute
 
 https://github.com/aammff/tmp  companion repository
 https://github.com/aammff/tmp3  companion repository
+https://github.com/aammff/temp4  companion repository
+https://github.com/aammff/nowe-repo  companion repository
+https://github.com/aammff/t7  companion repository
