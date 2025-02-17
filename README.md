@@ -55,3 +55,4 @@ https://github.com/aammff/tmp3  companion repository
 https://github.com/aammff/temp4  companion repository
 https://github.com/aammff/nowe-repo  companion repository
 https://github.com/aammff/t7  companion repository
+https://github.com/aammff?tab=repositories repo list  most of the repos are abandoned works in progress that should probably be never shared however lots of very bad things have happened 
