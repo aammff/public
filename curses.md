@@ -46,6 +46,8 @@ https://pl.wikipedia.org/wiki/5-10-15
 https://pl.wikipedia.org/wiki/Teleranek
 https://pl.wikipedia.org/wiki/Domowe_przedszkole
 
+
+
 biuro
 
 center
@@ -69,6 +71,9 @@ centralność
 środkowa
 
 środkowe
+
+https://pl.m.wikipedia.org/wiki/Tom_Six
+https://en.wikipedia.org/wiki/Tom_Six
 
 maciej pawlisz
 
