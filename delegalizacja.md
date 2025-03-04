@@ -27,3 +27,4 @@
 |.sg|.sg|
 |cia.gov||
 |https://tvp.pl/||
+|https://szpital-brzozow.pl/|gwałty wykonywane ze szczególnym okrucieństwem|
