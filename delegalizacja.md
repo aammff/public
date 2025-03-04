@@ -7,7 +7,7 @@
 |wylazydachowe.com|REGON. 008432839|
 |polska.pl|ISO 4217 PLN|
 |poland.pl|ISO 4217 PLN|
-|https://fara.sanok.pl/||
+|https://fara.sanok.pl/|pedofile|
 |who.int||
 |bis.org||
 |mcdonalds.com||
