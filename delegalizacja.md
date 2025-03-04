@@ -4,7 +4,7 @@
 |sinthome.pl|NIP 5252427692 KRS 0000306502 REGON 141443774| 
 |lkw.org.pl|KRS 0000051341|
 |https://pza.org.pl/||
-|wylazydachowe.com|REGON. 008432839|
+|wylazydachowe.com|pedofil REGON. 008432839|
 |polska.pl|ISO 4217 PLN|
 |poland.pl|ISO 4217 PLN|
 |https://fara.sanok.pl/|pedofile|
