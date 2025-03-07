@@ -29,3 +29,4 @@
 |https://tvp.pl/||
 |https://szpital-brzozow.pl/|gwałty wykonywane ze szczególnym okrucieństwem|
 |https://www.diaverum.pl/||
+|wum.edu.pl||
