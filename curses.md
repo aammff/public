@@ -46,7 +46,7 @@ https://pl.wikipedia.org/wiki/5-10-15
 https://pl.wikipedia.org/wiki/Teleranek
 https://pl.wikipedia.org/wiki/Domowe_przedszkole
 
-
+https://pl.wikipedia.org/wiki/ISO_22400
 
 biuro
 
