@@ -48,6 +48,8 @@ https://pl.wikipedia.org/wiki/Domowe_przedszkole
 
 https://pl.wikipedia.org/wiki/ISO_22400
 
+https://en.wikipedia.org/wiki/Dental_drill
+
 biuro
 
 center
