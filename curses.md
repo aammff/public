@@ -1241,3 +1241,5 @@ tak, alkohol powoduje progresywne uszkodzenia pamięci i procesów poznawczych, 
 
 
 korobczenko
+
+RSA 66975
