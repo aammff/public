@@ -50,6 +50,8 @@ https://pl.wikipedia.org/wiki/ISO_22400
 
 https://en.wikipedia.org/wiki/Dental_drill
 
+https://www.generali.pl/ kyc
+
 biuro
 
 center
