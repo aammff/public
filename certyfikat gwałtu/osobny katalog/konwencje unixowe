@@ -1,0 +1,33 @@
+konwencje unixowe
+
+kiedys to byo bylo tak ze jakby byly runlevele w /etc/in oj slesz etc slesz inittab okreslone jakby
+
+mozna bylo jakby przejsc w tryb singleuser la albu mus multiuser i chyba sie telinitem to przelaczalo jak byla taka potrzeba
+
+ogolnie zalozenie bylo raczej takie ze unix sobie chodzi j i jakby nie ma co wylaczac bo i poc po co tzn tak to jakby w praktyce moze i bylo
+
+
+a teraz jakies nowsze rzeczy i oni tam sie cz z tego z co zapamietalem czy z czytania skupili na tym zeby sie mogly rownolegle przy starcie skrypty odpalac
+
+zeby tam bylo szybciej o ilestam kilkanascie sekund czy costam    
+
+no nie wiem czy to mam ma sens musialbym sie wczytywac ale dlaczego nie mozna bylo tego jako jakby support t do zrownoleglania napisac do tego co wd wczesniej nie wiem
+
+anyway jest wiecej programyow typu sysvinit i innet takie nie wiem ktory najlepszy muzsialbym dlugo czytac i sie zastanawiac
+
+
+
+ogolnie bylo tam ilestam aafer ty tego typu prze z przy m zianach zmianach roznych programow systemow z teg to nie pierwsza w afera tye tego typu ni i nie mam zdania
+
+nie jestem w temat temaciae ale skoro ludzei protestujja to chyba jakis powod moze byc  to jest bardzo dziwne ze ilestam lat ild idzie rozwoj dyst distro dystrybucji 
+
+normalnie a co jakis czas sie pojawiaja wlasnie takie tematy ze sa jakies wl wielkie zmiany i rozlamy i nawet przez to nowe dystrybucje powstaja
+
+moze to sa jakies wzgledy m pozamerytoroyczne po prostu nie wiem  pulseaudio mi sie przypomina lae nie wiem czy to dobry kontekst tesraz pipewire jest popularniejsze
+
+
+dawano dwano temu bylo oss i chyba zmiana na ale s ala alsa sie bez jakichs ceregieli klotni odbyla     z takich zmian ktore zauwazylem to gdzies cos sie z xmi xami pozmienialo
+
+i nie ma nigdzie opcji zeby ustawic wlaczyc wygaszacz ekranu jak to wyjasnic i czym nie mam zielonego pojei pojecia to jest jakas r tajemnica jak to jest ze wczesniej bylo cos 
+
+takiego a potem nagle stwierdzili ze jednak nie nie mam poejcia
