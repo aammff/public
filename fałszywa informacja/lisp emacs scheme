@@ -1,0 +1,77 @@
+lisp emacs scheme
+
+żeby nie było mało co tego miałem styczność używałem ale napiszę 
+
+lisp no bardzo wcześnie się pojawił i jakby jest jeden podstawowy problem z lispem to jest odśmiecarka po prostu i jakby kwestia tych popularnych lispów bo wiadomo że są te lispy bardziej tzn mnie popualrne wersji wersje lispów bez 
+
+odśmiecarki i to nie jest tak że się nie da więc nie da się w czambuł pytajnik jakby potępiać jakby z całego języka czy coś  natomiast używanie stosowanie tych środowisk z odśmiecarkami no to jest słąbe i niebezpieczne po prostu i jest błędem
+
+
+natomiast w lispie bardzo bardzo bardzo dużo rżónych różnyc hrzeczy powstało zostało napisanych tak tam si tam można przypuszczać że praktycznie wyszskto co zo miało tzn prawodpobonei jak ktoś możan piszy przypuszczac ze jak ktos
+
+coś nowego pisze w lispie to juz to k wczesniej ktos napisal tylko ten co pisze to tego nie wie albo nie znalazl taka sytuacja dziwna tzn ja tak sobie mysle i to troche zniecheca to do pisania w lispe lispie czegokolwiek
+
+
+jest taki ni to edytor nit ni to system operacyjny emacs ktorey ktory tez jest w lispie jakims wariancie dialekcie napisanym i sa podobne nieco pi opoi opoi opinie ze tam jest jakby wszystko w tym emacsie ale tak samo tak m
+
+chyba nie iwme te odsmiecarki i to irytuje itd itp   takze to jest taka wlasnie kuriozalne a niekomfortowa sytuacja no ja  no mnie odrzuca jb bo sie przejechalem na tych odsmiecarkach straszliwie to jest tylko jakby kwestia odpowr 
+
+
+or odpornosci osobistej i jakby kwestia pecha szczescia czy kogos te osd do odsmiecarki bvardzi j czy mniej no zaatakuja oberwie od niech to jes sa bledy niestety w sofcie ktore maja opozniony zapli zaplon ale to niestety wywoluje niepozaane inteakcj
+
+
+inna kwestia taka ze jalb jakby lisp powstal wczee wczesniej niz teoria typow i stad to nie jest jezyk typowany a tak na dziendobry ewentualnie tam systemy typow mo no powstaly byc mozna pewno jakies sa ale tam nie jest to od razu od samego
+
+poczatku i jakby mnostwo softu tego typu jest bez nieotypowana i to jest taka specyfika   no ogolnie to duzo osob proramistow to jednak woli te systemy z typami to  do jakichstma zastosowan no 
+
+
+kwestia scheme scheme to jest jakby proba chyba napisania troche uporzadkowania jakby tez lisp ale jakby troche czy sporo mniej niz w lispie za to j tak jakby wiekszy porzadek  i tez jest a bardzo duzo tych implementacji roznych scheme
+
+tak jak lisp ale tam tez jest ten sam problem wiekszosc tych implementacji jest odsmiecarkowea      i to samo jest z systemami typow nie ot to nie jesa to on nie sa inherentnie od samoe poczatku ody otypowane jezyki no i to tez 
+
+
+natomiast te jezyki one maja te ceche homoikonicznosci czy jakostak ze ona jest jakby czyms no estetycznym czyli jakby jezyk jego skladnia definicja jakby o to na czym operuje jakby sie ladnie komponuje i jak jest tak jakby podobne tym samym
+
+czyli to sa jak w jakims sensie jezyki eleganckie
+
+
+taki scheme no nienajgorzy nienajgorszy jedy jezyk edukacyjny czy c zeby napisac jakis inny je no ale no ta odsmiecarka no to przeszkadza mentalnie
+
+
+natomiast co i w tych lispach scheme no to sa na sto procent implementacje prologow i to pewno wiele kilka   i systemow typow tez   ale sa po prostu jezyki od razu jakby prologowe albo od razu otypowane a nawet jedno i drugie na raz
+
+
+aha kwestia makr w lisp scheme no to jakby  kew kwestia ta troche znika w np haskellu ktory jest lazy i to do czego sie uzywa tam makr cz w scheme to to jest niepotrzebne jak tzn przez to ze haskell w alo calosci jest lazy to jest 
+
+prostszy po prostu i tam nie ma potrzebny kombinowania z makrami tak jak w scheme lisp moze to jest zbyt uproszczone co pisze ale troche cos w tym jest 
+
+
+czemu oni od razy tych jezykow lazy nie robili no bo po prostu nie bylo teorii matematycznej odpowiednio jakby rozwienitej nikt nie wpadl na to jak to robic tzn te jezyki strict no to jakby latwiej napisac zapi zaimplementowac zeby
+
+jako tako dzialalo a te jezyki lazy no to ich napisanie wymaga jakiejs wiek wiekszego zaplecza et teoretycznego   no asssembler jest strict zeby nie bylo czy tam kod maszynowy chyba ze rozwazamy maszyny asynchroniczne mikroprocesory bo i takie sa
+
+
+tzn mieszm mieszam ale jakby no po pomiesalem troc trudno
+
+no ogolnie jakby sytuacja z tymi jezykami jest taka ze mniej wiecej jakby wiadomo czy mam jakies w czy wydaje mi sie ktore to cechy jezyka sa pod pozadane dobre i onie one sie pojawiaja w roznych jezykach tyle ze jakby ciezko znalzlezc
+
+albo obecnie nie ma tkaiego jezyka p ktory by te wszystkie cechy laczyl zawsze tam jakis szkopool jest szkolpu szkopul nie iwme no typowo to tam odsmiecarka jest jeak jjak jeszy jezyk jest fajny to osmiecadrkae tak m tam wlozoa 
+
+
+ani ale nie zawsze  no roznie  w kazdym razie sie r troche mozna znieschecic do tego ze toe te popularne jezyki sa ulomne po prostu a
+
+
+w kazdym razie te scheme lispy to jest kawal bardzo duzo  duzo duze zaplecze bardo  bardzo duzo softu tam t powstalo 
+
+i jakby nie mam ochoty na jakies swiete wojny jezykowe czy cos takiego  historia byla jaka byla no ewidetnie systemy typow sie przydaja a odsmieark sa do kitu nic sie nie poradzi
+
+
+
+bardzo dziwna jest natomiast ch historia rozprzestrzeniania sie glupiego durnego pomyslu o nazwie odsmiecarka jak ktos chce stui studiowac glupote ludzka to tu ma obszar pole do popoi popisu
+
+to jest jakby taki dziwny typ glupoty ze k ludzie cos robiea nie wiaodmo ile lat i jakby trudno im zalapac albo odciagnac od tego ze to jest glupie i jakby nie jest tak ze tam  tzn to jakos chyp chyba spontanicznie taki blad sie pojawil kto wiwe
+
+nie wiem
+
+
+no bo to jest troche tak ze jezyk ktorego sie uzywa wplywa na myslenie no i jakby tak wplywa ze sie potem niezauwaza i akurat wplyw tej odsmic  odsmiecarki jest bardzo niekorzystny to jest jakas l pulapka
