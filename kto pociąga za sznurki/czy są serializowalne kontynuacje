@@ -1,0 +1,32 @@
+czy są serializowalne kontynuacje
+
+to jest a zagadnienie do sprawdzenia niezłe ilekroć pojawia się nowa nowy język programowania
+
+ostatnio su szukałem czy jakiś prolog ma serializowalne kontynuacje no i chyba wychodzi że tak średnio
+
+
+czy to jest do czegoś potrzebne nie wiem zależy
+
+
+ostatnio trafiłemn na reset shift i throw i catch i jest to opis fragment jeden z najbardziej satysfakconujaco skomplikowanych tj dokumentacja do tego jest 
+
+  ekstremalnie niejasna i w sposob za satysfakcjonujacy tj nie mam s pojecia jak to tak naprawde precyzyjnie i technicznie dziala a jednak jest to zaimplementowane 
+
+tj w ron roznych implementacjach prologa jedne maja inne nie maja
+
+
+tj mysle ze to jest ultraprzebiegle ze takie mechi mechanizmy klauzyle predykaty costam costam sa w prologu i jakos to ma znaczenie okreslone przy jednoczesnym
+
+unifikowaniu i backtrackingu no niesamowite to ciezko zrozumiec jak dziala w jezyku funkcyjynym a co dopieru dopiero w prologu takze naprawde  eekstra trudno chyba cos
+
+bardziej skomplikowanego wymyslic naprawde nie rozumiec z nie rozumiem zadnego fragmentu kodu z czyms takim a powinienem i to jest dosc satysfakcjonujace
+
+
+duzo radosci sprawilo mi wymyslenie zapytania ktore wykoleja llmy tj n zle zla odpowiedz podaja lub celowo bledna tj pytanie o implementacje niezaglodzalnej kolejki priorytetowej
+
+jesli na tak proste pytanie o syreny sie pojawily za oknem llm nie podaje poprawnego kodu to nie wiem jak ludzie moga wierzyc w jakies inne kody i odpowiedzi chyba ze sa dolaczone dowody
+
+poprawnosci
+
+
+swoja droga jesli tkaie zapytanie byloby odpowiadane poprawnie to przypuszczalnie bylby raj na ziemi
