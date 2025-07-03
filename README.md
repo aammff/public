@@ -56,3 +56,32 @@ https://github.com/aammff/temp4  companion repository
 https://github.com/aammff/nowe-repo  companion repository
 https://github.com/aammff/t7  companion repository
 https://github.com/aammff?tab=repositories repo list  most of the repos are abandoned works in progress that should probably be never shared however lots of very bad things have happened 
+https://github.com/aammff/temp5
+https://github.com/aammff/public
+https://github.com/aammff/bok
+https://github.com/aammff/rozne
+https://github.com/aammff/gard-o
+https://github.com/aammff/blinker
+https://github.com/aammff/fragmenty-jelita
+https://github.com/aammff/turn-signal
+https://github.com/aammff/turn-signals
+https://github.com/aammff/apple
+https://github.com/aammff/side
+https://github.com/aammff/P300
+https://github.com/aammff/zakaz-destructive-update
+https://github.com/aammff/zakaz-to-destructive-update
+https://github.com/aammff/zakaz-to-jest-destructive-update
+https://github.com/aammff/nowe-repo
+https://github.com/aammff/kierunkowskaz
+https://github.com/aammff/kierunkowskazy
+https://github.com/aammff/meta
+https://github.com/aammff/flip
+https://github.com/aammff/psychoanalysis
+https://github.com/aammff/notes
+https://github.com/aammff/errors
+https://github.com/aammff/ldmud
+https://github.com/aammff/MS-DOS
+https://github.com/aammff/collatzProof_DivSeq
+https://github.com/aammff/divseq2
+https://github.com/aammff/lacan-racket
+https://github.com/aammff/lacan
