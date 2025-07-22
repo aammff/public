@@ -1,6 +1,6 @@
 please extend following computer science list "loseless compression, stable sort, optimal substructure, prolog language"
 
-CS Concepts Expansion
+CS Concepts Expansion [chatgpt]
 
 Sure! Here's an extended list of foundational and notable concepts in computer science that continue your original theme:
 
