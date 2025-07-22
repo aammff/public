@@ -1,5 +1,7 @@
 please extend following computer science list "loseless compression, stable sort, optimal substructure, prolog language"
 
+Extended Computer Science Concepts List
+
 Here’s an extended list of computer science concepts, building on your original terms (**lossless compression, stable sort, optimal substructure, Prolog language**). The additions cover a variety of subfields (algorithms, data structures, languages, theory, etc.):
 
 ### **Algorithms & Data Structures**  
